@@ -2,7 +2,7 @@ category | XML endpoint | ESI parity
 -------- | ------------ | ----------
 char | | 
 . | AccountBalance | https://esi.tech.ccp.is/latest/#!/Wallet/get_characters_character_id_wallets 
-. | AssetList | 
+. | AssetList | https://esi.tech.ccp.is/latest/#!/Assets/get_characters_character_id_assets
 . | Blueprints | 
 . | Bookmarks | https://esi.tech.ccp.is/latest/#!/Bookmarks/get_characters_character_id_bookmarks 
 . | CalendarEventAttendees | 
