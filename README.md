@@ -5,7 +5,6 @@ For public issue tracking. Bring out your dead.
 https://esi.tech.ccp.is/
 
 
-
 ESI is:
 
 
@@ -18,3 +17,9 @@ Github User | CCP Dev Name
 [HakShak](https://github.com/hakshak) | CCP Chimichanga
 [nielsene54](https://github.com/nielsene54) | CCP Zoetrope
 [tsuthers-ccpgames](https://github.com/tsuthers-ccpgames) | CCP Bartender
+
+
+## Questions?
+
+
+Join us on tweetfleet slack, in the #esi channel. If you're not on tweetfleet slack yet, [get an invite here](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/).
