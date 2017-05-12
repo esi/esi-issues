@@ -15,7 +15,7 @@ Github User | CCP Dev Name
 [ccpStuart](https://github.com/ccpStuart) | CCP Mephysto
 [gitAskur](https://github.com/gitAskur) | CCP PrismX
 [HakShak](https://github.com/hakshak) | CCP Chimichanga
-[nielsene54](https://github.com/nielsene54) | CCP Zoetrope
+[ccp-zoetrope](https://github.com/ccp-zoetrope) | CCP Zoetrope
 [tsuthers-ccpgames](https://github.com/tsuthers-ccpgames) | CCP Bartender
 
 
