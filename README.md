@@ -22,4 +22,4 @@ Github User | CCP Dev Name
 ## Questions?
 
 
-Join us on tweetfleet slack, in the #esi channel. If you're not on tweetfleet slack yet, [get an invite here](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/).
+Join us on Tweetfleet Slack, in the #esi channel. If you're not on Tweetfleet Slack yet, [get an invite here](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/).
