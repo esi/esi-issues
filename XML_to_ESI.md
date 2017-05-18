@@ -77,7 +77,7 @@ eve | |
 . | AllianceList | https://esi.tech.ccp.is/latest/#!/Alliance/get_alliances
 . | CertificateTree |
 . | CharacterAffiliation | https://esi.tech.ccp.is/latest/#!/Character/post_characters_affiliation
-. | CharacterID | Not needed?
+. | CharacterID | https://esi.tech.ccp.is/latest/#!/Search/get_search with `strict=true` and `categories=["character"]`
 . | CharacterInfo | https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id <br/> https://esi.tech.ccp.is/latest/#!/Wallet/get_characters_character_id_wallets <br/> https://esi.tech.ccp.is/latest/#!/Skills/get_characters_character_id_skills <br/> https://esi.tech.ccp.is/latest/#!/Skills/get_characters_character_id_skillqueue <br/> https://esi.tech.ccp.is/latest/#!/Location/get_characters_character_id_ship <br/> https://esi.tech.ccp.is/latest/#!/Location/get_characters_character_id_location <br/> https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_corporationhistory <br/>
 . | CharacterName | https://esi.tech.ccp.is/latest/#!/Universe/post_universe_names
 . | ConquerableStationList | https://esi.tech.ccp.is/latest/#!/Sovereignty/get_sovereignty_structures <br/> -> filter outpost types <br/> -> https://esi.tech.ccp.is/latest/#!/Universe/get_universe_stations_station_id
