@@ -4,11 +4,9 @@ For public issue tracking. Bring out your dead.
 
 https://esi.tech.ccp.is/
 
+Members of the ESI team are:
 
-ESI is:
-
-
-Github User | CCP Dev Name | Tweetfleet Slack
+GitHub User | CCP Dev Name | Tweetfleet Slack
 ------------|--------------|-----------------
 [a-tal](https://github.com/a-tal) | CCP SnowedIn | [@ccp_snowedin](https://tweetfleet.slack.com/messages/@ccp_snowedin/)
 [aquarhead](https://github.com/aquarhead) | CCP AquarHEAD | [@ccp_aquarhead](https://tweetfleet.slack.com/messages/@ccp_aquarhead/)
@@ -20,6 +18,5 @@ Github User | CCP Dev Name | Tweetfleet Slack
 
 
 ## Questions?
-
 
 Join us on Tweetfleet Slack, in the #esi channel. If you're not on Tweetfleet Slack yet, [get an invite here](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/).
