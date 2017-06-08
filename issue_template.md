@@ -1,3 +1,5 @@
+# ATTENTION : DON'T SUBMIT SSO RELATED ISSUES HERE
+
 # Bug
 
 ### Request
