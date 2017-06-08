@@ -1,6 +1,8 @@
 # esi-issues
 
-For public issue tracking. Bring out your dead.
+For public ESI issue tracking only. Bring out your dead.
+
+**Please only submit issues related to ESI (no SSO/CREST/XML).**
 
 https://esi.tech.ccp.is/
 
