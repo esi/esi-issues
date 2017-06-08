@@ -2,7 +2,7 @@
 
 For public ESI issue tracking only. Bring out your dead.
 
-**Please do not submit issues not related to ESI (SSO/CREST/XML).**
+**Please only submit issues related to ESI (no SSO/CREST/XML).**
 
 https://esi.tech.ccp.is/
 
