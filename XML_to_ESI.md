@@ -11,9 +11,9 @@ char | |
 . | Clones |
 . | ContactList | https://esi.tech.ccp.is/latest/#!/Contacts/get_characters_character_id_contacts
 . | ContactNotifications |
-. | ContractBids |
-. | ContractItems |
-. | Contracts |
+. | ContractBids | https://esi.tech.ccp.is/latest/#!/Contracts/get_characters_character_id_contracts_contract_id_bids
+. | ContractItems | https://esi.tech.ccp.is/latest/#!/Contracts/get_characters_character_id_contracts_contract_id_items
+. | Contracts | https://esi.tech.ccp.is/latest/#!/Contracts/get_characters_character_id_contracts
 . | FacWarStats |
 . | IndustryJobs | https://esi.tech.ccp.is/latest/#!/Industry/get_characters_character_id_industry_jobs
 . | IndustryJobsHistory | ^ `included_completed=true`
