@@ -37,7 +37,7 @@ char | |
 . | Skills | https://esi.tech.ccp.is/latest/#!/Skills/get_characters_character_id_skills
 . | Standings | https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_standings
 . | UpcomingCalendarEvents |
-. | WalletJournal |
+. | WalletJournal | https://esi.tech.ccp.is/latest/#!/Wallet/get_characters_character_id_wallets_journal
 . | WalletTransactions |
 corp | |
 . | AccountBalance |
