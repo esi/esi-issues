@@ -1,6 +1,6 @@
 category | XML endpoint | ESI parity
 -------- | ------------ | ----------
-char | |
+char | 38 | 27
 . | AccountBalance | https://esi.tech.ccp.is/latest/#!/Wallet/get_characters_character_id_wallets
 . | AssetList | https://esi.tech.ccp.is/latest/#!/Assets/get_characters_character_id_assets
 . | Blueprints | https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_blueprints
@@ -39,7 +39,7 @@ char | |
 . | UpcomingCalendarEvents |
 . | WalletJournal |
 . | WalletTransactions |
-corp | |
+corp | 33 | 0
 . | AccountBalance |
 . | AssetList |
 . | Blueprints |
@@ -73,7 +73,7 @@ corp | |
 . | Titles |
 . | WalletJournal |
 . | WalletTransactions |
-eve | |
+eve | 14 | 11
 . | AllianceList | https://esi.tech.ccp.is/latest/#!/Alliance/get_alliances
 . | CertificateTree |
 . | CharacterAffiliation | https://esi.tech.ccp.is/latest/#!/Character/post_characters_affiliation
@@ -85,10 +85,10 @@ eve | |
 . | FacWarStats |
 . | FacWarTopStats |
 . | OwnerID | Not needed?
-. | RefTypes |
-. | SkillTree | https://esi.tech.ccp.is/latest/#!/Universe/get_universe_categories_category_id (category_id=16) <br/> -> https://esi.tech.ccp.is/latest/#!/Universe/get_universe_groups_group_id <br/> .> https://esi.tech.ccp.is/latest/#!/Universe/get_universe_types_type_id <br/> -> https://esi.tech.ccp.is/latest/#!/Dogma/get_dogma_attributes_attribute_id
+. | RefTypes | All expanded in relevant endpoints
+. | SkillTree | https://esi.tech.ccp.is/latest/#!/Universe/get_universe_categories_category_id (category_id=16) <br/> -> https://esi.tech.ccp.is/latest/#!/Universe/get_universe_groups_group_id <br/> -> https://esi.tech.ccp.is/latest/#!/Universe/get_universe_types_type_id <br/> -> https://esi.tech.ccp.is/latest/#!/Dogma/get_dogma_attributes_attribute_id
 . | TypeName | https://esi.tech.ccp.is/latest/#!/Universe/get_universe_types_type_id
-map | |
+map | 4 | 3
 . | FacWarSystems |
 . | Jumps | https://esi.tech.ccp.is/latest/#!/Universe/get_universe_system_jumps
 . | Kills | https://esi.tech.ccp.is/latest/#!/Universe/get_universe_system_kills
