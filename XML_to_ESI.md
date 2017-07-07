@@ -1,12 +1,12 @@
 category | XML endpoint | ESI parity
 -------- | ------------ | ----------
 char | 38 | 27
-. | AccountBalance | https://esi.tech.ccp.is/latest/#!/Wallet/get_characters_character_id_wallets
+. | AccountBalance | https://esi.tech.ccp.is/latest/#!/Wallet/get_characters_character_id_wallet
 . | AssetList | https://esi.tech.ccp.is/latest/#!/Assets/get_characters_character_id_assets
 . | Blueprints | https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_blueprints
 . | Bookmarks | https://esi.tech.ccp.is/latest/#!/Bookmarks/get_characters_character_id_bookmarks
 . | CalendarEventAttendees |
-. | CharacterSheet |
+. | CharacterSheet | **WIP** <br/> https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id <br/> https://esi.tech.ccp.is/latest/#!/Clones/get_characters_character_id_clones <br/> https://esi.tech.ccp.is/dev/#!/Skills/get_characters_character_id_skills <br/> https://esi.tech.ccp.is/latest/#!/Skills/get_characters_character_id_attributes
 . | ChatChannels | https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_chat_channels
 . | Clones |
 . | ContactList | https://esi.tech.ccp.is/latest/#!/Contacts/get_characters_character_id_contacts
@@ -37,8 +37,8 @@ char | 38 | 27
 . | Skills | https://esi.tech.ccp.is/latest/#!/Skills/get_characters_character_id_skills
 . | Standings | https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_standings
 . | UpcomingCalendarEvents |
-. | WalletJournal |
-. | WalletTransactions |
+. | WalletJournal | https://esi.tech.ccp.is/dev/#!/Wallet/get_characters_character_id_wallet_journal
+. | WalletTransactions | https://esi.tech.ccp.is/latest/#!/Wallet/get_characters_character_id_wallet_transactions
 corp | 33 | 0
 . | AccountBalance |
 . | AssetList |
@@ -55,7 +55,7 @@ corp | 33 | 0
 . | Facilities |
 . | IndustryJobs |
 . | IndustryJobsHistory |
-. | KillLog |
+. | KillLog | Deprecated in XML
 . | KillMails |
 . | Locations |
 . | MarketOrders |
@@ -73,9 +73,9 @@ corp | 33 | 0
 . | Titles |
 . | WalletJournal |
 . | WalletTransactions |
-eve | 14 | 11
+eve | 14 | 12
 . | AllianceList | https://esi.tech.ccp.is/latest/#!/Alliance/get_alliances
-. | CertificateTree |
+. | CertificateTree | Deprecated
 . | CharacterAffiliation | https://esi.tech.ccp.is/latest/#!/Character/post_characters_affiliation
 . | CharacterID | https://esi.tech.ccp.is/latest/#!/Search/get_search with `strict=true` and `categories=["character"]`
 . | CharacterInfo | https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id <br/> https://esi.tech.ccp.is/latest/#!/Wallet/get_characters_character_id_wallets <br/> https://esi.tech.ccp.is/latest/#!/Skills/get_characters_character_id_skills <br/> https://esi.tech.ccp.is/latest/#!/Skills/get_characters_character_id_skillqueue <br/> https://esi.tech.ccp.is/latest/#!/Location/get_characters_character_id_ship <br/> https://esi.tech.ccp.is/latest/#!/Location/get_characters_character_id_location <br/> https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_corporationhistory <br/>
