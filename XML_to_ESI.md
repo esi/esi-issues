@@ -82,7 +82,7 @@ eve | 14 | 12
 . | CharacterName | https://esi.tech.ccp.is/latest/#!/Universe/post_universe_names
 . | ConquerableStationList | https://esi.tech.ccp.is/latest/#!/Sovereignty/get_sovereignty_structures <br/> -> filter outpost types <br/> -> https://esi.tech.ccp.is/latest/#!/Universe/get_universe_stations_station_id
 . | ErrorList | Not needed?
-. | FacWarStats |
+. | FacWarStats | https://esi.tech.ccp.is/latest/#!/Faction32Warfare/get_fw_wars <br /> https://esi.tech.ccp.is/latest/#!/Faction32Warfare/get_fw_stats
 . | FacWarTopStats |
 . | OwnerID | Not needed?
 . | RefTypes | All expanded in relevant endpoints
