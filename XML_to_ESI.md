@@ -6,9 +6,9 @@ char | 38 | 27
 . | Blueprints | https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_blueprints
 . | Bookmarks | https://esi.tech.ccp.is/latest/#!/Bookmarks/get_characters_character_id_bookmarks
 . | CalendarEventAttendees |
-. | CharacterSheet | **WIP** <br/> https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id <br/> https://esi.tech.ccp.is/latest/#!/Clones/get_characters_character_id_clones <br/> https://esi.tech.ccp.is/dev/#!/Skills/get_characters_character_id_skills <br/> https://esi.tech.ccp.is/latest/#!/Skills/get_characters_character_id_attributes
+. | CharacterSheet | **WIP** (roles, titles, faction_id) <br/> https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id <br/> https://esi.tech.ccp.is/latest/#!/Clones/get_characters_character_id_clones <br/> https://esi.tech.ccp.is/dev/#!/Skills/get_characters_character_id_skills <br/> https://esi.tech.ccp.is/latest/#!/Skills/get_characters_character_id_attributes <br/> https://esi.tech.ccp.is/latest/#!/Clones/get_characters_character_id_implants <br/> https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_fatigue
 . | ChatChannels | https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_chat_channels
-. | Clones |
+. | Clones | https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id <br/> https://esi.tech.ccp.is/latest/#!/Skills/get_characters_character_id_attributes <br/> https://esi.tech.ccp.is/latest/#!/Clones/get_characters_character_id_clones <br/> https://esi.tech.ccp.is/latest/#!/Clones/get_characters_character_id_implants <br/> https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_fatigue
 . | ContactList | https://esi.tech.ccp.is/latest/#!/Contacts/get_characters_character_id_contacts
 . | ContactNotifications |
 . | ContractBids | https://esi.tech.ccp.is/latest/#!/Contracts/get_characters_character_id_contracts_contract_id_bids
@@ -82,7 +82,7 @@ eve | 14 | 12
 . | CharacterName | https://esi.tech.ccp.is/latest/#!/Universe/post_universe_names
 . | ConquerableStationList | https://esi.tech.ccp.is/latest/#!/Sovereignty/get_sovereignty_structures <br/> -> filter outpost types <br/> -> https://esi.tech.ccp.is/latest/#!/Universe/get_universe_stations_station_id
 . | ErrorList | Not needed?
-. | FacWarStats | https://esi.tech.ccp.is/latest/#!/Faction32Warfare/get_fw_wars <br /> https://esi.tech.ccp.is/latest/#!/Faction32Warfare/get_fw_stats
+. | FacWarStats | https://esi.tech.ccp.is/latest/#!/Faction32Warfare/get_fw_wars <br/> https://esi.tech.ccp.is/latest/#!/Faction32Warfare/get_fw_stats
 . | FacWarTopStats |
 . | OwnerID | Not needed?
 . | RefTypes | All expanded in relevant endpoints
