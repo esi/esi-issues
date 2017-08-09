@@ -1,6 +1,6 @@
 category | XML endpoint | ESI parity
 -------- | ------------ | ----------
-char | 38 | 27
+char | 38 | 30
 . | AccountBalance | https://esi.tech.ccp.is/latest/#!/Wallet/get_characters_character_id_wallet
 . | AssetList | https://esi.tech.ccp.is/latest/#!/Assets/get_characters_character_id_assets
 . | Blueprints | https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_blueprints
@@ -56,14 +56,14 @@ corp | 33 | 0
 . | IndustryJobs |
 . | IndustryJobsHistory |
 . | KillLog | Deprecated in XML
-. | KillMails |
+. | KillMails | staging
 . | Locations |
 . | MarketOrders |
 . | Medals |
 . | MemberMedals |
 . | MemberSecurity |
 . | MemberSecurityLog |
-. | MemberTracking |
+. | MemberTracking | staging
 . | OutpostList |
 . | OutpostServiceDetail |
 . | Shareholders |
@@ -73,7 +73,7 @@ corp | 33 | 0
 . | Titles |
 . | WalletJournal |
 . | WalletTransactions |
-eve | 14 | 12
+eve | 14 | 13
 . | AllianceList | https://esi.tech.ccp.is/latest/#!/Alliance/get_alliances
 . | CertificateTree | Deprecated
 . | CharacterAffiliation | https://esi.tech.ccp.is/latest/#!/Character/post_characters_affiliation
