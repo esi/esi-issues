@@ -74,7 +74,7 @@ corp | 33 | 0
 . | WalletJournal |
 . | WalletTransactions |
 eve | 14 | 13
-. | AllianceList | https://esi.tech.ccp.is/latest/#!/Alliance/get_alliances
+. | AllianceList | https://esi.tech.ccp.is/latest/#!/Alliance/get_alliances <br/> https://esi.tech.ccp.is/latest/#!/Alliance/get_alliances_alliance_id_corporations
 . | CertificateTree | Deprecated
 . | CharacterAffiliation | https://esi.tech.ccp.is/latest/#!/Character/post_characters_affiliation
 . | CharacterID | https://esi.tech.ccp.is/latest/#!/Search/get_search with `strict=true` and `categories=["character"]`
