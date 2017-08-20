@@ -6,6 +6,16 @@ For public ESI issue tracking only. Bring out your dead.
 
 https://esi.tech.ccp.is/
 
+[![New Issues](https://badge.waffle.io/ccpgames/esi-issues.svg?label=new&title=New)](http://waffle.io/ccpgames/esi-issues)
+[![Backlog](https://badge.waffle.io/ccpgames/esi-issues.svg?label=backlog&title=Backlog)](http://waffle.io/ccpgames/esi-issues)
+[![TODO](https://badge.waffle.io/ccpgames/esi-issues.svg?label=todo&title=TODO)](http://waffle.io/ccpgames/esi-issues)
+[![In Progress](https://badge.waffle.io/ccpgames/esi-issues.svg?label=in%20progress&title=In%20Progress)](http://waffle.io/ccpgames/esi-issues)
+[![Staging](https://badge.waffle.io/ccpgames/esi-issues.svg?label=staging&title=Staging)](http://waffle.io/ccpgames/esi-issues)
+[![Done](https://badge.waffle.io/ccpgames/esi-issues.svg?label=done&title=Done)](http://waffle.io/ccpgames/esi-issues)
+
+[![Throughput Graph](https://graphs.waffle.io/ccpgames/esi-issues/throughput.svg)](https://waffle.io/ccpgames/esi-issues/metrics/throughput)
+
+
 Members of the ESI team are:
 
 GitHub User | CCP Dev Name | Tweetfleet Slack
