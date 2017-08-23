@@ -83,13 +83,13 @@ eve | 14 | 13
 . | ConquerableStationList | https://esi.tech.ccp.is/latest/#!/Sovereignty/get_sovereignty_structures <br/> -> filter outpost types <br/> -> https://esi.tech.ccp.is/latest/#!/Universe/get_universe_stations_station_id
 . | ErrorList | Not needed?
 . | FacWarStats | https://esi.tech.ccp.is/latest/#!/Faction32Warfare/get_fw_wars <br/> https://esi.tech.ccp.is/latest/#!/Faction32Warfare/get_fw_stats
-. | FacWarTopStats |
+. | FacWarTopStats | https://esi.tech.ccp.is/latest/#!/Faction32Warfare/get_fw_leaderboards <br/> https://esi.tech.ccp.is/latest/#!/Faction32Warfare/get_fw_leaderboards_characters <br/> https://esi.tech.ccp.is/latest/#!/Faction32Warfare/get_fw_leaderboards_corporations
 . | OwnerID | Not needed?
 . | RefTypes | All expanded in relevant endpoints
 . | SkillTree | https://esi.tech.ccp.is/latest/#!/Universe/get_universe_categories_category_id (category_id=16) <br/> -> https://esi.tech.ccp.is/latest/#!/Universe/get_universe_groups_group_id <br/> -> https://esi.tech.ccp.is/latest/#!/Universe/get_universe_types_type_id <br/> -> https://esi.tech.ccp.is/latest/#!/Dogma/get_dogma_attributes_attribute_id
 . | TypeName | https://esi.tech.ccp.is/latest/#!/Universe/get_universe_types_type_id
 map | 4 | 3
-. | FacWarSystems |
+. | FacWarSystems | https://esi.tech.ccp.is/latest/#!/Faction32Warfare/get_fw_systems
 . | Jumps | https://esi.tech.ccp.is/latest/#!/Universe/get_universe_system_jumps
 . | Kills | https://esi.tech.ccp.is/latest/#!/Universe/get_universe_system_kills
 . | Sovereignty | https://esi.tech.ccp.is/latest/#!/Sovereignty/get_sovereignty_map
