@@ -4,6 +4,8 @@ title: XML to ESI Migration
 
 # XML to ESI Migration
 
+See also [CREST to ESI Migration](https://ccpgames.github.io/esi-issues/CREST_to_ESI)
+
 
 # Table of Contents
 
