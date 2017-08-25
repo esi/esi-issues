@@ -6,6 +6,11 @@ For public ESI issue tracking only. Bring out your dead.
 
 https://esi.tech.ccp.is/
 
+## Migration Guide
+
+### [CREST -> ESI](https://github.com/ccpgames/esi-issues/blob/master/CREST_to_ESI.md)
+### [XML -> ESI](https://github.com/ccpgames/esi-issues/blob/master/XML_to_ESI.md)
+
 [![New Issues](https://badge.waffle.io/ccpgames/esi-issues.svg?label=new&title=New)](http://waffle.io/ccpgames/esi-issues)
 [![Backlog](https://badge.waffle.io/ccpgames/esi-issues.svg?label=backlog&title=Backlog)](http://waffle.io/ccpgames/esi-issues)
 [![TODO](https://badge.waffle.io/ccpgames/esi-issues.svg?label=todo&title=TODO)](http://waffle.io/ccpgames/esi-issues)
@@ -21,7 +26,7 @@ GitHub User | CCP Dev Name | Tweetfleet Slack
 ------------|--------------|-----------------
 [a-tal](https://github.com/a-tal) | CCP SnowedIn | [@ccp_snowedin](https://tweetfleet.slack.com/messages/@ccp_snowedin/)
 [aquarhead](https://github.com/aquarhead) | CCP AquarHEAD | [@ccp_aquarhead](https://tweetfleet.slack.com/messages/@ccp_aquarhead/)
-[ccpStuart](https://github.com/ccpStuart) | CCP Mephysto | 
+[ccpStuart](https://github.com/ccpStuart) | CCP Mephysto |
 [ccp-zoetrope](https://github.com/ccp-zoetrope) | CCP Zoetrope | [@ccp_zoetrope](https://tweetfleet.slack.com/messages/@ccp_zoetrope/)
 [gitAskur](https://github.com/gitAskur) | CCP PrismX | [@prismx](https://tweetfleet.slack.com/messages/@prismx/)
 [HakShak](https://github.com/hakshak) | CCP Chimichanga | [@ccpchimichanga](https://tweetfleet.slack.com/messages/@ccpchimichanga/)
