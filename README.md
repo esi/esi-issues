@@ -6,10 +6,15 @@ For public ESI issue tracking only. Bring out your dead.
 
 https://esi.tech.ccp.is/
 
+
 ## Migration Guide
 
-### [CREST -> ESI](https://github.com/ccpgames/esi-issues/blob/master/CREST_to_ESI.md)
-### [XML -> ESI](https://github.com/ccpgames/esi-issues/blob/master/XML_to_ESI.md)
+### [CREST -> ESI](https://ccpgames.github.io/esi-issues/CREST_to_ESI)
+
+### [XML -> ESI](https://ccpgames.github.io/esi-issues/XML_to_ESI)
+
+
+## Issue velocity
 
 [![New Issues](https://badge.waffle.io/ccpgames/esi-issues.svg?label=new&title=New)](http://waffle.io/ccpgames/esi-issues)
 [![Backlog](https://badge.waffle.io/ccpgames/esi-issues.svg?label=backlog&title=Backlog)](http://waffle.io/ccpgames/esi-issues)
@@ -20,7 +25,7 @@ https://esi.tech.ccp.is/
 [![Throughput Graph](https://graphs.waffle.io/ccpgames/esi-issues/throughput.svg)](https://waffle.io/ccpgames/esi-issues/metrics/throughput)
 
 
-Members of the ESI team are:
+## ESI Members
 
 GitHub User | CCP Dev Name | Tweetfleet Slack
 ------------|--------------|-----------------
