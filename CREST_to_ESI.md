@@ -175,6 +175,8 @@ Not needed?
 
 ### /graphicids/{graphicID:integerType}/
 
+[https://esi.tech.ccp.is/latest/#!/Universe/get_universe_graphics_graphic_id](https://esi.tech.ccp.is/latest/#!/Universe/get_universe_graphics_graphic_id)
+
 
 ## insurance
 
