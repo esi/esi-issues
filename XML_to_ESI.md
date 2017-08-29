@@ -126,7 +126,7 @@ See also [CREST to ESI Migration](https://ccpgames.github.io/esi-issues/CREST_to
 
 ### CharacterSheet
 
-**WIP** (roles, titles, faction_id)
+**WIP** (titles, faction_id)
 
 [https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id](https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id)
 
@@ -139,6 +139,8 @@ See also [CREST to ESI Migration](https://ccpgames.github.io/esi-issues/CREST_to
 [https://esi.tech.ccp.is/latest/#!/Clones/get_characters_character_id_implants](https://esi.tech.ccp.is/latest/#!/Clones/get_characters_character_id_implants)
 
 [https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_fatigue](https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_fatigue)
+
+[https://esi.tech.ccp.is/dev/#!/Character/get_characters_character_id_roles](https://esi.tech.ccp.is/dev/#!/Character/get_characters_character_id_roles)
 
 ### ChatChannels
 
