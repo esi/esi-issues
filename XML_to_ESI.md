@@ -164,6 +164,8 @@ See also [CREST to ESI Migration](https://ccpgames.github.io/esi-issues/CREST_to
 
 ### ContactNotifications
 
+[https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_notifications_contacts](https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_notifications_contacts)
+
 ### ContractBids
 
 [https://esi.tech.ccp.is/latest/#!/Contracts/get_characters_character_id_contracts_contract_id_bids](https://esi.tech.ccp.is/latest/#!/Contracts/get_characters_character_id_contracts_contract_id_bids)
