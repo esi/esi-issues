@@ -295,6 +295,12 @@ Not needed?
 
 ### CorporationSheet
 
+**WIP** (division names, member limit)
+
+[https://esi.tech.ccp.is/dev/?datasource=tranquility#!/Corporation/get_corporations_corporation_id](https://esi.tech.ccp.is/dev/?datasource=tranquility#!/Corporation/get_corporations_corporation_id)
+
+**Removed logos**
+
 ### CustomsOffices
 
 ### FacWarStats
@@ -311,7 +317,7 @@ Deprecated in XML
 
 ### KillMails
 
-in staging
+[https://esi.tech.ccp.is/latest/?datasource=tranquility#!/Killmails/get_corporations_corporation_id_killmails_recent](https://esi.tech.ccp.is/latest/?datasource=tranquility#!/Killmails/get_corporations_corporation_id_killmails_recent)
 
 ### Locations
 
@@ -345,7 +351,7 @@ in staging
 
 ### WalletJournal
 
-in staging
+[https://esi.tech.ccp.is/latest/?datasource=tranquility#!/Wallet/get_corporations_corporation_id_wallets_division_journal](https://esi.tech.ccp.is/latest/?datasource=tranquility#!/Wallet/get_corporations_corporation_id_wallets_division_journal)
 
 ### WalletTransactions
 
