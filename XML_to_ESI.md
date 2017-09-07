@@ -285,6 +285,8 @@ Not needed?
 
 ### ContactList
 
+[https://esi.tech.ccp.is/latest/#!/Contacts/get_corporations_corporation_id_contacts](https://esi.tech.ccp.is/latest/#!/Contacts/get_corporations_corporation_id_contacts)
+
 ### ContainerLog
 
 ### ContractBids
@@ -295,9 +297,11 @@ Not needed?
 
 ### CorporationSheet
 
-**WIP** (division names, member limit)
+[https://esi.tech.ccp.is/dev/#!/Corporation/get_corporations_corporation_id](https://esi.tech.ccp.is/dev/#!/Corporation/get_corporations_corporation_id)
 
-[https://esi.tech.ccp.is/dev/?datasource=tranquility#!/Corporation/get_corporations_corporation_id](https://esi.tech.ccp.is/dev/?datasource=tranquility#!/Corporation/get_corporations_corporation_id)
+[https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_divisions](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_divisions)
+
+[https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_members_limit](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_members_limit)
 
 **Removed logos**
 
@@ -317,7 +321,7 @@ Deprecated in XML
 
 ### KillMails
 
-[https://esi.tech.ccp.is/latest/?datasource=tranquility#!/Killmails/get_corporations_corporation_id_killmails_recent](https://esi.tech.ccp.is/latest/?datasource=tranquility#!/Killmails/get_corporations_corporation_id_killmails_recent)
+[https://esi.tech.ccp.is/latest/#!/Killmails/get_corporations_corporation_id_killmails_recent](https://esi.tech.ccp.is/latest/#!/Killmails/get_corporations_corporation_id_killmails_recent)
 
 ### Locations
 
@@ -333,7 +337,7 @@ Deprecated in XML
 
 ### MemberTracking
 
-[https://esi.tech.ccp.is/latest/?datasource=tranquility#!/Corporation/get_corporations_corporation_id_membertracking](https://esi.tech.ccp.is/latest/?datasource=tranquility#!/Corporation/get_corporations_corporation_id_membertracking)
+[https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_membertracking](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_membertracking)
 
 ### OutpostList
 
@@ -351,7 +355,7 @@ Deprecated in XML
 
 ### WalletJournal
 
-[https://esi.tech.ccp.is/latest/?datasource=tranquility#!/Wallet/get_corporations_corporation_id_wallets_division_journal](https://esi.tech.ccp.is/latest/?datasource=tranquility#!/Wallet/get_corporations_corporation_id_wallets_division_journal)
+[https://esi.tech.ccp.is/latest/#!/Wallet/get_corporations_corporation_id_wallets_division_journal](https://esi.tech.ccp.is/latest/#!/Wallet/get_corporations_corporation_id_wallets_division_journal)
 
 ### WalletTransactions
 
