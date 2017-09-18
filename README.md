@@ -2,9 +2,11 @@
 
 For public ESI issue tracking only. Bring out your dead.
 
-**Please only submit issues related to ESI (not SSO/CREST/XML).**
-
 https://esi.tech.ccp.is/
+
+**Please only submit issues related to ESI (not CREST or XMLAPI).**
+
+**[Click here for SSO issues](https://github.com/ccpgames/sso-issues/issues)**
 
 
 ## Migration Guide
