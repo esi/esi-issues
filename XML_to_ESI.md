@@ -264,6 +264,8 @@ Not needed?
 
 ### UpcomingCalendarEvents
 
+[https://esi.tech.ccp.is/latest/#!/Calendar/get_characters_character_id_calendar](https://esi.tech.ccp.is/latest/#!/Calendar/get_characters_character_id_calendar)
+
 ### WalletJournal
 
 [https://esi.tech.ccp.is/dev/#!/Wallet/get_characters_character_id_wallet_journal](https://esi.tech.ccp.is/dev/#!/Wallet/get_characters_character_id_wallet_journal)
