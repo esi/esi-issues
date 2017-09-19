@@ -124,6 +124,8 @@ See also [CREST to ESI Migration](https://ccpgames.github.io/esi-issues/CREST_to
 
 ### CalendarEventAttendees
 
+[https://esi.tech.ccp.is/latest/#!/Calendar/get_characters_character_id_calendar_event_id_attendees](https://esi.tech.ccp.is/latest/#!/Calendar/get_characters_character_id_calendar_event_id_attendees)
+
 ### CharacterSheet
 
 **WIP** (titles, faction_id)
