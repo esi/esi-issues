@@ -284,6 +284,7 @@ Not needed?
 ### AssetList
 
 ### Blueprints
+[https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_blueprints](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_blueprints)
 
 ### Bookmarks
 
