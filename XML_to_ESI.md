@@ -287,6 +287,8 @@ Not needed?
 [https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_blueprints](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_blueprints)
 
 ### Bookmarks
+[https://esi.tech.ccp.is/latest/#!/Bookmarks/get_corporations_corporation_id_bookmarks](https://esi.tech.ccp.is/latest/#!/Bookmarks/get_corporations_corporation_id_bookmarks)
+[https://esi.tech.ccp.is/latest/#!/Bookmarks/get_corporations_corporation_id_bookmarks_folders](https://esi.tech.ccp.is/latest/#!/Bookmarks/get_corporations_corporation_id_bookmarks_folders)
 
 ### ContactList
 
