@@ -283,6 +283,8 @@ Not needed?
 
 ### AssetList
 
+[https://esi.tech.ccp.is/latest/#!/Assets/get_corporations_corporation_id_assets](https://esi.tech.ccp.is/latest/#!/Assets/get_corporations_corporation_id_assets)
+
 ### Blueprints
 [https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_blueprints](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_blueprints)
 
@@ -298,9 +300,15 @@ Not needed?
 
 ### ContractBids
 
+[https://esi.tech.ccp.is/latest/#!/Contracts/get_corporations_corporation_id_contracts_contract_id_bids](https://esi.tech.ccp.is/latest/#!/Contracts/get_corporations_corporation_id_contracts_contract_id_bids)
+
 ### ContractItems
 
+[https://esi.tech.ccp.is/latest/#!/Contracts/get_corporations_corporation_id_contracts_contract_id_items](https://esi.tech.ccp.is/latest/#!/Contracts/get_corporations_corporation_id_contracts_contract_id_items)
+
 ### Contracts
+
+[https://esi.tech.ccp.is/latest/#!/Contracts/get_corporations_corporation_id_contracts](https://esi.tech.ccp.is/latest/#!/Contracts/get_corporations_corporation_id_contracts)
 
 ### CorporationSheet
 
@@ -320,7 +328,11 @@ Not needed?
 
 ### IndustryJobs
 
+[https://esi.tech.ccp.is/latest/#!/Industry/get_corporations_corporation_id_industry_jobs](https://esi.tech.ccp.is/latest/#!/Industry/get_corporations_corporation_id_industry_jobs)
+
 ### IndustryJobsHistory
+
+[https://esi.tech.ccp.is/latest/#!/Industry/get_corporations_corporation_id_industry_jobs](https://esi.tech.ccp.is/latest/#!/Industry/get_corporations_corporation_id_industry_jobs) with `include_completed=true`
 
 ### KillLog
 
@@ -332,7 +344,13 @@ Deprecated in XML
 
 ### Locations
 
+[https://esi.tech.ccp.is/latest/#!/Assets/post_corporations_corporation_id_assets_names](https://esi.tech.ccp.is/latest/#!/Assets/post_corporations_corporation_id_assets_names)
+
+[https://esi.tech.ccp.is/latest/#!/Assets/post_corporations_corporation_id_assets_locations](https://esi.tech.ccp.is/latest/#!/Assets/post_corporations_corporation_id_assets_locations)
+
 ### MarketOrders
+
+[https://esi.tech.ccp.is/latest/#!/Market/get_corporations_corporation_id_orders](https://esi.tech.ccp.is/latest/#!/Market/get_corporations_corporation_id_orders)
 
 ### Medals
 
@@ -354,6 +372,8 @@ Deprecated in XML
 
 ### Standings
 
+[https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_standings](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_standings)
+
 ### StarbaseDetail
 
 ### StarbaseList
@@ -365,6 +385,8 @@ Deprecated in XML
 [https://esi.tech.ccp.is/latest/#!/Wallet/get_corporations_corporation_id_wallets_division_journal](https://esi.tech.ccp.is/latest/#!/Wallet/get_corporations_corporation_id_wallets_division_journal)
 
 ### WalletTransactions
+
+[https://esi.tech.ccp.is/latest/#!/Wallet/get_corporations_corporation_id_wallets_division_transactions](https://esi.tech.ccp.is/latest/#!/Wallet/get_corporations_corporation_id_wallets_division_transactions)
 
 
 ## eve
