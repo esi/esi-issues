@@ -298,6 +298,8 @@ Not needed?
 
 ### ContainerLog
 
+[https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_containers_logs](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_containers_logs)
+
 ### ContractBids
 
 [https://esi.tech.ccp.is/latest/#!/Contracts/get_corporations_corporation_id_contracts_contract_id_bids](https://esi.tech.ccp.is/latest/#!/Contracts/get_corporations_corporation_id_contracts_contract_id_bids)
