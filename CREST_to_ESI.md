@@ -46,8 +46,6 @@ See also [XML to ESI Migration](https://ccpgames.github.io/esi-issues/XML_to_ESI
     * [/characters/\{characterID:characterIdType\}/loyaltypoints/](#characterscharacteridcharacteridtypeloyaltypoints)
   * [opportunities](#opportunities)
     * [/characters/\{characterID:characterIdType\}/opportunities/](#characterscharacteridcharacteridtypeopportunities)
-  * [ship](#ship)
-    * [/characters/\{characterID:characterIdType\}/ship/](#characterscharacteridcharacteridtypeship)
   * [ui](#ui)
     * [/characters/\{characterID:characterIdType\}/ui/openwindow/contract/](#characterscharacteridcharacteridtypeuiopenwindowcontract)
     * [/characters/\{characterID:characterIdType\}/ui/openwindow/marketdetails/](#characterscharacteridcharacteridtypeuiopenwindowmarketdetails)
@@ -282,14 +280,6 @@ Not needed?
 ### /characters/{characterID:characterIdType}/opportunities/
 
 [https://esi.tech.ccp.is/latest/#!/Opportunities/get_characters_character_id_opportunities](https://esi.tech.ccp.is/latest/#!/Opportunities/get_characters_character_id_opportunities)
-
-
-## ship
-
-### /characters/{characterID:characterIdType}/ship/
-
-[https://esi.tech.ccp.is/latest/#!/Location/get_characters_character_id_ship](https://esi.tech.ccp.is/latest/#!/Location/get_characters_character_id_ship)
-
 
 ## ui
 
