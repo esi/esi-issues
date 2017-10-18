@@ -202,6 +202,10 @@ Deprecated in XML
 
 ### Locations
 
+[https://esi.tech.ccp.is/latest/#!/Assets/post_characters_character_id_assets_locations](https://esi.tech.ccp.is/latest/#!/Assets/post_characters_character_id_assets_locations)
+
+[https://esi.tech.ccp.is/latest/#!/Assets/post_characters_character_id_assets_names](https://esi.tech.ccp.is/latest/#!/Assets/post_characters_character_id_assets_names)
+
 ### MailBodies
 
 [https://esi.tech.ccp.is/latest/#!/Mail/get_characters_character_id_mail_mail_id](https://esi.tech.ccp.is/latest/#!/Mail/get_characters_character_id_mail_mail_id)
@@ -224,7 +228,13 @@ Deprecated in XML
 
 ### NotificationTexts
 
+Notifications and NotificationTexts were rolled into one endpoint:
+[https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_notifications](https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_notifications)
+
 ### Notifications
+
+Notifications and NotificationTexts were rolled into one endpoint:
+[https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_notifications](https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_notifications)
 
 ### PlanetaryColonies
 
@@ -372,6 +382,8 @@ Deprecated in XML
 
 ### Shareholders
 
+[https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_shareholders](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_shareholders)
+
 ### Standings
 
 [https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_standings](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_standings)
@@ -381,6 +393,8 @@ Deprecated in XML
 ### StarbaseList
 
 ### Titles
+
+[https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_titles](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_titles)
 
 ### WalletJournal
 
