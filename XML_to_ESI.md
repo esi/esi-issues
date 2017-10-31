@@ -128,8 +128,6 @@ See also [CREST to ESI Migration](https://ccpgames.github.io/esi-issues/CREST_to
 
 ### CharacterSheet
 
-**WIP** (titles, faction_id)
-
 [https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id](https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id)
 
 [https://esi.tech.ccp.is/latest/#!/Clones/get_characters_character_id_clones](https://esi.tech.ccp.is/latest/#!/Clones/get_characters_character_id_clones)
@@ -143,6 +141,8 @@ See also [CREST to ESI Migration](https://ccpgames.github.io/esi-issues/CREST_to
 [https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_fatigue](https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_fatigue)
 
 [https://esi.tech.ccp.is/dev/#!/Character/get_characters_character_id_roles](https://esi.tech.ccp.is/dev/#!/Character/get_characters_character_id_roles)
+
+[https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_titles](https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_titles)
 
 ### ChatChannels
 
@@ -163,6 +163,8 @@ See also [CREST to ESI Migration](https://ccpgames.github.io/esi-issues/CREST_to
 ### ContactList
 
 [https://esi.tech.ccp.is/latest/#!/Contacts/get_characters_character_id_contacts](https://esi.tech.ccp.is/latest/#!/Contacts/get_characters_character_id_contacts)
+
+[https://esi.tech.ccp.is/latest/#!/Contacts/get_alliances_alliance_id_contacts](https://esi.tech.ccp.is/latest/#!/Contacts/get_alliances_alliance_id_contacts)
 
 ### ContactNotifications
 
@@ -334,9 +336,13 @@ Not needed?
 
 ### CustomsOffices
 
+[https://esi.tech.ccp.is/latest/#!/Planetary32Interaction/get_corporations_corporation_id_customs_offices](https://esi.tech.ccp.is/latest/#!/Planetary32Interaction/get_corporations_corporation_id_customs_offices)
+
 ### FacWarStats
 
 ### Facilities
+
+[https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_facilities](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_facilities)
 
 ### IndustryJobs
 
@@ -366,11 +372,23 @@ Deprecated in XML
 
 ### Medals
 
+[https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_medals](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_medals)
+
 ### MemberMedals
+
+[https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_medals_issued](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_medals_issued)
 
 ### MemberSecurity
 
+[https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_roles](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_roles)
+
+[https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_titles](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_titles)
+
+[https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_members_titles](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_members_titles)
+
 ### MemberSecurityLog
+
+[https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_roles_history](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_roles_history)
 
 ### MemberTracking
 
@@ -390,7 +408,11 @@ Deprecated in XML
 
 ### StarbaseDetail
 
+[https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_starbases_starbase_id](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_starbases_starbase_id)
+
 ### StarbaseList
+
+[https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_starbases](https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_starbases)
 
 ### Titles
 
