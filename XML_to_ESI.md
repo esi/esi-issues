@@ -184,6 +184,8 @@ See also [CREST to ESI Migration](https://ccpgames.github.io/esi-issues/CREST_to
 
 ### FacWarStats
 
+[https://esi.tech.ccp.is/latest/#!/Faction32Warfare/get_characters_character_id_fw_stats](https://esi.tech.ccp.is/latest/#!/Faction32Warfare/get_characters_character_id_fw_stats)
+
 ### IndustryJobs
 
 [https://esi.tech.ccp.is/latest/#!/Industry/get_characters_character_id_industry_jobs](https://esi.tech.ccp.is/latest/#!/Industry/get_characters_character_id_industry_jobs)
@@ -339,6 +341,8 @@ Not needed?
 [https://esi.tech.ccp.is/latest/#!/Planetary32Interaction/get_corporations_corporation_id_customs_offices](https://esi.tech.ccp.is/latest/#!/Planetary32Interaction/get_corporations_corporation_id_customs_offices)
 
 ### FacWarStats
+
+[https://esi.tech.ccp.is/latest/#!/Faction32Warfare/get_corporations_corporation_id_fw_stats](https://esi.tech.ccp.is/latest/#!/Faction32Warfare/get_corporations_corporation_id_fw_stats)
 
 ### Facilities
 
