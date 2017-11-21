@@ -400,7 +400,11 @@ Deprecated in XML
 
 ### OutpostList
 
+[https://esi-test.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_outposts](https://esi-test.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_outposts)
+
 ### OutpostServiceDetail
+
+[https://esi-test.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_outposts_outpost_id](https://esi-test.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_outposts_outpost_id)
 
 ### Shareholders
 
