@@ -443,6 +443,10 @@ Deprecated in XML
 
 [https://esi.tech.ccp.is/latest/#!/Alliance/get_alliances_alliance_id_corporations](https://esi.tech.ccp.is/latest/#!/Alliance/get_alliances_alliance_id_corporations)
 
+Corporation history within an alliance (e.g. start date) is now in
+[https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_alliancehistory]
+(https://esi.tech.ccp.is/latest/#!/Corporation/get_corporations_corporation_id_alliancehistory)
+
 ### CertificateTree
 
 Deprecated
