@@ -449,7 +449,7 @@ Deprecated
 
 ### CharacterID
 
-[https://esi.tech.ccp.is/latest/#!/Search/get_search](https://esi.tech.ccp.is/latest/#!/Search/get_search) with `strict=true` and `categories=["character"]`
+[https://esi.tech.ccp.is/ui/#/Universe/post_universe_ids](https://esi.tech.ccp.is/ui/#/Universe/post_universe_ids)
 
 ### CharacterInfo
 
