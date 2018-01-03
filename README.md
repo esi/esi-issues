@@ -8,6 +8,8 @@ https://esi.tech.ccp.is/
 
 **[Click here for SSO issues](https://github.com/ccpgames/sso-issues/issues)**
 
+**Please do not open issues for anything security related here, send an email to security@ccpgames.com instead.**
+
 
 ## Migration Guide
 
