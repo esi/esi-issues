@@ -42,6 +42,39 @@ GitHub User | CCP Dev Name | Tweetfleet Slack | Role
 [tsuthers-ccpgames](https://github.com/tsuthers-ccpgames) | CCP Bartender | [@ccp_bartender](https://tweetfleet.slack.com/messages/@ccp_bartender/) | Developer
 
 
-## Questions?
+## FAQ
+
+### How do I make authenticated requests?
+
+ESI uses the same standard oauth2 flow CREST used. [We released a blog detailing the SSO flow for ESI applications](https://developers.eveonline.com/blog/article/sso-to-authenticated-calls), but you can use whatever oauth2 library you're most comfortable with.
+
+### What is the error limit?
+
+ESI is not rate limited, it is however error limited. [Please refer to this blog post detailing the ESI error limit](https://developers.eveonline.com/blog/article/esi-error-limits-go-live).
+
+Keep in mind some endpoints have additional rate limits imposed by game design. If you are limited by the game on some action, ESI will have the same restrictions.
+
+### What are "underscore routes"?
+
+They embed the version in the path, resulting in more stable clients. [Please refer to the blog post on the matter](https://developers.eveonline.com/blog/article/esi-best-practices-using-underscore-routes). Clients taking advantage of underscore routes should use the OperationID instead of path when calling a route, for convenience.
+
+### What constitutes a version increase?
+
+[Please refer to the breaking changes document](breaking_changes.md).
+
+### Where can I see upcoming changes?
+
+[You can use ESI's diff interface](https://esi.tech.ccp.is/diff/latest/dev/) for the exact differences per route, and the ["ESI Deployment Timeline" GitHub project board](https://github.com/ccpgames/esi-issues/projects/2) for when the upcoming changes will be promoted.
+
+### Is there an ESI client library in &lt;language_x&gt;?
+
+Probably. Check the [awesome-eve](https://github.com/devfleet/awesome-eve) repository. If you can't find something there for your language, you can try the [swagger open source integrations page](https://swagger.io/open-source-integrations/).
+
+### When are CREST and XML API going away?
+
+[May 8th, 2018](https://www.timeanddate.com/countdown/launch?iso=20180508T11&p0=211&msg=CREST+and+XML+API+shutdown&font=slab).
+
+
+## Further Questions?
 
 Join us on Tweetfleet Slack, in the #esi channel. If you're not on Tweetfleet Slack yet, [get an invite here](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/).
