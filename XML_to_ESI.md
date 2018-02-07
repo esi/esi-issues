@@ -144,6 +144,8 @@ See also [CREST to ESI Migration](https://ccpgames.github.io/esi-issues/CREST_to
 
 [https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_titles](https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_titles)
 
+[https://esi.tech.ccp.is/ui/#/Universe/get_universe_ancestries](https://esi.tech.ccp.is/ui/#/Universe/get_universe_ancestries)
+
 ### ChatChannels
 
 [https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_chat_channels](https://esi.tech.ccp.is/latest/#!/Character/get_characters_character_id_chat_channels)
@@ -225,6 +227,8 @@ Deprecated in XML
 ### MarketOrders
 
 [https://esi.tech.ccp.is/latest/#!/Market/get_characters_character_id_orders](https://esi.tech.ccp.is/latest/#!/Market/get_characters_character_id_orders)
+
+[https://esi.tech.ccp.is/ui/#/Market/get_characters_character_id_orders_history](https://esi.tech.ccp.is/ui/#/Market/get_characters_character_id_orders_history)
 
 ### Medals
 
@@ -373,6 +377,8 @@ Deprecated in XML
 ### MarketOrders
 
 [https://esi.tech.ccp.is/latest/#!/Market/get_corporations_corporation_id_orders](https://esi.tech.ccp.is/latest/#!/Market/get_corporations_corporation_id_orders)
+
+[https://esi.tech.ccp.is/ui/#/Market/get_corporations_corporation_id_orders_history](https://esi.tech.ccp.is/ui/#/Market/get_corporations_corporation_id_orders_history)
 
 ### Medals
 
