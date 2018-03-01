@@ -9,7 +9,9 @@ For the purposes of this document, parameter means input, whereas attribute refe
 Change Description                        | Version Bump Required
 ------------------------------------------|----------------------
 Update description/summary/example        | no
-Adding attribute or parameter             | no
+Adding optional attribute or parameter    | no
+Adding required parameter                 | yes
+Adding required attribute                 | no
 Removing optional attribute               | no
 Removing required attribute               | yes
 Removing parameter                        | no
