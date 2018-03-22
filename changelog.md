@@ -2,6 +2,13 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# Apr 26, 2018
+
+- **PROMOTION** GET /latest/characters/{character_id}/wallet/journal/ (v4)
+- **PROMOTION** GET /latest/corporations/{corporation_id}/wallets/{division}/journal/ (v3)
+- **REMOVAL** GET /v2/characters/{character_id}/wallet/journal/
+- **REMOVAL** GET /v1/corporations/{corporation_id}/wallets/{division}/journal/
+
 # Apr 3, 2018
 
 - **REMOVAL** GET /legacy/corporations/{corporation_id}/assets/ (v1)
@@ -9,6 +16,11 @@ Dates in the future are upcoming scheduled changes.
 - **PROMOTION** GET /latest/characters/{character_id}/notifications/ (v2)
 - **PROMOTION** GET /latest/corporations/{corporation_id}/blueprints/ (v2)
 - **PROMOTION** GET /latest/corporations/{corporation_id}/containers/logs/ (v2)
+
+# Mar 15, 2018
+
+- GET /dev/characters/{character_id}/wallet/journal/ (v4)
+- GET /dev/corporations/{corporation_id}/wallets/{division}/journal/ (v3)
 
 # Mar 8, 2018
 
