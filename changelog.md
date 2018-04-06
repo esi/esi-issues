@@ -9,6 +9,15 @@ Dates in the future are upcoming scheduled changes.
 - **REMOVAL** GET /v2/characters/{character_id}/wallet/journal/
 - **REMOVAL** GET /v1/corporations/{corporation_id}/wallets/{division}/journal/
 
+# Apr 6, 2018
+
+- GET /latest/universe/asteroid_belts/{asteroid_belt_id}/ (v1)
+
+**Updates to existing endpoints:**
+
+- `system_id` added to `/v1/markets/{region_id}/orders/`
+- `asteroid_belts` added to `planets` object in response from `/v3/universe/systems/{system_id}/`
+
 # Apr 3, 2018
 
 - **REMOVAL** GET /legacy/corporations/{corporation_id}/assets/ (v1)
