@@ -1,0 +1,1442 @@
+{
+    "allies": [],
+    "enemies": [
+        {
+            "owner_id": 92561967,
+            "owner_ships": [
+                {
+                    "ship_id": 1022398063121,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 0,
+                            "item_activation_count": 0,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 4248
+                        }
+                    ],
+                    "ship_type_id": 12017
+                }
+            ]
+        },
+        {
+            "owner_id": 550976837,
+            "owner_ships": [
+                {
+                    "ship_id": 1026656324899,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 7379.077435754296,
+                            "item_activation_count": 5,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 40560
+                        }
+                    ],
+                    "ship_type_id": 40560
+                },
+                {
+                    "ship_id": 1016209055924,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 0,
+                            "item_activation_count": 0,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 40560
+                        },
+                        {
+                            "item_activation_amount": 0,
+                            "item_activation_count": 0,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 40562
+                        }
+                    ],
+                    "ship_type_id": 23919
+                },
+                {
+                    "ship_id": 1026656326317,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 5328.556532123072,
+                            "item_activation_count": 2,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 40562
+                        }
+                    ],
+                    "ship_type_id": 40562
+                },
+                {
+                    "ship_id": 1026657049109,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 2128.1784870378165,
+                            "item_activation_count": 1,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 40560
+                        }
+                    ],
+                    "ship_type_id": 40560
+                }
+            ]
+        },
+        {
+            "owner_id": 91970617,
+            "owner_ships": [
+                {
+                    "ship_id": 1026639775246,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 109.31000385450722,
+                            "item_activation_count": 9,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 3074
+                        }
+                    ],
+                    "ship_type_id": 16238
+                }
+            ]
+        },
+        {
+            "owner_id": 729286940,
+            "owner_ships": [
+                {
+                    "ship_id": 1025235780400,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 470.26819210506164,
+                            "item_activation_count": 2,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 94725003,
+            "owner_ships": [
+                {
+                    "ship_id": 1019916752229,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 742.0014758471071,
+                            "item_activation_count": 7,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 2865
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 91013225,
+            "owner_ships": [
+                {
+                    "ship_id": 1025684977236,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 2140.946192842528,
+                            "item_activation_count": 6,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 93201837,
+            "owner_ships": [
+                {
+                    "ship_id": 1025162289444,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 516.3331423651456,
+                            "item_activation_count": 4,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 581822577,
+            "owner_ships": [
+                {
+                    "ship_id": 1025158612601,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 0,
+                            "item_activation_count": 0,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 4248
+                        }
+                    ],
+                    "ship_type_id": 12021
+                }
+            ]
+        },
+        {
+            "owner_id": 95625203,
+            "owner_ships": [
+                {
+                    "ship_id": 1026323019787,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 0,
+                            "item_activation_count": 1,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 1504773039,
+            "owner_ships": [
+                {
+                    "ship_id": 1024110116105,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 575.895776162331,
+                            "item_activation_count": 7,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 1022872777,
+            "owner_ships": [
+                {
+                    "ship_id": 1023906507688,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 333.0874162359933,
+                            "item_activation_count": 4,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 727896879,
+            "owner_ships": [
+                {
+                    "ship_id": 1025235782411,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 54.309012123392584,
+                            "item_activation_count": 1,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 882109325,
+            "owner_ships": [
+                {
+                    "ship_id": 1026331424437,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 0,
+                            "item_activation_count": 8,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 484
+                        }
+                    ],
+                    "ship_type_id": 22474
+                }
+            ]
+        },
+        {
+            "owner_id": 96036684,
+            "owner_ships": [
+                {
+                    "ship_id": 1026657045705,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 2457.5960115129787,
+                            "item_activation_count": 3,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 40564
+                        }
+                    ],
+                    "ship_type_id": 40564
+                },
+                {
+                    "ship_id": 1026094471941,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 0,
+                            "item_activation_count": 0,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 40564
+                        }
+                    ],
+                    "ship_type_id": 23913
+                },
+                {
+                    "ship_id": 1026657123884,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 1584.1971233618792,
+                            "item_activation_count": 2,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 40564
+                        }
+                    ],
+                    "ship_type_id": 40564
+                }
+            ]
+        },
+        {
+            "owner_id": 1968935548,
+            "owner_ships": [
+                {
+                    "ship_id": 1026410183216,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 411.54381496089604,
+                            "item_activation_count": 2,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 96480718,
+            "owner_ships": [
+                {
+                    "ship_id": 1024588481310,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 269.2402412334879,
+                            "item_activation_count": 1,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 91900089,
+            "owner_ships": [
+                {
+                    "ship_id": 1025253297305,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 171.58044669384932,
+                            "item_activation_count": 1,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 93139289,
+            "owner_ships": [
+                {
+                    "ship_id": 1025213472069,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 175.90939883830342,
+                            "item_activation_count": 2,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 95717319,
+            "owner_ships": [
+                {
+                    "ship_id": 1025103595297,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 875.1922390800847,
+                            "item_activation_count": 7,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 563603662,
+            "owner_ships": [
+                {
+                    "ship_id": 1026629822867,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 173.92575001878555,
+                            "item_activation_count": 2,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 93656772,
+            "owner_ships": [
+                {
+                    "ship_id": 9001400363000039649,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 577.8621739100489,
+                            "item_activation_count": 1,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 41551
+                        }
+                    ],
+                    "ship_type_id": 41551
+                }
+            ]
+        },
+        {
+            "owner_id": 1597348928,
+            "owner_ships": [
+                {
+                    "ship_id": 1026649886160,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 0,
+                            "item_activation_count": 2,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 484
+                        },
+                        {
+                            "item_activation_amount": 0,
+                            "item_activation_count": 0,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 19806
+                        }
+                    ],
+                    "ship_type_id": 22474
+                }
+            ]
+        },
+        {
+            "owner_id": 94176055,
+            "owner_ships": [
+                {
+                    "ship_id": 1023120639836,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 0,
+                            "item_activation_count": 2,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 3074
+                        }
+                    ],
+                    "ship_type_id": 12021
+                }
+            ]
+        },
+        {
+            "owner_id": 337613152,
+            "owner_ships": [
+                {
+                    "ship_id": 1025813908908,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 809.985879984812,
+                            "item_activation_count": 6,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 2865
+                        }
+                    ],
+                    "ship_type_id": 17732
+                }
+            ]
+        },
+        {
+            "owner_id": 92698063,
+            "owner_ships": [
+                {
+                    "ship_id": 1026586189348,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 656.274061173026,
+                            "item_activation_count": 3,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 93859530,
+            "owner_ships": [
+                {
+                    "ship_id": 1026530001678,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 27.984312854916947,
+                            "item_activation_count": 1,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17732
+                }
+            ]
+        },
+        {
+            "owner_id": 94175277,
+            "owner_ships": [
+                {
+                    "ship_id": 1026591609504,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 1137.5151923670114,
+                            "item_activation_count": 7,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9497
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 90653574,
+            "owner_ships": [
+                {
+                    "ship_id": 1024820450279,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 0,
+                            "item_activation_count": 4,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 484
+                        },
+                        {
+                            "item_activation_amount": 0,
+                            "item_activation_count": 0,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 19806
+                        }
+                    ],
+                    "ship_type_id": 22474
+                }
+            ]
+        },
+        {
+            "owner_id": 93669642,
+            "owner_ships": [
+                {
+                    "ship_id": 1025154804275,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 388.35727776771887,
+                            "item_activation_count": 3,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 96954025,
+            "owner_ships": [
+                {
+                    "ship_id": 1026110429466,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 262.6665984386264,
+                            "item_activation_count": 4,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 2961
+                        }
+                    ],
+                    "ship_type_id": 17732
+                }
+            ]
+        },
+        {
+            "owner_id": 1716403073,
+            "owner_ships": [
+                {
+                    "ship_id": 1026649959635,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 762.6142732557053,
+                            "item_activation_count": 7,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 556875242,
+            "owner_ships": [
+                {
+                    "ship_id": 1026646413199,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 93.96940033627602,
+                            "item_activation_count": 2,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17732
+                }
+            ]
+        },
+        {
+            "owner_id": 94404842,
+            "owner_ships": [
+                {
+                    "ship_id": 1025168522050,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 160.629451837993,
+                            "item_activation_count": 2,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 1001010277,
+            "owner_ships": [
+                {
+                    "ship_id": 1024884984739,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 837.0365346097147,
+                            "item_activation_count": 3,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 95704603,
+            "owner_ships": [
+                {
+                    "ship_id": 1026610514561,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 148.8004670020669,
+                            "item_activation_count": 1,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 1075010582,
+            "owner_ships": [
+                {
+                    "ship_id": 1026410182037,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 664.8428140538897,
+                            "item_activation_count": 5,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 757068810,
+            "owner_ships": [
+                {
+                    "ship_id": 1022796678153,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 206.16177428148177,
+                            "item_activation_count": 1,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 91954816,
+            "owner_ships": [
+                {
+                    "ship_id": 1025990430892,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 0,
+                            "item_activation_count": 3,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 8787
+                        }
+                    ],
+                    "ship_type_id": 22474
+                }
+            ]
+        },
+        {
+            "owner_id": 92581442,
+            "owner_ships": [
+                {
+                    "ship_id": 1022358114074,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 763.0294722009496,
+                            "item_activation_count": 7,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 93472220,
+            "owner_ships": [
+                {
+                    "ship_id": 1024993760217,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 191.88710657307257,
+                            "item_activation_count": 2,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17738
+                }
+            ]
+        },
+        {
+            "owner_id": 90971622,
+            "owner_ships": [
+                {
+                    "ship_id": 1026061402740,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 328.45423482001945,
+                            "item_activation_count": 4,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 2961
+                        }
+                    ],
+                    "ship_type_id": 17732
+                }
+            ]
+        },
+        {
+            "owner_id": 95103242,
+            "owner_ships": [
+                {
+                    "ship_id": 1026570360218,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 0,
+                            "item_activation_count": 2,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 2961
+                        }
+                    ],
+                    "ship_type_id": 17732
+                }
+            ]
+        },
+        {
+            "owner_id": 550530461,
+            "owner_ships": [
+                {
+                    "ship_id": 1026021251707,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 102.13953893676457,
+                            "item_activation_count": 1,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 2961
+                        }
+                    ],
+                    "ship_type_id": 17732
+                }
+            ]
+        },
+        {
+            "owner_id": 868130805,
+            "owner_ships": [
+                {
+                    "ship_id": 1025833223517,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 165.19325952394348,
+                            "item_activation_count": 1,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 2961
+                        }
+                    ],
+                    "ship_type_id": 17732
+                }
+            ]
+        },
+        {
+            "owner_id": 296473699,
+            "owner_ships": [
+                {
+                    "ship_id": 1025901648816,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 445.5449795402785,
+                            "item_activation_count": 6,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 2961
+                        }
+                    ],
+                    "ship_type_id": 17732
+                }
+            ]
+        },
+        {
+            "owner_id": 90584817,
+            "owner_ships": [
+                {
+                    "ship_id": 1021482482711,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 0,
+                            "item_activation_count": 1,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 8759
+                        }
+                    ],
+                    "ship_type_id": 29988
+                }
+            ]
+        },
+        {
+            "owner_id": 93380487,
+            "owner_ships": [
+                {
+                    "ship_id": 1026592130092,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 105.27413338622037,
+                            "item_activation_count": 2,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 2961
+                        }
+                    ],
+                    "ship_type_id": 17732
+                }
+            ]
+        },
+        {
+            "owner_id": 1368156016,
+            "owner_ships": [
+                {
+                    "ship_id": 1026193685433,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 570.0143164440062,
+                            "item_activation_count": 2,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 2961
+                        }
+                    ],
+                    "ship_type_id": 17732
+                }
+            ]
+        },
+        {
+            "owner_id": 175647568,
+            "owner_ships": [
+                {
+                    "ship_id": 1025811475690,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 0,
+                            "item_activation_count": 1,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 2961
+                        }
+                    ],
+                    "ship_type_id": 17732
+                }
+            ]
+        },
+        {
+            "owner_id": 96150783,
+            "owner_ships": [
+                {
+                    "ship_id": 1026443961967,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 140.09819105661376,
+                            "item_activation_count": 2,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17732
+                }
+            ]
+        },
+        {
+            "owner_id": 1367020190,
+            "owner_ships": [
+                {
+                    "ship_id": 1026153395502,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 110.1519258767416,
+                            "item_activation_count": 2,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 9491
+                        }
+                    ],
+                    "ship_type_id": 17732
+                }
+            ]
+        },
+        {
+            "owner_id": 90718015,
+            "owner_ships": [
+                {
+                    "ship_id": 1026526632784,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 460.4960372058002,
+                            "item_activation_count": 3,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 2961
+                        }
+                    ],
+                    "ship_type_id": 17732
+                }
+            ]
+        },
+        {
+            "owner_id": 1062102628,
+            "owner_ships": [
+                {
+                    "ship_id": 1026657109610,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 1504.568244054557,
+                            "item_activation_count": 1,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 40560
+                        }
+                    ],
+                    "ship_type_id": 40560
+                },
+                {
+                    "ship_id": 1024408047394,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 0,
+                            "item_activation_count": 0,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 40560
+                        }
+                    ],
+                    "ship_type_id": 42125
+                }
+            ]
+        },
+        {
+            "owner_id": 850483136,
+            "owner_ships": [
+                {
+                    "ship_id": 1025841652977,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 875.7925314935425,
+                            "item_activation_count": 6,
+                            "item_target_id": 1025498534150,
+                            "item_type_id": 2961
+                        }
+                    ],
+                    "ship_type_id": 17732
+                }
+            ]
+        },
+        {
+            "owner_id": 95891743,
+            "owner_ships": [
+                {
+                    "ship_id": 1023254992991,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 0,
+                            "item_activation_count": 4,
+                            "item_target_id": 1025990430892,
+                            "item_type_id": 16455
+                        }
+                    ],
+                    "ship_type_id": 11987
+                }
+            ]
+        },
+        {
+            "owner_id": 92943953,
+            "owner_ships": [
+                {
+                    "ship_id": 1026586171562,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 0.0,
+                            "item_activation_count": 5,
+                            "item_target_id": 1019916752229,
+                            "item_type_id": 16451
+                        }
+                    ],
+                    "ship_type_id": 11987
+                }
+            ]
+        },
+        {
+            "owner_id": 95001919,
+            "owner_ships": [
+                {
+                    "ship_id": 1026642592180,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 0.0,
+                            "item_activation_count": 12,
+                            "item_target_id": 1019916752229,
+                            "item_type_id": 16455
+                        }
+                    ],
+                    "ship_type_id": 11989
+                }
+            ]
+        },
+        {
+            "owner_id": 92890201,
+            "owner_ships": [
+                {
+                    "ship_id": 1025381359565,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 0.0,
+                            "item_activation_count": 12,
+                            "item_target_id": 1019916752229,
+                            "item_type_id": 16451
+                        }
+                    ],
+                    "ship_type_id": 11987
+                }
+            ]
+        },
+        {
+            "owner_id": 96009131,
+            "owner_ships": [
+                {
+                    "ship_id": 1020057995940,
+                    "ship_items": [
+                        {
+                            "item_activation_amount": 0,
+                            "item_activation_count": 100,
+                            "item_target_id": 1026443961967,
+                            "item_type_id": 18987
+                        }
+                    ],
+                    "ship_type_id": 11989
+                }
+            ]
+        }
+    ],
+    "killer": {
+        "owner_alliance_id": 1727758877,
+        "owner_corp_id": 98407712,
+        "owner_id": 91013225,
+        "ship_id": 1025684977236,
+        "ship_kill_count": null,
+        "ship_name": "(\u25e3_\u25e2)Reeeeeeee",
+        "ship_skin_id": null,
+        "ship_type_id": 17738,
+        "weapon_amount": 927.1726167641156,
+        "weapon_type_id": 9491
+    },
+    "killmail_id": "770fa307-c769-46d6-bf80-21985ecab5a0",
+    "sim_timestamp": 131612145453558352,
+    "solar_system_id": 30004059,
+    "timestamp": "2018-01-24T00:37:39.402265Z",
+    "victim": {
+        "owner_alliance_id": 1354830081,
+        "owner_corp_id": 98355872,
+        "owner_id": 96304094,
+        "ship_id": 1025498534150,
+        "ship_items": [
+            {
+                "destroyed": true,
+                "flag_id": 5,
+                "singleton": false,
+                "stack_size": 1,
+                "type_id": 29009
+            },
+            {
+                "destroyed": false,
+                "flag_id": 27,
+                "singleton": true,
+                "stack_size": 1,
+                "type_id": 43556
+            },
+            {
+                "destroyed": true,
+                "flag_id": 93,
+                "singleton": true,
+                "stack_size": 1,
+                "type_id": 31059
+            },
+            {
+                "destroyed": false,
+                "flag_id": 31,
+                "singleton": true,
+                "stack_size": 1,
+                "type_id": 43554
+            },
+            {
+                "destroyed": true,
+                "flag_id": 21,
+                "singleton": true,
+                "stack_size": 1,
+                "type_id": 448
+            },
+            {
+                "destroyed": false,
+                "flag_id": 11,
+                "singleton": true,
+                "stack_size": 1,
+                "type_id": 2048
+            },
+            {
+                "destroyed": true,
+                "flag_id": 5,
+                "singleton": false,
+                "stack_size": 843,
+                "type_id": 12620
+            },
+            {
+                "destroyed": true,
+                "flag_id": 87,
+                "singleton": false,
+                "stack_size": 5,
+                "type_id": 21640
+            },
+            {
+                "destroyed": false,
+                "flag_id": 5,
+                "singleton": false,
+                "stack_size": 1000,
+                "type_id": 42834
+            },
+            {
+                "destroyed": true,
+                "flag_id": 32,
+                "singleton": true,
+                "stack_size": 1,
+                "type_id": 21096
+            },
+            {
+                "destroyed": true,
+                "flag_id": 5,
+                "singleton": false,
+                "stack_size": 1,
+                "type_id": 33474
+            },
+            {
+                "destroyed": true,
+                "flag_id": 5,
+                "singleton": false,
+                "stack_size": 1000,
+                "type_id": 23009
+            },
+            {
+                "destroyed": true,
+                "flag_id": 22,
+                "singleton": true,
+                "stack_size": 1,
+                "type_id": 1952
+            },
+            {
+                "destroyed": false,
+                "flag_id": 14,
+                "singleton": true,
+                "stack_size": 1,
+                "type_id": 11646
+            },
+            {
+                "destroyed": true,
+                "flag_id": 22,
+                "singleton": false,
+                "stack_size": 1,
+                "type_id": 29011
+            },
+            {
+                "destroyed": false,
+                "flag_id": 30,
+                "singleton": true,
+                "stack_size": 1,
+                "type_id": 3074
+            },
+            {
+                "destroyed": true,
+                "flag_id": 28,
+                "singleton": true,
+                "stack_size": 1,
+                "type_id": 43556
+            },
+            {
+                "destroyed": true,
+                "flag_id": 5,
+                "singleton": false,
+                "stack_size": 1065,
+                "type_id": 42838
+            },
+            {
+                "destroyed": false,
+                "flag_id": 5,
+                "singleton": false,
+                "stack_size": 300,
+                "type_id": 42836
+            },
+            {
+                "destroyed": false,
+                "flag_id": 16,
+                "singleton": true,
+                "stack_size": 1,
+                "type_id": 11269
+            },
+            {
+                "destroyed": false,
+                "flag_id": 19,
+                "singleton": true,
+                "stack_size": 1,
+                "type_id": 12058
+            },
+            {
+                "destroyed": false,
+                "flag_id": 5,
+                "singleton": false,
+                "stack_size": 100,
+                "type_id": 28668
+            },
+            {
+                "destroyed": true,
+                "flag_id": 87,
+                "singleton": false,
+                "stack_size": 5,
+                "type_id": 23707
+            },
+            {
+                "destroyed": true,
+                "flag_id": 5,
+                "singleton": false,
+                "stack_size": 1000,
+                "type_id": 42833
+            },
+            {
+                "destroyed": true,
+                "flag_id": 5,
+                "singleton": false,
+                "stack_size": 1000,
+                "type_id": 42839
+            },
+            {
+                "destroyed": true,
+                "flag_id": 5,
+                "singleton": false,
+                "stack_size": 1000,
+                "type_id": 42832
+            },
+            {
+                "destroyed": true,
+                "flag_id": 29,
+                "singleton": true,
+                "stack_size": 1,
+                "type_id": 3074
+            },
+            {
+                "destroyed": true,
+                "flag_id": 87,
+                "singleton": false,
+                "stack_size": 5,
+                "type_id": 28215
+            },
+            {
+                "destroyed": true,
+                "flag_id": 92,
+                "singleton": true,
+                "stack_size": 1,
+                "type_id": 31059
+            },
+            {
+                "destroyed": false,
+                "flag_id": 87,
+                "singleton": false,
+                "stack_size": 8,
+                "type_id": 2488
+            },
+            {
+                "destroyed": false,
+                "flag_id": 5,
+                "singleton": false,
+                "stack_size": 1065,
+                "type_id": 42840
+            },
+            {
+                "destroyed": true,
+                "flag_id": 5,
+                "singleton": false,
+                "stack_size": 994,
+                "type_id": 12618
+            },
+            {
+                "destroyed": true,
+                "flag_id": 5,
+                "singleton": false,
+                "stack_size": 350,
+                "type_id": 16273
+            },
+            {
+                "destroyed": false,
+                "flag_id": 5,
+                "singleton": false,
+                "stack_size": 400,
+                "type_id": 42838
+            },
+            {
+                "destroyed": true,
+                "flag_id": 12,
+                "singleton": true,
+                "stack_size": 1,
+                "type_id": 31900
+            },
+            {
+                "destroyed": false,
+                "flag_id": 13,
+                "singleton": true,
+                "stack_size": 1,
+                "type_id": 31900
+            },
+            {
+                "destroyed": true,
+                "flag_id": 20,
+                "singleton": true,
+                "stack_size": 1,
+                "type_id": 3568
+            },
+            {
+                "destroyed": false,
+                "flag_id": 5,
+                "singleton": false,
+                "stack_size": 130,
+                "type_id": 33330
+            },
+            {
+                "destroyed": true,
+                "flag_id": 15,
+                "singleton": true,
+                "stack_size": 1,
+                "type_id": 11269
+            },
+            {
+                "destroyed": false,
+                "flag_id": 20,
+                "singleton": false,
+                "stack_size": 20,
+                "type_id": 33330
+            },
+            {
+                "destroyed": true,
+                "flag_id": 27,
+                "singleton": false,
+                "stack_size": 286.0,
+                "type_id": 42840
+            },
+            {
+                "destroyed": false,
+                "flag_id": 28,
+                "singleton": false,
+                "stack_size": 286.0,
+                "type_id": 42838
+            },
+            {
+                "destroyed": false,
+                "flag_id": 29,
+                "singleton": false,
+                "stack_size": 32,
+                "type_id": 12620
+            },
+            {
+                "destroyed": false,
+                "flag_id": 30,
+                "singleton": false,
+                "stack_size": 32,
+                "type_id": 12620
+            },
+            {
+                "destroyed": false,
+                "flag_id": 31,
+                "singleton": false,
+                "stack_size": 300,
+                "type_id": 42836
+            }
+        ],
+        "ship_kill_count": null,
+        "ship_name": "Vindicator",
+        "ship_skin_id": 29,
+        "ship_type_id": 22442,
+        "ship_was_piloted": true
+    }
+}
