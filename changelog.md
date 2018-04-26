@@ -2,7 +2,32 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# June 7, 2018
+
+- **PROMOTION** GET /v2/alliances/{alliance_id}/contacts/ (dev -> latest)
+- **PROMOTION** GET /v2/characters/{character_id}/contacts/ (dev -> latest)
+- **PROMOTION** GET /v2/corporations/{corporation_id}/contacts/ (dev -> latest)
+- **PROMOTION** POST /v2/characters/{character_id}/contacts/ (dev -> latest)
+- **PROMOTION** PUT /v2/characters/{character_id}/contacts/ (dev -> latest)
+- **PROMOTION** DELETE /v2/characters/{character_id}/contacts/ (dev -> latest)
+
 # Apr 26, 2018
+
+**New routes**
+
+- [GET /v1/alliances/{alliance_id}/contacts/labels/](https://esi-test.evetech.net/ui/#/Contacts/get_alliances_alliance_id_contacts_labels)
+- [GET /v1/corporations/{corporation_id}/contacts/labels/](https://esi-test.evetech.net/ui/#/Contacts/get_corporations_corporation_id_contacts_labels)
+
+**New versions of existing routes**
+
+- GET /v2/alliances/{alliance_id}/contacts/
+- GET /v2/characters/{character_id}/contacts/
+- GET /v2/corporations/{corporation_id}/contacts/
+- POST /v2/characters/{character_id}/contacts/
+- PUT /v2/characters/{character_id}/contacts/
+- DELETE /v2/characters/{character_id}/contacts/
+
+**Route promotions and removals**
 
 - **PROMOTION** GET /latest/characters/{character_id}/wallet/journal/ (v4)
 - **PROMOTION** GET /latest/corporations/{corporation_id}/wallets/{division}/journal/ (v3)
