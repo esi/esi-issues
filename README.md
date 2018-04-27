@@ -11,6 +11,17 @@ https://esi.tech.ccp.is/
 **Please do not open issues for anything security related here, send an email to security@ccpgames.com instead.**
 
 
+## Opening a new issue
+
+Please use the search function before opening a new issue.
+
+### [Report a new bug](../../issues/new?template=bug.md)
+
+### [Request a new feature](../../issues/new?template=feature_request.md)
+
+### [Report an inconsistency](../../issues/new?template=inconsistency.md)
+
+
 ## Migration Guide
 
 ### [CREST -> ESI](https://ccpgames.github.io/esi-issues/CREST_to_ESI)
