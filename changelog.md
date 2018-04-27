@@ -2,6 +2,23 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# June 7, 2018
+
+- **PROMOTION** GET /v2/alliances/{alliance_id}/contacts/ (dev -> latest)
+- **PROMOTION** GET /v2/characters/{character_id}/contacts/ (dev -> latest)
+- **PROMOTION** GET /v2/corporations/{corporation_id}/contacts/ (dev -> latest)
+- **PROMOTION** POST /v2/characters/{character_id}/contacts/ (dev -> latest)
+- **PROMOTION** PUT /v2/characters/{character_id}/contacts/ (dev -> latest)
+- **PROMOTION** DELETE /v2/characters/{character_id}/contacts/ (dev -> latest)
+
+# May 18, 2018
+
+- **REMOVAL** GET /v1/characters/{character_id}/chat_channels/
+
+# Apr 27, 2018
+
+- **DEPRECATION** GET /v1/characters/{character_id}/chat_channels/ (latest -> legacy)
+
 # Apr 26, 2018
 
 - **PROMOTION** GET /latest/characters/{character_id}/wallet/journal/ (v4)
