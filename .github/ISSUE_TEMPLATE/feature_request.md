@@ -34,7 +34,9 @@ Propose what an example return might look like. E.g.:
 
 # Checklist
 
-- [ ] Feature request is documented
+Check all boxes that apply to this issue:
+
+- [ ] Feature request description is provided
 - [ ] Use case exists
 - [ ] Feature requires new route
 - [ ] Feature adds data to existing route

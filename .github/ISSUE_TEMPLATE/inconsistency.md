@@ -27,7 +27,9 @@ Change the `id` attribute in the return of `GET /v1/characters/{character_id}/me
 
 # Checklist
 
-- [ ] Inconsistency is documented
-- [ ] Inconsistent route(s) are documented
-- [ ] Resolution will require a version increase
-- [ ] Resolution does not require a version bump
+Check all boxes that apply to this issue:
+
+- [ ] Inconsistency description is provided
+- [ ] Inconsistent route(s) are provided
+- [ ] Resolution [will require a version bump](https://github.com/ccpgames/esi-issues/blob/master/breaking_changes.md)
+- [ ] Resolution [does not require a version bump](https://github.com/ccpgames/esi-issues/blob/master/breaking_changes.md)

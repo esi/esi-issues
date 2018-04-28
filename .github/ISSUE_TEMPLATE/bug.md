@@ -49,9 +49,11 @@ Please provide either the expected return code, correct response body, header va
 
 # Checklist
 
-- [ ] Bug is documented
-- [ ] Request path is documented
-- [ ] Response status code is documented
+Check all boxes that apply to this issue:
+
+- [ ] Bug description is provided
+- [ ] Request path is provided
+- [ ] Response status code is provided
 - [ ] Response headers are provided
 - [ ] Response body is provided
-- [ ] Expected response is documented
+- [ ] Expected response is provided
