@@ -17,7 +17,7 @@ Please use the search function before opening a new issue (be sure to include cl
 
 To open a new issue click on one of the following headers (if you think your issue doesn't fit in any of these categories we invite you to [discuss it with us in #esi on tweetfleet slack first](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/)):
 
-### [Report a new bug](../../issues/new?template=bug.md)
+### [Report a new bug](https://github.com/ccpgames/esi-issues/issues/new?template=bug.md)
 
 Examples:
 
@@ -27,7 +27,7 @@ Examples:
 
 Note: `502` or `503` errors are not bugs. Retry your request again in the future
 
-### [Request a new feature](../../issues/new?template=feature_request.md)
+### [Request a new feature](https://github.com/ccpgames/esi-issues/issues/new?template=feature_request.md)
 
 Some new features will require game design approval. Do not open duplicate feature requests, if you find something similar to what you're requesting, thumbsup the parent comment and add any addendums as comments.
 
@@ -37,7 +37,7 @@ Examples:
 - exposing other readily available client data
 - meta requests, adding some global parameter to the specs (`ETag`, `Accept-Encoding`, etc...)
 
-### [Report an inconsistency](../../issues/new?template=inconsistency.md)
+### [Report an inconsistency](https://github.com/ccpgames/esi-issues/issues/new?template=inconsistency.md)
 
 Examples:
 
