@@ -31,5 +31,5 @@ Check all boxes that apply to this issue:
 
 - [ ] Inconsistency description is provided
 - [ ] Inconsistent route(s) are provided
-- [ ] Resolution [will require a version bump](https://github.com/ccpgames/esi-issues/blob/master/breaking_changes.md)
-- [ ] Resolution [does not require a version bump](https://github.com/ccpgames/esi-issues/blob/master/breaking_changes.md)
+- [ ] Resolution [will require a version bump](../../breaking_changes.md)
+- [ ] Resolution [does not require a version bump](../../breaking_changes.md)
