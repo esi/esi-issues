@@ -11,6 +11,39 @@ https://esi.tech.ccp.is/
 **Please do not open issues for anything security related here, send an email to security@ccpgames.com instead.**
 
 
+## Opening a new issue
+
+Please use the search function before opening a new issue (be sure to include closed issues as well).
+
+To open a new issue click on one of the following headers (if you think your issue doesn't fit in any of these categories we invite you to [discuss it with us in #esi on tweetfleet slack first](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/)):
+
+### [Report a new bug](https://github.com/ccpgames/esi-issues/issues/new?template=bug.md)
+
+Examples:
+
+- unexpected 500 responses
+- incorrect information in the swagger spec
+- otherwise invalid or unexpected responses
+
+Note: `502` or `503` errors are not bugs. Retry your request again in the future
+
+### [Request a new feature](https://github.com/ccpgames/esi-issues/issues/new?template=feature_request.md)
+
+Some new features will require game design approval. Do not open duplicate feature requests, if you find something similar to what you're requesting, thumbsup the parent comment and add any addendums as comments.
+
+Examples:
+
+- adding an attribute to an existing route
+- exposing other readily available client data
+- meta requests, adding some global parameter to the specs (`ETag`, `Accept-Encoding`, etc...)
+
+### [Report an inconsistency](https://github.com/ccpgames/esi-issues/issues/new?template=inconsistency.md)
+
+Examples:
+
+- two endpoints returning slightly different names for the same attribute
+- attribute values are returned with different formats for different routes (ie; int32 vs int64)
+
 ## Migration Guide
 
 ### [CREST -> ESI](https://ccpgames.github.io/esi-issues/CREST_to_ESI)
