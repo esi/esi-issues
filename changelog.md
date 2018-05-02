@@ -21,6 +21,22 @@ Dates in the future are upcoming scheduled changes.
 
 # Apr 26, 2018
 
+**New routes**
+
+- [GET /v1/alliances/{alliance_id}/contacts/labels/](https://esi.evetech.net/ui/#/Contacts/get_alliances_alliance_id_contacts_labels)
+- [GET /v1/corporations/{corporation_id}/contacts/labels/](https://esi.evetech.net/ui/#/Contacts/get_corporations_corporation_id_contacts_labels)
+
+**New versions of existing routes**
+
+- GET /v2/alliances/{alliance_id}/contacts/
+- GET /v2/characters/{character_id}/contacts/
+- GET /v2/corporations/{corporation_id}/contacts/
+- POST /v2/characters/{character_id}/contacts/
+- PUT /v2/characters/{character_id}/contacts/
+- DELETE /v2/characters/{character_id}/contacts/
+
+**Route promotions and removals**
+
 - **PROMOTION** GET /latest/characters/{character_id}/wallet/journal/ (v4)
 - **PROMOTION** GET /latest/corporations/{corporation_id}/wallets/{division}/journal/ (v3)
 - **REMOVAL** GET /v2/characters/{character_id}/wallet/journal/
