@@ -2,7 +2,7 @@
 
 For public ESI issue tracking only. Bring out your dead.
 
-https://esi.tech.ccp.is/
+https://esi.evetech.net/
 
 **Please only submit issues related to ESI (not CREST or XMLAPI).**
 
@@ -97,7 +97,7 @@ They embed the version in the path, resulting in more stable clients. [Please re
 
 ### Where can I see upcoming changes?
 
-[You can use ESI's diff interface](https://esi.tech.ccp.is/diff/latest/dev/) for the exact differences per route. There is also the [ESI changelog](changelog.md) for historical reference and to know when upcoming changes will be promoted.
+[You can use ESI's diff interface](https://esi.evetech.net/diff/latest/dev/) for the exact differences per route. There is also the [ESI changelog](changelog.md) for historical reference and to know when upcoming changes will be promoted.
 
 ### Is there an ESI client library in &lt;language_x&gt;?
 
