@@ -8,7 +8,7 @@ When requesting my character ID, I receive an unexpected 418 error.
 
 ## Request
 
-Be sure to include the http method, path (including version), and any relevant parameters. Please do not include auth tokens. E.g.:
+Be sure to include the HTTP method, path (including version), and any relevant parameters. Please do not include auth tokens. E.g.:
 
 `GET /latest/characters/{character_id}/?datasource=tranquility`
 
@@ -34,7 +34,8 @@ ETag:
 
 Please provide the response body, feel free to scrub any opsec details you wish. E.g.:
 
-```json
+JSON
+```
 {
     "error": "I'm a teapot"
 }
