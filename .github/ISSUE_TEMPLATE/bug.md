@@ -34,8 +34,7 @@ ETag:
 
 Please provide the response body, feel free to scrub any opsec details you wish. E.g.:
 
-JSON
-```
+```json
 {
     "error": "I'm a teapot"
 }
