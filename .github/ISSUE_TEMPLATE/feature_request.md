@@ -22,8 +22,7 @@ A public route, no auth required.
 
 Propose what an example return might look like. E.g.:
 
-JSON
-```
+```json
 [
   {
     "bounty": 11000000000,
