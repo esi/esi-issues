@@ -4,19 +4,19 @@ This template contains an example feature request. Please replace all text excep
 
 Please provide a short description of your feature request here. E.g.:
 
-It would be nice if we could list the top 100 (or more?) characters by bounty, universe wide.
+It would be nice if we could list the top 100 (or more?) characters by bounty, universe-wide.
 
 ## Use case
 
-Who would be the primary consumers of this feature. E.g.:
+Who would be the primary consumers of this feature? E.g.:
 
 Bounty hunters looking for people to declare war on.
 
 ## Authentication
 
-Does this feature require a new scope, an existing scope, or no scope. E.g.:
+Does this feature require a new scope, an existing scope, or no scope? E.g.:
 
-Public route, no auth required.
+A public route, no auth required.
 
 ## Example return
 
@@ -38,7 +38,7 @@ Check all boxes that apply to this issue:
 
 - [ ] Feature request description is provided
 - [ ] Use case exists
-- [ ] Feature requires new route
+- [ ] Feature requires a new route
 - [ ] Feature adds data to existing route
 - [ ] Feature requires new auth scope
 - [ ] Feature can reuse existing scope
