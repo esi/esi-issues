@@ -99,9 +99,9 @@ They embed the version in the path, resulting in more stable clients. [Please re
 
 Probably. Check the [awesome-eve](https://github.com/devfleet/awesome-eve) repository. If you can't find something there for your language, you can try the [swagger open source integrations page](https://swagger.io/open-source-integrations/).
 
-### When are CREST and XML API going away?
+### What happened to CREST and XML API?
 
-[May 8th, 2018](https://www.timeanddate.com/countdown/launch?iso=20180508T11&p0=211&msg=CREST+and+XML+API+shutdown&font=slab).
+After [18 months of notice](https://www.eveonline.com/article/introducing-esi/) both CREST and XML API were [shut down on May 8th, 2018](https://developers.eveonline.com/blog/article/a-eulogy-for-xml-crest). Please see either the [CREST to ESI](https://ccpgames.github.io/esi-issues/CREST_to_ESI) or [XML to ESI](https://ccpgames.github.io/esi-issues/XML_to_ESI) migration guides for assistance in porting your old applications to ESI.
 
 
 ## Further Questions?
