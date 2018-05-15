@@ -15,6 +15,14 @@ Dates in the future are upcoming scheduled changes.
 
 - **REMOVAL** GET /v1/characters/{character_id}/chat_channels/
 
+# May 15th, 2018
+
+- GET /v1/markets/{region_id}/orders/ -- maxItems dropped from 10,000 -> 1,000
+
+# May 4th, 2018
+
+- GET /v2/universe/stations/{station_id}/ -- Cache time changed to daily at 11:05
+
 # Apr 27, 2018
 
 - **DEPRECATION** GET /v1/characters/{character_id}/chat_channels/ (latest -> legacy)
