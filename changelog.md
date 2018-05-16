@@ -2,6 +2,11 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# June 27, 2018
+
+- **PROMOTION** GET /v2/fw/systems/ (dev -> latest)
+- **DEPRECATION** GET /v1/fw/systems/ (latest -> legacy)
+
 # June 7, 2018
 
 - **PROMOTION** GET /v2/alliances/{alliance_id}/contacts/ (dev -> latest)
@@ -14,6 +19,10 @@ Dates in the future are upcoming scheduled changes.
 # May 18, 2018
 
 - **REMOVAL** GET /v1/characters/{character_id}/chat_channels/
+
+# May 16th, 2018
+
+- GET /v2/fw/systems/ (dev)
 
 # May 15th, 2018
 
