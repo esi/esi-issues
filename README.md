@@ -29,7 +29,7 @@ Note: `502` or `503` errors are not bugs. Retry your request again in the future
 
 ### [Request a new feature](https://github.com/esi/esi-issues/issues/new?template=feature_request.md)
 
-Some new features will require game design approval. Do not open duplicate feature requests, if you find something similar to what you're requesting, thumbsup the parent comment and add any addendums as comments.
+Some new features will require game design approval. Do not open duplicate feature requests, if you find something similar to what you're requesting, thumbs up the parent comment and add any addendums as comments.
 
 Examples:
 
