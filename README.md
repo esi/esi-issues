@@ -17,7 +17,7 @@ Please use the search function before opening a new issue (be sure to include cl
 
 To open a new issue click on one of the following headers (if you think your issue doesn't fit in any of these categories we invite you to [discuss it with us in #esi on tweetfleet slack first](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/)):
 
-### [Report a new bug](https://github.com/ccpgames/esi-issues/issues/new?template=bug.md)
+### [Report a new bug](https://github.com/esi/esi-issues/issues/new?template=bug.md)
 
 Examples:
 
@@ -27,7 +27,7 @@ Examples:
 
 Note: `502` or `503` errors are not bugs. Retry your request again in the future
 
-### [Request a new feature](https://github.com/ccpgames/esi-issues/issues/new?template=feature_request.md)
+### [Request a new feature](https://github.com/esi/esi-issues/issues/new?template=feature_request.md)
 
 Some new features will require game design approval. Do not open duplicate feature requests, if you find something similar to what you're requesting, thumbsup the parent comment and add any addendums as comments.
 
@@ -37,7 +37,7 @@ Examples:
 - exposing other readily available client data
 - meta requests, adding some global parameter to the specs (`ETag`, `Accept-Encoding`, etc...)
 
-### [Report an inconsistency](https://github.com/ccpgames/esi-issues/issues/new?template=inconsistency.md)
+### [Report an inconsistency](https://github.com/esi/esi-issues/issues/new?template=inconsistency.md)
 
 Examples:
 
@@ -46,16 +46,16 @@ Examples:
 
 ## Migration Guide
 
-### [CREST -> ESI](https://ccpgames.github.io/esi-issues/CREST_to_ESI)
+### [CREST -> ESI](https://esi.github.io/esi-issues/CREST_to_ESI)
 
-### [XML -> ESI](https://ccpgames.github.io/esi-issues/XML_to_ESI)
+### [XML -> ESI](https://esi.github.io/esi-issues/XML_to_ESI)
 
 
 ## Issue velocity
 
-[![Waffle.io](https://badge.waffle.io/ccpgames/esi-issues.svg?columns=new,backlog,todo,in+progress,staging)](http://waffle.io/ccpgames/esi-issues)
+[![Waffle.io](https://badge.waffle.io/esi/esi-issues.svg?columns=new,backlog,todo,in+progress,staging)](http://waffle.io/esi/esi-issues)
 
-[![Throughput Graph](https://graphs.waffle.io/ccpgames/esi-issues/throughput.svg)](https://waffle.io/ccpgames/esi-issues/metrics/throughput)
+[![Throughput Graph](https://graphs.waffle.io/esi/esi-issues/throughput.svg)](https://waffle.io/esi/esi-issues/metrics/throughput)
 
 
 ## ESI Members
@@ -101,7 +101,7 @@ Probably. Check the [awesome-eve](https://github.com/devfleet/awesome-eve) repos
 
 ### What happened to CREST and XML API?
 
-After [18 months of notice](https://www.eveonline.com/article/introducing-esi/) both CREST and XML API were [shut down on May 8th, 2018](https://developers.eveonline.com/blog/article/a-eulogy-for-xml-crest). Please see either the [CREST to ESI](https://ccpgames.github.io/esi-issues/CREST_to_ESI) or [XML to ESI](https://ccpgames.github.io/esi-issues/XML_to_ESI) migration guides for assistance in porting your old applications to ESI.
+After [18 months of notice](https://www.eveonline.com/article/introducing-esi/) both CREST and XML API were [shut down on May 8th, 2018](https://developers.eveonline.com/blog/article/a-eulogy-for-xml-crest). Please see either the [CREST to ESI](https://esi.github.io/esi-issues/CREST_to_ESI) or [XML to ESI](https://esi.github.io/esi-issues/XML_to_ESI) migration guides for assistance in porting your old applications to ESI.
 
 
 ## Further Questions?
