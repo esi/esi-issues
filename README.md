@@ -71,6 +71,28 @@ GitHub User | CCP Dev Name | Tweetfleet Slack | Role
 [tsuthers-ccpgames](https://github.com/tsuthers-ccpgames) | CCP Bartender | [@ccp_bartender](https://tweetfleet.slack.com/messages/@ccp_bartender/) | Developer
 
 
+## ESI Community
+
+The following people are members of the ESI github community. They will be helping to triage issues and guide discussions. Please treat them (and all others) with respect.
+
+GitHub User      | EVE Character     | Tweetfleet Slack
+-----------------|-------------------|-----------------
+antihax          | croakroach        | antihax
+rawrasaur        | Aurora Morgan     | aurora
+itshouldntdothis | Beryl Slanjava    | berylslanjava
+Blacksmoke16     | Blacksmoke16      | blacksmoke16
+DianaOlympos     | Diana Olympos     | dianaolympos
+CarbonAlabel     | Carbon Alabel     | Carbon
+lukasni          | Catherine Solenne | catherinesolenne
+w9jds            | Chingy Chonga     | Chingy Chonga
+NathenSample     | Christy Cloud     | christycloud
+ddavaham         | David Davaham     | DoubleD
+fuzzysteve       | Steve Ronuken     | fuzzysteve
+GoldenGnu        | GoldenGnu         | goldengnu
+andimiller       | Lucia Denniard    | luciadenniard
+jowrjowr         | Saeka Tyr         | saeka
+
+
 ## FAQ
 
 ### How do I make authenticated requests?
