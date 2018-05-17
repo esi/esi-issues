@@ -4,7 +4,7 @@ For public ESI issue tracking only. Bring out your dead.
 
 https://esi.evetech.net/
 
-**Please only submit issues related to ESI (not CREST or XMLAPI).**
+**Please only submit issues related to ESI.**
 
 **[Click here for SSO issues](https://github.com/ccpgames/sso-issues/issues)**
 
@@ -77,20 +77,20 @@ The following people are members of the ESI github community. They will be helpi
 
 GitHub User      | EVE Character     | Tweetfleet Slack
 -----------------|-------------------|-----------------
-antihax          | croakroach        | antihax
-rawrasaur        | Aurora Morgan     | aurora
-itshouldntdothis | Beryl Slanjava    | berylslanjava
-Blacksmoke16     | Blacksmoke16      | blacksmoke16
-DianaOlympos     | Diana Olympos     | dianaolympos
-CarbonAlabel     | Carbon Alabel     | Carbon
-lukasni          | Catherine Solenne | catherinesolenne
-w9jds            | Chingy Chonga     | Chingy Chonga
-NathenSample     | Christy Cloud     | christycloud
-ddavaham         | David Davaham     | DoubleD
-fuzzysteve       | Steve Ronuken     | fuzzysteve
-GoldenGnu        | GoldenGnu         | goldengnu
-andimiller       | Lucia Denniard    | luciadenniard
-jowrjowr         | Saeka Tyr         | saeka
+[antihax](https://github.com/antihax)          | croakroach        | antihax
+[rawrasaur](https://github.com/rawrasaur)        | Aurora Morgan     | aurora
+[itshouldntdothis](https://github.com/itshouldntdothis) | Beryl Slanjava    | berylslanjava
+[Blacksmoke16](https://github.com/Blacksmoke16)     | Blacksmoke16      | blacksmoke16
+[DianaOlympos](https://github.com/DianaOlympos)     | Diana Olympos     | dianaolympos
+[CarbonAlabel](https://github.com/CarbonAlabel)     | Carbon Alabel     | Carbon
+[lukasni](https://github.com/lukasni)          | Catherine Solenne | catherinesolenne
+[w9jds](https://github.com/w9jds)            | Chingy Chonga     | Chingy Chonga
+[NathenSample](https://github.com/NathenSample)     | Christy Cloud     | christycloud
+[ddavaham](https://github.com/ddavaham)         | David Davaham     | DoubleD
+[fuzzysteve](https://github.com/fuzzysteve)       | Steve Ronuken     | fuzzysteve
+[GoldenGnu](https://github.com/GoldenGnu)        | GoldenGnu         | goldengnu
+[andimiller](https://github.com/andimiller)       | Lucia Denniard    | luciadenniard
+[jowrjowr](https://github.com/jowrjowr)         | Saeka Tyr         | saeka
 
 
 ## FAQ
