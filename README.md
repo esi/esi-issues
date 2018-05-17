@@ -77,20 +77,20 @@ The following people are members of the ESI github community. They will be helpi
 
 GitHub User      | EVE Character     | Tweetfleet Slack
 -----------------|-------------------|-----------------
-antihax          | croakroach        | antihax
-rawrasaur        | Aurora Morgan     | aurora
-itshouldntdothis | Beryl Slanjava    | berylslanjava
-Blacksmoke16     | Blacksmoke16      | blacksmoke16
-DianaOlympos     | Diana Olympos     | dianaolympos
-CarbonAlabel     | Carbon Alabel     | Carbon
-lukasni          | Catherine Solenne | catherinesolenne
-w9jds            | Chingy Chonga     | Chingy Chonga
-NathenSample     | Christy Cloud     | christycloud
-ddavaham         | David Davaham     | DoubleD
-fuzzysteve       | Steve Ronuken     | fuzzysteve
-GoldenGnu        | GoldenGnu         | goldengnu
-andimiller       | Lucia Denniard    | luciadenniard
-jowrjowr         | Saeka Tyr         | saeka
+[antihax](https://github.com/antihax) | croakroach | [@antihax](https://tweetfleet.slack.com/messages/@antihax/)
+[rawrasaur](https://github.com/rawrasaur) | Aurora Morgan | [@aurora](https://tweetfleet.slack.com/messages/@aurora/)
+[itshouldntdothis](https://github.com/itshouldntdothis) | Beryl Slanjava | [@berylslanjava](https://tweetfleet.slack.com/messages/@berylslanjava/)
+[Blacksmoke16](https://github.com/Blacksmoke16) | Blacksmoke16 | [@blacksmoke16](https://tweetfleet.slack.com/messages/@blacksmoke16/)
+[DianaOlympos](https://github.com/DianaOlympos) | Diana Olympos | [@dianaolympos](https://tweetfleet.slack.com/messages/@dianaolympos/)
+[CarbonAlabel](https://github.com/CarbonAlabel) | Carbon Alabel | [@Carbon](https://tweetfleet.slack.com/messages/@Carbon/)
+[lukasni](https://github.com/lukasni) | Catherine Solenne | [@catherinesolenne](https://tweetfleet.slack.com/messages/@catherinesolenne/)
+[w9jds](https://github.com/w9jds) | Chingy Chonga | [@Chingy Chonga](https://tweetfleet.slack.com/messages/@Chingy_Chonga/)
+[NathenSample](https://github.com/NathenSample) | Christy Cloud | [@christycloud](https://tweetfleet.slack.com/messages/@christycloud/)
+[ddavaham](https://github.com/ddavaham) | David Davaham | [@DoubleD](https://tweetfleet.slack.com/messages/@DoubleD/)
+[fuzzysteve](https://github.com/fuzzysteve) | Steve Ronuken | [@fuzzysteve](https://tweetfleet.slack.com/messages/@fuzzysteve/)
+[GoldenGnu](https://github.com/GoldenGnu) | GoldenGnu | [@goldengnu](https://tweetfleet.slack.com/messages/@goldengnu/)
+[andimiller](https://github.com/andimiller) | Lucia Denniard | [@luciadenniard](https://tweetfleet.slack.com/messages/@luciadenniard/)
+[jowrjowr](https://github.com/jowrjowr) | Saeka Tyr | [@saeka](https://tweetfleet.slack.com/messages/@saeka/)
 
 
 ## FAQ
