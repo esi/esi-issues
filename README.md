@@ -15,7 +15,7 @@ https://esi.evetech.net/
 
 Please use the search function before opening a new issue (be sure to include closed issues as well).
 
-To open a new issue click on one of the following headers (if you think your issue doesn't fit in any of these categories we invite you to [discuss it with us in #esi on tweetfleet slack first](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/)):
+To open a new issue click on one of the following headers (if you think your issue doesn't fit in any of these categories we invite you to [discuss it with us in `#esi` on Tweetfleet Slack first](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/)):
 
 ### [Report a new bug](https://github.com/esi/esi-issues/issues/new?template=bug.md)
 
@@ -25,11 +25,11 @@ Examples:
 - incorrect information in the swagger spec
 - otherwise invalid or unexpected responses
 
-Note: `502` or `503` errors are not bugs. Retry your request again in the future
+Note: `502` or `503` errors are not bugs. Retry your request again in the future.
 
 ### [Request a new feature](https://github.com/esi/esi-issues/issues/new?template=feature_request.md)
 
-Some new features will require game design approval. Do not open duplicate feature requests, if you find something similar to what you're requesting, thumbs up the parent comment and add any addendums as comments.
+Some new features will require game design approval. Do not open duplicate feature requests! If you find something similar to what you're requesting, thumbs up the parent comment and add any addendums as comments.
 
 Examples:
 
@@ -42,7 +42,7 @@ Examples:
 Examples:
 
 - two endpoints returning slightly different names for the same attribute
-- attribute values are returned with different formats for different routes (ie; int32 vs int64)
+- attribute values are returned with different formats for different routes (ie; `int32` vs `int64`)
 
 ## Migration Guide
 
@@ -73,7 +73,7 @@ Examples:
 
 ## ESI Community
 
-The following people are members of the ESI github community. They will be helping to triage issues and guide discussions. Please treat them (and all others) with respect.
+The following people are members of the ESI GitHub community. They will be helping to triage issues and guide discussions. Please treat them (and all others) with respect.
 
  GitHub | EVE Character | Tweetfleet Slack | Twitter
 --------|---------------|------------------|---------
@@ -97,7 +97,7 @@ The following people are members of the ESI github community. They will be helpi
 
 ### How do I make authenticated requests?
 
-ESI uses the same standard oauth2 flow CREST used. [We released a blog detailing the SSO flow for ESI applications](https://developers.eveonline.com/blog/article/sso-to-authenticated-calls), but you can use whatever oauth2 library you're most comfortable with.
+ESI uses the same standard OAuth 2.0 flow CREST used. [We released a blog detailing the SSO flow for ESI applications](https://developers.eveonline.com/blog/article/sso-to-authenticated-calls), but you can use whatever OAuth 2.0 library you're most comfortable with.
 
 ### What is the error limit?
 
@@ -119,7 +119,7 @@ They embed the version in the path, resulting in more stable clients. [Please re
 
 ### Is there an ESI client library in &lt;language_x&gt;?
 
-Probably. Check the [awesome-eve](https://github.com/devfleet/awesome-eve) repository. If you can't find something there for your language, you can try the [swagger open source integrations page](https://swagger.io/open-source-integrations/).
+Probably. Check the [awesome-eve](https://github.com/devfleet/awesome-eve) repository. If you can't find something there for your language, you can try the [Swagger open source integrations page](https://swagger.io/open-source-integrations/).
 
 ### What happened to CREST and XML API?
 
@@ -128,4 +128,4 @@ After [18 months of notice](https://www.eveonline.com/article/introducing-esi/) 
 
 ## Further Questions?
 
-Join us on Tweetfleet Slack, in the #esi channel. If you're not on Tweetfleet Slack yet, [get an invite here](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/).
+Join us on Tweetfleet Slack, in the `#esi` channel. If you're not on Tweetfleet Slack yet, [get an invite here](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/).
