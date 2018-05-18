@@ -4,7 +4,7 @@ For public ESI issue tracking only. Bring out your dead.
 
 https://esi.evetech.net/
 
-**Please only submit issues related to ESI (not CREST or XMLAPI).**
+**Please only submit issues related to ESI.**
 
 **[Click here for SSO issues](https://github.com/ccpgames/sso-issues/issues)**
 
