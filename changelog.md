@@ -16,6 +16,17 @@ Dates in the future are upcoming scheduled changes.
 - **PROMOTION** PUT /v2/characters/{character_id}/contacts/ (dev -> latest)
 - **PROMOTION** DELETE /v2/characters/{character_id}/contacts/ (dev -> latest)
 
+# May 22nd, 2018
+
+- GET /v1/corporations/{corporation_id}/killmails/recent/
+    - Remove `max_kill_id` query parameter.
+    - X-pages pagination added.
+
+
+- GET /v1/characters/{character_id}/killmails/recent/
+    - Remove `max_kill_id` and `max_count` query parameters.
+    - X-pages pagination added.
+
 # May 18, 2018
 
 - **REMOVAL** GET /v1/characters/{character_id}/chat_channels/
