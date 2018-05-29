@@ -2,6 +2,18 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# July 8th, 2018
+- **PROMOTION** GET /v2/universe/structures/{structure_id}/ (dev -> latest)
+- **PROMOTION** GET /v4/universe/systems/{system_id}/ (dev -> latest)
+- **PROMOTION** GET /v2/corporations/{corporation_id}/orders/history/ (dev -> latest)
+- **PROMOTION** GET /v3/corporations/{corporation_id}/orders/ (dev -> latest)
+- **DEPRECATION** GET /v1/universe/structures/{structure_id}/ (latest -> legacy)
+- **DEPRECATION** GET /v3/universe/systems/{system_id}/ (latest -> legacy)
+- **DEPRECATION** GET /v1/corporations/{corporation_id}/orders/history/ (latest -> legacy)
+- **DEPRECATION** GET /v2/corporations/{corporation_id}/orders/ (latest -> legacy)
+- **REMOVAL** GET /v2/universe/systems/{system_id}
+- **REMOVAL** GET /v1/corporations/{corporation_id}/orders/
+
 # June 27, 2018
 
 - **PROMOTION** GET /v2/fw/systems/ (dev -> latest)
@@ -15,6 +27,25 @@ Dates in the future are upcoming scheduled changes.
 - **PROMOTION** POST /v2/characters/{character_id}/contacts/ (dev -> latest)
 - **PROMOTION** PUT /v2/characters/{character_id}/contacts/ (dev -> latest)
 - **PROMOTION** DELETE /v2/characters/{character_id}/contacts/ (dev -> latest)
+
+# May 29th, 2018
+
+**New routes**
+- GET /v1/dogma/dynamic/items/{type_id}/{item_id}/ (dev, latest, legacy)
+- GET /v2/universe/structures/{structure_id}/ (dev)
+    - Add `owner_id` as required attribute
+- GET /v4/universe/systems/{system_id}/ (dev)
+    - Change attributes `star_id` and `planets` to be optional
+- GET /v2/corporations/{corporation_id}/orders/history/ (dev)
+    - Add required attribute `issued_by`
+- GET /v3/corporations/{corporation_id}/orders/ (dev)
+    - Add required attribute `issued_by`
+
+**Changes to existing routes**
+- GET /v3/corporations/{corporation_id}/assets/ (dev, latest)
+    - Add optional `is_blueprint_copy` attribute
+- GET /v3/characters/{character_id}/assets/ (dev, latest)
+    - Add optional `is_blueprint_copy` attribute
 
 # May 22nd, 2018
 
