@@ -68,7 +68,7 @@ Examples:
 [![Throughput Graph](https://graphs.waffle.io/esi/esi-issues/throughput.svg)](https://waffle.io/esi/esi-issues/metrics/throughput)
 
 
-## [ESI Members](https://github.com/orgs/esi/teams/ccp)
+## ESI Members
 
  GitHub | CCP Dev Name | Tweetfleet Slack | Twitter | Role 
 --------|--------------|------------------|---------|------
@@ -81,7 +81,7 @@ Examples:
 [tsuthers-ccpgames](https://github.com/tsuthers-ccpgames) | CCP Bartender | [@ccp_bartender](https://tweetfleet.slack.com/messages/@ccp_bartender/) | N/A | Developer
 
 
-## [ESI Community](https://github.com/orgs/esi/teams/ecm)
+## ESI Community
 
 The following people are members of the ESI GitHub community. They will be helping to triage issues and guide discussions. Please treat them (and all others) with respect.
 
