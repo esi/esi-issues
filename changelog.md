@@ -26,7 +26,6 @@ Dates in the future are upcoming scheduled changes.
 - **PROMOTION** GET /v2/corporations/{corporation_id}/contacts/ (dev -> latest)
 - **PROMOTION** POST /v2/characters/{character_id}/contacts/ (dev -> latest)
 - **PROMOTION** PUT /v2/characters/{character_id}/contacts/ (dev -> latest)
-- **PROMOTION** DELETE /v2/characters/{character_id}/contacts/ (dev -> latest)
 
 # May 29th, 2018
 
