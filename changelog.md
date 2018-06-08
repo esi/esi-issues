@@ -2,7 +2,7 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
-# July 8th, 2018
+# 2018-07-08
 - **PROMOTION** GET /v2/universe/structures/{structure_id}/ (dev -> latest)
 - **PROMOTION** GET /v4/universe/systems/{system_id}/ (dev -> latest)
 - **PROMOTION** GET /v2/corporations/{corporation_id}/orders/history/ (dev -> latest)
@@ -14,12 +14,12 @@ Dates in the future are upcoming scheduled changes.
 - **REMOVAL** GET /v2/universe/systems/{system_id}
 - **REMOVAL** GET /v1/corporations/{corporation_id}/orders/
 
-# June 27, 2018
+# 2018-06-27
 
 - **PROMOTION** GET /v2/fw/systems/ (dev -> latest)
 - **DEPRECATION** GET /v1/fw/systems/ (latest -> legacy)
 
-# June 7, 2018
+# 2018-06-07
 
 - **PROMOTION** GET /v2/alliances/{alliance_id}/contacts/ (dev -> latest)
 - **PROMOTION** GET /v2/characters/{character_id}/contacts/ (dev -> latest)
@@ -27,7 +27,7 @@ Dates in the future are upcoming scheduled changes.
 - **PROMOTION** POST /v2/characters/{character_id}/contacts/ (dev -> latest)
 - **PROMOTION** PUT /v2/characters/{character_id}/contacts/ (dev -> latest)
 
-# May 29th, 2018
+# 2018-05-29
 
 **New routes**
 - GET /v1/dogma/dynamic/items/{type_id}/{item_id}/ (dev, latest, legacy)
@@ -46,7 +46,7 @@ Dates in the future are upcoming scheduled changes.
 - GET /v3/characters/{character_id}/assets/ (dev, latest)
     - Add optional `is_blueprint_copy` attribute
 
-# May 22nd, 2018
+# 2018-05-22
 
 - GET /v1/corporations/{corporation_id}/killmails/recent/
     - Remove `max_kill_id` query parameter.
@@ -57,27 +57,27 @@ Dates in the future are upcoming scheduled changes.
     - Remove `max_kill_id` and `max_count` query parameters.
     - X-pages pagination added.
 
-# May 18, 2018
+# 2018-05-18
 
 - **REMOVAL** GET /v1/characters/{character_id}/chat_channels/
 
-# May 16th, 2018
+# 2018-05-16
 
 - GET /v2/fw/systems/ (dev)
 
-# May 15th, 2018
+# 2018-05-15
 
 - GET /v1/markets/{region_id}/orders/ -- maxItems dropped from 10,000 -> 1,000
 
-# May 4th, 2018
+# 2018-05-04
 
 - GET /v2/universe/stations/{station_id}/ -- Cache time changed to daily at 11:05
 
-# Apr 27, 2018
+# 2018-04-27
 
 - **DEPRECATION** GET /v1/characters/{character_id}/chat_channels/ (latest -> legacy)
 
-# Apr 26, 2018
+# 2018-04-26
 
 **New routes**
 
@@ -100,7 +100,7 @@ Dates in the future are upcoming scheduled changes.
 - **REMOVAL** GET /v2/characters/{character_id}/wallet/journal/
 - **REMOVAL** GET /v1/corporations/{corporation_id}/wallets/{division}/journal/
 
-# Apr 6, 2018
+# 2018-04-06
 
 - GET /latest/universe/asteroid_belts/{asteroid_belt_id}/ (v1)
 
@@ -109,7 +109,7 @@ Dates in the future are upcoming scheduled changes.
 - `system_id` added to `/v1/markets/{region_id}/orders/`
 - `asteroid_belts` added to `planets` object in response from `/v3/universe/systems/{system_id}/`
 
-# Apr 3, 2018
+# 2018-04-03
 
 - **REMOVAL** GET /legacy/corporations/{corporation_id}/assets/ (v1)
 - **PROMOTION** GET /latest/corporations/{corporation_id}/assets/ (v3)
@@ -117,47 +117,47 @@ Dates in the future are upcoming scheduled changes.
 - **PROMOTION** GET /latest/corporations/{corporation_id}/blueprints/ (v2)
 - **PROMOTION** GET /latest/corporations/{corporation_id}/containers/logs/ (v2)
 
-# Mar 15, 2018
+# 2018-03-15
 
 - GET /dev/characters/{character_id}/wallet/journal/ (v4)
 - GET /dev/corporations/{corporation_id}/wallets/{division}/journal/ (v3)
 
-# Mar 8, 2018
+# 2018-03-08
 
 - **PROMOTION** GET /latest/corporations/{corporation_id}/orders/ (v2)
 - **PROMOTION** GET /latest/characters/{character_id}/orders/ (v2)
 
-# Feb 27, 2018
+# 2018-02-27
 
 - **REMOVAL** PUT /v1/corporations/{corporation_id}/structures/{structure_id}/
 
-# Feb 20, 2018
+# 2018-02-20
 
 - GET /dev/corporations/{corporation_id}/containers/logs/ (v2)
 - GET /dev/corporations/{corporation_id}/blueprints/ (v2)
 - GET /dev/characters/{character_id}/notifications/ (v2)
 - GET /dev/corporations/{corporation_id}/assets/ (v3)
 
-# Feb 13, 2018
+# 2018-02-13
 
 - GET /latest/corporations/{corporation_id}/structures/ (v2)
 
-# Feb 7, 2018
+# 2018-02-07
 
 - GET /latest/universe/ancestries/ (v1)
 
-# Jan 25, 2018
+# 2018-01-25
 
 - GET /dev/corporations/{corporation_id}/orders/ (v2)
 - GET /dev/characters/{character_id}/orders/ (v2)
 - GET /latest/corporations/{corporation_id}/orders/history/ (v1)
 - GET /latest/characters/{character_id}/orders/history/ (v1)
 
-# Dec 28, 2017
+# 2017-12-28
 
 - **PROMOTION** GET /latest/characters/{character_id}/stats/ (v2)
 
-# Dec 20, 2017
+# 2017-12-20
 
 - **PROMOTION** GET /latest/search/ (v2)
 - **PROMOTION** POST /latest/corporations/{corporation_id}/assets/locations/ (v2)
@@ -179,20 +179,20 @@ Dates in the future are upcoming scheduled changes.
 - **PROMOTION** GET /latest/alliances/names/ (v2)
 - **PROMOTION** GET /latest/alliances/{alliance_id}/ (v3)
 
-# Dec 19, 2017
+# 2017-12-19
 
 - POST /latest/universe/ids/ (v1)
 
-# Nov 21, 2017
+# 2017-11-21
 
 - GET /latest/corporations/{corporation_id}/outposts/{outpost_id}/ (v1)
 - GET /latest/corporations/{corporation_id}/outposts/ (v1)
 
-# Nov 16, 2017
+# 2017-11-16
 
 - GET /dev/characters/{character_id}/assets/ (v2)
 
-# Nov 2, 2017
+# 2017-11-02
 
 - GET /latest/universe/factions/ (v2)
 - GET /latest/characters/{character_id}/wallet/journal/ (v3)
@@ -200,7 +200,7 @@ Dates in the future are upcoming scheduled changes.
 - GET /latest/corporations/{corporation_id}/fw/stats/ (v1)
 - GET /latest/characters/{character_id}/fw/stats/ (v1)
 
-# Oct 31, 2017
+# 2017-10-31
 
 - GET /latest/alliances/{alliance_id}/contacts/ (v1)
 - GET /latest/corporations/{corporation_id}/members/titles/ (v1)
@@ -213,7 +213,7 @@ Dates in the future are upcoming scheduled changes.
 - GET /latest/corporations/{corporation_id}/customs_offices/ (v1)
 - GET /latest/characters/{character_id}/titles/ (v1)
 
-# Oct 24, 2017
+# 2017-10-24
 
 - GET /latest/corporation/{corporation_id}/mining/observers/{observer_id}/ (v1)
 - GET /latest/corporation/{corporation_id}/mining/observers/ (v1)
@@ -221,11 +221,11 @@ Dates in the future are upcoming scheduled changes.
 - GET /latest/characters/{character_id}/bookmarks/folders/ (v2)
 - GET /latest/characters/{character_id}/bookmarks/ (v2)
 
-# Oct 17, 2017
+# 2017-10-17
 
 - GET /latest/corporations/{corporation_id}/containers/logs/ (v1)
 
-# Oct 12, 2017
+# 2017-10-12
 
 - GET /latest/corporations/{corporation_id}/orders/ (v1)
 - GET /latest/corporations/{corporation_id}/industry/jobs/ (v1)
@@ -236,68 +236,68 @@ Dates in the future are upcoming scheduled changes.
 - POST /latest/corporations/{corporation_id}/assets/locations/ (v1)
 - POST /latest/corporations/{corporation_id}/assets/names/ (v1)
 
-# Oct 10, 2017
+# 2017-10-10
 
 - GET /latest/corporations/{corporation_id}/bookmarks/folders/ (v1)
 - GET /latest/corporations/{corporation_id}/bookmarks/ (v1)
 - GET /dev/characters/{character_id}/bookmarks/folders/ (v2)
 - GET /dev/characters/{character_id}/bookmarks/ (v2)
 
-# Oct 6, 2017
+# 2017-10-06
 
 - GET /latest/characters/{character_id}/wallet/journal (v2)
 - GET /latest/universe/types/{type_id} (v3)
 - GET /latest/characters/{character_id}/blueprints/ (v2)
 
-# Sep 25, 2017
+# 2017-09-25
 
 - GET /latest/corporations/{corporation_id}/titles (v1)
 - POST /latest/characters/{character_id}/assets/locations (v1)
 - POST /latest/characters/{character_id}/assets/names (v1)
 
-# Sep 21, 2017
+# 2017-09-21
 
 - GET /latest/corporations/{corporation_id}/blueprints (v1)
 
-# Sep 19, 2017
+# 2017-09-19
 
 - GET /latest/characters/{character_id}/calendar/{event_id}/attendees (v1)
 
-# Sep 13, 2017
+# 2017-09-13
 
 - GET /latest/corporations/{corporation_id}/wallets/{division}/transactions (v1)
 - GET /latest/corporations/{corporation_id}/assets (v1)
 - GET /latest/characters/{character_id}/assets (v1, **spec breaking**) Migrate to a pagination style
 
-# Sep 7, 2017
+# 2017-09-07
 
 - GET /latest/corporations/{corporation_id}/contacts (v1)
 - GET /latest/corporations/{corporation_id}/members/limit (v1)
 - GET /latest/corporations/{corporation_id}/divisions/ (v1)
 
-# Sep 5, 2017
+# 2017-09-05
 
 - GET /dev/characters/{character_id}/blueprints/ (v2)
 
-# Sep 1, 2017
+# 2017-09-01
 
 - GET /latest/universe/systems/{system_id}/ (v3)
 
-# Aug 30, 2017
+# 2017-08-30
 
 - GET /latest/corporations/{corporation_id}/wallets/{division}/journal (v1)
 - GET /latest/corporations/{corporation_id}/killmails/recent (v1)
 
-# Aug 29, 2017
+# 2017-08-29
 
 - GET /dev/characters/{character_id}/roles/ (v2)
 - GET /latest/characters/{character_id}/notifications/contacts/ (v1)
 
-# Aug 25, 2017
+# 2017-08-25
 
 - GET /latest/characters/{character_id}/planets/{planet_id}/ (v3)
 
-# Aug 23, 2017
+# 2017-08-23
 
 - GET /latest/corporations/{corporation_id}/wallets/ (v1)
 - GET /latest/corporations/{corporation_id}/membertracking/ (v1)
@@ -307,12 +307,12 @@ Dates in the future are upcoming scheduled changes.
 - GET /latest/fw/leaderboards/characters/ (v1)
 - GET /latest/fw/leaderboards/ (v1)
 
-# Aug 3, 2017
+# 2017-08-03
 
 - GET /latest/fw/stats/ (v1)
 - GET /latest/fw/wars/ (v1)
 
-# Aug 2, 2017
+# 2017-08-02
 
 - **REMOVAL** GET /legacy/universe/types/{type_id} (v1)
 - **REMOVAL** GET /legacy/characters/{character_id}/clones/ (v1)
@@ -321,7 +321,7 @@ Dates in the future are upcoming scheduled changes.
 - **REMOVAL** GET /legacy/characters/{character_id}/wallets/journal (v1)
 - **REMOVAL** GET /legacy/characters/{character_id}/wallets (v1)
 
-# Jul 20, 2017
+# 2017-07-20
 
 - GET /latest/characters/{character_id}/fatigue (v1)
 - GET /latest/corporations/{corporation_id}/alliancehistory/ (v2)
@@ -329,7 +329,7 @@ Dates in the future are upcoming scheduled changes.
 - GET /dev/universe/types/{type_id} (v3) Add `packaged_volume` (#125)
 - GET /latest/characters/{character_id}/implants (v1)
 
-# Jul 4, 2017
+# 2017-07-04
 
 - GET /dev/dogma/effects/{effect_id} (v2) Make `domain` optional
 - GET /latest/characters/{character_id}/wallet/transactions (v1)
@@ -338,12 +338,12 @@ Dates in the future are upcoming scheduled changes.
 - GET /dev/characters/{character_id}/skills (v4) Add `unallocated_sp`
 - GET /latest/characters/{character_id}/attributes (v1)
 
-# Jun 21, 2017
+# 2017-06-21
 
 - GET /dev/corporations/names (v2)
 - GET /dev/alliances/names (v2)
 
-# Jun 20, 2017
+# 2017-06-20
 
 - GET /dev/characters/{character_id}/skills/ (v4)
 - GET /latest/characters/{character_id}/wallets/journal (v1)
@@ -351,25 +351,25 @@ Dates in the future are upcoming scheduled changes.
 - GET /latest/characters/{character_id}/contracts/{contract_id}/items (v1)
 - GET /latest/characters/{character_id}/contracts (v1)
 
-# Jun 13, 2017
+# 2017-06-13
 
 - GET /dev/characters/{character_id}/online/ (v2) #424
 
-# May 16, 2017
+# 2017-05-16
 
 - GET /dev/dogma/effects/{effect_id}/ (v2)
 
-# May 9, 2017
+# 2017-05-09
 
 - GET /latest/characters/{character_id}/blueprints (v1)
 - GET /latest/characters/{character_id}/industry/jobs (v1)
 - GET /latest/characters/{character_id}/orders (v1)
 
-# Apr 11, 2017
+# 2017-04-11
 
 - GET /latest/status/ (v1) #88
 
-# Mar 30, 2017
+# 2017-03-30
 
 - GET /latest/universe/system_kills (v1)
 - GET /latest/universe/system_jumps (v1)
@@ -379,13 +379,13 @@ Dates in the future are upcoming scheduled changes.
 - GET /latest/characters/{character_id}/medals (v1)
 - GET /latest/characters/{character_id}/chat_channels (v1)
 
-# Mar 1, 2017
+# 2017-03-01
 
 - GET /dev/universe/types/{type_id} (v3) #276
 - GET /latest/markets/groups/{group_id} (v1) #156
 - GET /latest/markets/groups (v1) #156
 
-# Feb 23, 2017
+# 2017-02-23
 
 - GET /latest/universe/graphics/{graphic_id}/ (v1)
 - GET /latest/universe/graphics/ (v1)
@@ -398,17 +398,17 @@ Dates in the future are upcoming scheduled changes.
 - GET /latest/corporations/{corporation_id}/ (v3)
 - GET /latest/characters/{character_id}/planets/{planet_id}/ (v2)
 
-# Feb 20, 2017
+# 2017-02-20
 
 - /latest/characters/{character_id}/loyalty/points/ (v1)
 - /latest/loyalty/stores/{corporation_id}/offers/ (v1)
 
-# Feb 14, 2017
+# 2017-02-14
 
 - /latest/universe/systems/{system_id}/ (v2)
 - /latest/universe/stations/{station_id}/ (v2)
 
-# Feb 7, 2017
+# 2017-02-07
 
 - /dev/universe/stations/{station_id}/ (v2)
 - /latest/universe/stargates/{stargate_id}/ (v1)
@@ -421,23 +421,23 @@ Dates in the future are upcoming scheduled changes.
 - /latest/universe/regions/{region_id}/ (v1)
 - /latest/universe/regions/ (v1)
 
-# Jan 31, 2017
+# 2017-01-31
 
 - /latest/universe/bloodlines/ (v1)
 - /latest/universe/names/ (v2) #186
 - /latest/characters/<char_id>/ (v4) #221
 
-# Jan 26, 2017
+# 2017-01-26
 
 - /latest/universe/factions/ (v1)
 
-# Jan 24, 2017
+# 2017-01-24
 
 - /dev/characters/<char_id>/ (v4) #221
 - /latest/wars/ (v1, spec breaking change) #228
 - /latest/universe/races/ (v1) #147
 
-# Nov 30, 2016
+# 2016-11-30
 
 - GET /dev/corporations/{corporation_id}/assets/ (v2)
 - GET /dev/characters/{character_id}/assets/ (v3)
