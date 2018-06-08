@@ -56,9 +56,9 @@ Examples:
 
 ## Migration Guide
 
-### [CREST -> ESI](https://esi.github.io/esi-issues/CREST_to_ESI)
+### [CREST -> ESI](https://esi.github.io/esi-issues/docs/CREST_to_ESI)
 
-### [XML -> ESI](https://esi.github.io/esi-issues/XML_to_ESI)
+### [XML -> ESI](https://esi.github.io/esi-issues/docs/XML_to_ESI)
 
 
 ## Issue velocity
@@ -70,7 +70,7 @@ Examples:
 
 ## ESI Members
 
- GitHub | CCP Dev Name | Tweetfleet Slack | Twitter | Role 
+ GitHub | CCP Dev Name | Tweetfleet Slack | Twitter | Role
 --------|--------------|------------------|---------|------
 [a-tal](https://github.com/a-tal) | CCP SnowedIn | [@ccp_snowedin](https://tweetfleet.slack.com/messages/@ccp_snowedin/) | [@CCP_SnowedIn](https://twitter.com/CCP_SnowedIn) | BDFL
 [aquarhead](https://github.com/aquarhead) | CCP AquarHEAD | [@ccp_aquarhead](https://tweetfleet.slack.com/messages/@ccp_aquarhead/) | [@aquarhead](https://twitter.com/aquarhead) | Developer
@@ -103,39 +103,35 @@ The following people are members of the ESI GitHub community. They will be helpi
 [jowrjowr](https://github.com/jowrjowr) | Saeka Tyr | [@saeka](https://tweetfleet.slack.com/messages/@saeka/) | N/A
 
 
-## FAQ
+## Documentation
 
-### How do I make authenticated requests?
+Docs are stored in the [docs](docs) subfolder. Please open pull requests if you see anything out of order there.
 
-ESI uses the same standard OAuth 2.0 flow CREST used. [We released a blog detailing the SSO flow for ESI applications](https://developers.eveonline.com/blog/article/sso-to-authenticated-calls), but you can use whatever OAuth 2.0 library you're most comfortable with.
+If you're adding a new document, be sure to include a link here somewhere.
 
-### What is the error limit?
+### General
 
-ESI is not rate limited, it is however error limited. [Please refer to this blog post detailing the ESI error limit](https://developers.eveonline.com/blog/article/esi-error-limits-go-live).
+- [ESI Introduction](https://esi.github.io/esi-issues/docs/esi_introduction)
+- [Frequently Asked Questions](https://esi.github.io/esi-issues/docs/FAQ)
+- [Transitioning from XML](https://esi.github.io/esi-issues/docs/XML_to_ESI)
+- [Transitioning from CREST](https://esi.github.io/esi-issues/docs/CREST_to_ESI)
+- [What defines a breaking change](https://esi.github.io/esi-issues/docs/breaking_changes)
+- [Warning headers explained](https://esi.github.io/esi-issues/docs/warning_header)
 
-Keep in mind some endpoints have additional rate limits imposed by game design. If you are limited by the game on some action, ESI will have the same restrictions.
+### Using ESI Data
 
-### What are "underscore routes"?
+- [Dogma](https://esi.github.io/esi-issues/docs/dogma)
+- [Useful Formulae](https://esi.github.io/esi-issues/docs/useful_formulae)
 
-They embed the version in the path, resulting in more stable clients. [Please refer to the blog post on the matter](https://developers.eveonline.com/blog/article/esi-best-practices-using-underscore-routes). Clients taking advantage of underscore routes should use the OperationID instead of path when calling a route, for convenience.
+### Static Data Export
 
-### What constitutes a version increase?
+- [SDE Introduction](https://esi.github.io/esi-issues/docs/sde_introduction)
+- [SDE Conversions](https://esi.github.io/esi-issues/docs/sde_conversions)
 
-[Please refer to the breaking changes document](breaking_changes.md).
+### Community FAQs
 
-### Where can I see upcoming changes?
-
-[You can use ESI's diff interface](https://esi.evetech.net/diff/latest/dev/) for the exact differences per route. There is also the [ESI changelog](changelog.md) for historical reference and to know when upcoming changes will be promoted.
-
-### Is there an ESI client library in &lt;language_x&gt;?
-
-Probably. Check the [awesome-eve](https://github.com/devfleet/awesome-eve) repository. If you can't find something there for your language, you can try the [Swagger open source integrations page](https://swagger.io/open-source-integrations/).
-
-### What happened to CREST and XML API?
-
-After [18 months of notice](https://www.eveonline.com/article/introducing-esi/) both CREST and XML API were [shut down on May 8th, 2018](https://developers.eveonline.com/blog/article/a-eulogy-for-xml-crest). Please see either the [CREST to ESI](https://esi.github.io/esi-issues/CREST_to_ESI) or [XML to ESI](https://esi.github.io/esi-issues/XML_to_ESI) migration guides for assistance in porting your old applications to ESI.
-
-
-## Further Questions?
-
-Join us on Tweetfleet Slack, in the `#esi` channel. If you're not on Tweetfleet Slack yet, [get an invite here](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/).
+- [Guidelines](https://esi.github.io/esi-issues/docs/guidelines)
+- [Best Practices](https://esi.github.io/esi-issues/docs/best_practices)
+- [Quick Reference URLs](https://esi.github.io/esi-issues/docs/quick_reference)
+- [Image Server](https://esi.github.io/esi-issues/docs/image_server)
+- [Developer License](https://esi.github.io/esi-issues/docs/developer_license)
