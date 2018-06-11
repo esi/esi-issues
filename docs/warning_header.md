@@ -10,7 +10,7 @@ Warnings that start with `299` are there to inform you the route you just reques
 
 ## `199`
 
-Instead of unhappy users, look for `199` warnings ahead of time. These exist in order to tell you the route you have just requested has an update available. This means it's probably a good time to [check the changelog](https://esi.github.io/esi-issues/changelog.html) to see when this new upgrade will be promoted to latest, and/or update your application to take advantage of the new features the change brings.
+Instead of unhappy users, look for `199` warnings ahead of time. These exist in order to tell you the route you have just requested has an update available. This means it's probably a good time to [check the changelog](https://docs.esi.evetech.net/changelog) to see when this new upgrade will be promoted to latest, and/or update your application to take advantage of the new features the change brings.
 
 The typical `199` warning is: `199 - This route has an upgrade available.` You can use the diff page to view the exact details of the upcoming changes. The [v3 ESI webui](https://esi.evetech.net/ui/) will have links in the description to the diff page for any routes with updates available.
 

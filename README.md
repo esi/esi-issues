@@ -18,7 +18,7 @@ ESI is a constant work in progress. Here is a list of sources you can use to kee
 - Follow [@TeamTechCo](https://twitter.com/TeamTechCo), as well as [@CCP_SnowedIn](https://twitter.com/CCP_SnowedIn) and [@CCP_Zoetrope](https://twitter.com/CCP_Zoetrope) on Twitter.
 - Join the [`#esi` channel on Tweetfleet Slack](https://tweetfleet.slack.com/messages/C30KX8UUX/). You can get an invite [here](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/).
 - Read the posts on the [Third Party Developer Blog](https://developers.eveonline.com/blog).
-- Follow the activity in this repository, particularly the [ESI changelog](changelog.md) and [issues that are in progress](https://github.com/esi/esi-issues/issues?q=label%3A%22In+Progress%22).
+- Follow the activity in this repository, particularly the [ESI changelog](changelog.md) and [issues that are in progress](https://github.com/esi/esi-issues/labels/in-progress).
 
 
 ## Opening a new issue
@@ -56,9 +56,9 @@ Examples:
 
 ## Migration Guide
 
-### [CREST -> ESI](https://esi.github.io/esi-issues/docs/CREST_to_ESI)
+### [CREST -> ESI](https://docs.esi.evetech.net/docs/CREST_to_ESI)
 
-### [XML -> ESI](https://esi.github.io/esi-issues/docs/XML_to_ESI)
+### [XML -> ESI](https://docs.esi.evetech.net/docs/XML_to_ESI)
 
 
 ## Issue velocity
