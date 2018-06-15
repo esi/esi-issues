@@ -22,8 +22,8 @@ Dates in the future are upcoming scheduled changes.
 # 2018-06-18
 
 - **REMOVAL** GET /v1/characters/names/
-- **REMOVAL** GET /v1/corporations/names
-- **REMOVAL** GET /v2/corporations/names
+- **REMOVAL** GET /v1/corporations/names/
+- **REMOVAL** GET /v2/corporations/names/
 - **REMOVAL** GET /v2/corporations/{corporation_id}/wallet/journal/
 - **REMOVAL** GET /v3/characters/{character_id}/wallet/journal/
 
