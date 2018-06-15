@@ -19,6 +19,14 @@ Dates in the future are upcoming scheduled changes.
 - **PROMOTION** GET /v2/fw/systems/ (dev -> latest)
 - **DEPRECATION** GET /v1/fw/systems/ (latest -> legacy)
 
+# 2018-06-18
+
+- **REMOVAL** GET /v1/characters/names/
+- **REMOVAL** GET /v1/corporations/names
+- **REMOVAL** GET /v2/corporations/names
+- **REMOVAL** GET /v2/corporations/{corporation_id}/wallet/journal/
+- **REMOVAL** GET /v3/characters/{character_id}/wallet/journal/
+
 # 2018-06-07
 
 - **PROMOTION** GET /v2/alliances/{alliance_id}/contacts/ (dev -> latest)
