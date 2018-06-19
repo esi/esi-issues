@@ -14,6 +14,7 @@ Dates in the future are upcoming scheduled changes.
 - **REMOVAL** GET /v2/universe/systems/{system_id}/
 - **REMOVAL** GET /v1/corporations/{corporation_id}/orders/
 - **REMOVAL** GET /v1/corporations/{corporation_id}/outposts/
+- **REMOVAL** GET /v1/corporations/{corporation_id}/outposts/{outpost_id}/
 
 # 2018-06-27
 
