@@ -11,8 +11,9 @@ Dates in the future are upcoming scheduled changes.
 - **DEPRECATION** GET /v3/universe/systems/{system_id}/ (latest -> legacy)
 - **DEPRECATION** GET /v1/corporations/{corporation_id}/orders/history/ (latest -> legacy)
 - **DEPRECATION** GET /v2/corporations/{corporation_id}/orders/ (latest -> legacy)
-- **REMOVAL** GET /v2/universe/systems/{system_id}
+- **REMOVAL** GET /v2/universe/systems/{system_id}/
 - **REMOVAL** GET /v1/corporations/{corporation_id}/orders/
+- **REMOVAL** GET /v1/corporations/{corporation_id}/outposts/
 
 # 2018-06-27
 
