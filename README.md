@@ -122,6 +122,7 @@ If you're adding a new document, be sure to include a link here somewhere.
 
 - [Dogma](https://esi.github.io/esi-issues/docs/dogma)
 - [Useful Formulae](https://esi.github.io/esi-issues/docs/useful_formulae)
+- [Asset location_id](https://esi.github.io/esi-issues/docs/asset_location_id)
 
 ### Static Data Export
 
