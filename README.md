@@ -113,6 +113,7 @@ If you're adding a new document, be sure to include a link here somewhere.
 
 - [ESI Introduction](https://esi.github.io/esi-issues/docs/esi_introduction)
 - [Frequently Asked Questions](https://esi.github.io/esi-issues/docs/FAQ)
+- [Third Party Libraries](https://esi.github.io/esi-issues/docs/third_party_libraries)
 - [Transitioning from XML](https://esi.github.io/esi-issues/docs/XML_to_ESI)
 - [Transitioning from CREST](https://esi.github.io/esi-issues/docs/CREST_to_ESI)
 - [What defines a breaking change](https://esi.github.io/esi-issues/docs/breaking_changes)
