@@ -2,6 +2,17 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2018-09-14
+
+- **PROMOTION** GET /v3/characters/{character_id}/notifications/ (dev -> latest)
+- **DEPRECATION** GET /v2/characters/{character_id}/notifications/ (latest -> legacy)
+- **REMOVAL** GET /v1/characters/{character_id}/notifications/
+
+# 2018-08-03
+
+- GET /v3/characters/{character_id}/notifications/ (dev)
+    - [New notification types](https://github.com/esi/eve-glue/commit/d1c8ba8142cf59cb4115707d2cdc126420c1c2c2#diff-ae236f83a42263e6217db24918f8d0c9R204) added.
+
 # 2018-07-08
 - **PROMOTION** GET /v2/universe/structures/{structure_id}/ (dev -> latest)
 - **PROMOTION** GET /v4/universe/systems/{system_id}/ (dev -> latest)
