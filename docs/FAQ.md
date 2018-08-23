@@ -24,12 +24,19 @@ They embed the version in the path, resulting in more stable clients. [Please re
 
 ### Is there an ESI client library in &lt;language_x&gt;?
 
-Probably. Check the [awesome-eve](https://github.com/devfleet/awesome-eve) repository. If you can't find something there for your language, you can try the [Swagger open source integrations page](https://swagger.io/open-source-integrations/).
+A list of ESI client libraries [can be found here.](https://docs.esi.evetech.net/docs/third_party_libraries)
+
+Also check the [awesome-eve](https://github.com/devfleet/awesome-eve) repository. If you can't find something there for your language, you can try the [Swagger open source integrations page](https://swagger.io/open-source-integrations/).
 
 ### What happened to CREST and XML API?
 
 After [18 months of notice](https://www.eveonline.com/article/introducing-esi/) both CREST and XML API were [shut down on May 8th, 2018](https://developers.eveonline.com/blog/article/a-eulogy-for-xml-crest). Please see either the [CREST to ESI](https://docs.esi.evetech.net/docs/CREST_to_ESI) or [XML to ESI](https://docs.esi.evetech.net/docs/XML_to_ESI) migration guides for assistance in porting your old applications to ESI.
 
+### Can I embed the secret in my distributed application?
+
+No! You are responsible to ensure the secret remains a secret. You are at fault if the secret is abused and could face a permanent ban and legal actions.
+
+You will need to instruct your users to create their own [Application registration](https://developers.eveonline.com/) and use their own secret and clientID. This requires they must have made at least one payment directly to CCP on the account they register with. The user can use one Application registration for all their accounts.
 
 ## Further Questions?
 
