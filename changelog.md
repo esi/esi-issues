@@ -10,9 +10,9 @@ Dates in the future are upcoming scheduled changes.
 
 # 2018-08-23
 
-- GET /v1/contracts/public/{region_id}/
-- GET /v1/contracts/public/bids/{contract_id}/
-- GET /v1/contracts/public/items/{contract_id}/
+- GET /v1/contracts/public/{region_id}/ (dev, latest, legacy)
+- GET /v1/contracts/public/bids/{contract_id}/ (dev, latest, legacy)
+- GET /v1/contracts/public/items/{contract_id}/ (dev, latest, legacy)
 
 # 2018-08-03
 
