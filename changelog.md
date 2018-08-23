@@ -8,6 +8,12 @@ Dates in the future are upcoming scheduled changes.
 - **DEPRECATION** GET /v2/characters/{character_id}/notifications/ (latest -> legacy)
 - **REMOVAL** GET /v1/characters/{character_id}/notifications/
 
+# 2018-08-23
+
+- GET /v1/contracts/public/{region_id}/
+- GET /v1/contracts/public/bids/{contract_id}/
+- GET /v1/contracts/public/items/{contract_id}/
+
 # 2018-08-03
 
 - GET /v3/characters/{character_id}/notifications/ (dev)
