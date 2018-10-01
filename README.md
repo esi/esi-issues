@@ -12,7 +12,9 @@ https://esi.evetech.net/
 
 ## Documentation
 
-[View ESI documentation here](https://github.com/esi/esi-docs/).
+[View ESI documentation here](https://docs.esi.evetech.net/).
+
+ESI documentation is maintained in a separate repository called [esi-docs](https://github.com/esi/esi-docs) and is open to contribute to.
 
 
 ## Staying up-to-date
