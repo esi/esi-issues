@@ -10,6 +10,10 @@ https://esi.evetech.net/
 
 **Please do not open issues for anything security related here, send an email to security@ccpgames.com instead.**
 
+## Documentation
+
+[View ESI documentation here](https://github.com/esi/esi-docs/).
+
 
 ## Staying up-to-date
 
@@ -101,10 +105,3 @@ The following people are members of the ESI GitHub community. They will be helpi
 [GoldenGnu](https://github.com/GoldenGnu) | GoldenGnu | [@goldengnu](https://tweetfleet.slack.com/messages/@goldengnu/) | N/A
 [andimiller](https://github.com/andimiller) | Lucia Denniard | [@luciadenniard](https://tweetfleet.slack.com/messages/@luciadenniard/) | N/A
 [jowrjowr](https://github.com/jowrjowr) | Saeka Tyr | [@saeka](https://tweetfleet.slack.com/messages/@saeka/) | N/A
-
-
-## Documentation
-
-[View ESI documentation here](https://docs.esi.evetech.net/docs/).
-
-Docs are stored in the [docs](docs) subfolder. Please open pull requests if you see anything out of order.
