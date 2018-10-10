@@ -2,6 +2,10 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2018-10-10
+- GET /v1/markets/structures/{structure_id}/
+    - Pagination maxItems dropped from 5000 -> 1000
+
 # 2018-09-14
 
 - **PROMOTION** GET /v3/characters/{character_id}/notifications/ (dev -> latest)
