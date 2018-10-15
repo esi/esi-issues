@@ -1,3 +1,8 @@
+---
+name: Inconsistency
+about: Report an inconsistency (e.g. two endpoints returning slightly different names for the same attribute).
+---
+
 # Inconsistency
 
 This template contains an example inconsistency report. Please replace all text except for the checklist and the section headers (they start with \#). Thank you for your contribution to improving ESI.

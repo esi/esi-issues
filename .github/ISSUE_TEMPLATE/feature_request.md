@@ -1,3 +1,8 @@
+---
+name: Feature Request
+about: Suggest new routes or enhancements for existing routes. Do not open duplicate feature requests! Instead, thumbs up the parent comment of a similar issue and join that issue's discussion.
+---
+
 # Feature Request
 
 This template contains an example feature request. Please replace all text except for the checklist and the section headers (they start with \#). Thank you for your contribution to improving ESI.
