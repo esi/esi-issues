@@ -1,3 +1,8 @@
+---
+name: Bug
+about: "Report a bug you have encountered using ESI (e.g. unexpected responses). Note: `502` or `503` errors are not bugs. Retry your request again in the future."
+---
+
 # Bug
 
 This template contains an example bug report. Please replace all text except for the checklist and the section headers (they start with \#). Thank you for your contribution to improving ESI.
