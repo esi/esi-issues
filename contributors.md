@@ -6,7 +6,6 @@ The following CCP developers are members of [Team Tech Co](https://twitter.com/T
 
  GitHub | CCP Dev Name | Tweetfleet Slack | Twitter | Role
 --------|--------------|------------------|---------|------
-[a-tal](https://github.com/a-tal) | CCP SnowedIn | [@ccp_snowedin](https://tweetfleet.slack.com/messages/@ccp_snowedin/) | [@CCP_SnowedIn](https://twitter.com/CCP_SnowedIn) | BDFL
 [aquarhead](https://github.com/aquarhead) | CCP AquarHEAD | [@ccp_aquarhead](https://tweetfleet.slack.com/messages/@ccp_aquarhead/) | [@aquarhead](https://twitter.com/aquarhead) | Developer
 [ccpStuart](https://github.com/ccpStuart) | CCP Mephysto | N/A | N/A | Project Manager
 [ccp-zoetrope](https://github.com/ccp-zoetrope) | CCP Zoetrope | [@ccp_zoetrope](https://tweetfleet.slack.com/messages/@ccp_zoetrope/) | [@CCP_Zoetrope](https://twitter.com/CCP_Zoetrope) | Developer
