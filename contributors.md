@@ -13,6 +13,16 @@ The following CCP developers are members of [Team Tech Co](https://twitter.com/T
 [HakShak](https://github.com/hakshak) | CCP Chimichanga | [@ccpchimichanga](https://tweetfleet.slack.com/messages/@ccpchimichanga/) | [@ccp_chimichanga](https://twitter.com/ccp_chimichanga) | Manager
 [tsuthers-ccpgames](https://github.com/tsuthers-ccpgames) | CCP Bartender | [@ccp_bartender](https://tweetfleet.slack.com/messages/@ccp_bartender/) | N/A | Developer
 
+## ESI Credits
+The following people are not active members of Team Tech Co. but have made significant contributions to the capabilities of the ESI API:
+
+ CCP Dev Name | Status |
+ ------------ | ------ |
+ CCP SnowedIn | Ex CCP |
+ CCP Tellus   | Ex CCP |
+ CCP Masterplan | Developer |
+
+o7
 
 ## ESI Community Members
 
