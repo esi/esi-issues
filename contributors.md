@@ -16,9 +16,11 @@ The following CCP developers are members of [Team Tech Co](https://twitter.com/T
 ## ESI Credits
 The following people are not active members of Team Tech Co. but have made significant contributions to the capabilities of the ESI API:
 
-* CCP SnowedIn
-* CCP Tellus
-* CCP Masterplan
+ CCP Dev Name | Status |
+ ------------ | -------------------- |
+ CCP SnowedIn | Ex CCP |
+ CCP Tellus   | Ex CCP|
+ CCP Masterplan | Developer |
 
 o7
 
