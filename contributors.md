@@ -19,7 +19,7 @@ The following people are not active members of Team Tech Co. but have made signi
  CCP Dev Name | Status |
  ------------ | ------ |
  CCP SnowedIn | Ex CCP |
- CCP Tellus   | Ex CCP|
+ CCP Tellus   | Ex CCP |
  CCP Masterplan | Developer |
 
 o7
