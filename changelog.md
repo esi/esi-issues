@@ -2,6 +2,15 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2018-12-11
+- **PROMOTION** GET /v4/characters/{character_id}/notifications/ (dev -> latest)
+- **DEPRECATION** GET /v3/characters/{character_id}/notifications/ (latest -> legacy)
+- **REMOVAL** GET /v2/characters/{character_id}/notifications/
+
+# 2018-10-30
+- GET /v4/characters/{character_id}/notifications/ (dev)
+    - [New notification types](https://github.com/esi/eve-glue/commit/6d8c2caf2ba4feacae95bc6b72f915345c5c330c#diff-ae236f83a42263e6217db24918f8d0c9R203) added.
+
 # 2018-10-10
 - GET /v1/markets/structures/{structure_id}/
     - Pagination maxItems dropped from 5000 -> 1000
