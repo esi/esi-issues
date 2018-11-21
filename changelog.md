@@ -4,7 +4,9 @@ Dates in the future are upcoming scheduled changes.
 
 # 2019-01-07
 - **PROMOTION** GET /v5/characters/{character_id}/wallet/journal/  (dev -> latest)
+- **PROMOTION** GET /v4/corporations/{corporation_id}/wallets/{division}/journal/  (dev -> latest)
 - **DEPRECATION** GET /v4/characters/{character_id}/wallet/journal/ (latest -> legacy)
+- **DEPRECATION** GET /v3/corporations/{corporation_id}/wallets/{division}/journal/ (latest -> legacy)
 
 # 2018-12-11
 - **PROMOTION** GET /v4/characters/{character_id}/notifications/ (dev -> latest)
@@ -13,6 +15,8 @@ Dates in the future are upcoming scheduled changes.
 
 # 2018-11-21
 - GET /v5/characters/{character_id}/wallet/journal/ (dev)
+    - [New wallet journal ref type](https://github.com/esi/eve-glue/commit/f98efea05b9cc906754a9d989a2f29915cce958c#diff-9587688122f96b612670ae031fb74f75R133) added.
+- GET /v4/corporations/{corporation_id}/wallets/{division}/journal/ (dev)
     - [New wallet journal ref type](https://github.com/esi/eve-glue/commit/f98efea05b9cc906754a9d989a2f29915cce958c#diff-9587688122f96b612670ae031fb74f75R133) added.
 
 # 2018-10-30
