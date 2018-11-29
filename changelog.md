@@ -2,6 +2,11 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2019-01-10
+- **PROMOTION** GET /v3/corporations/{corporation_id}/structures/ (dev -> latest)
+- **DEPRECATION** GET /v2/corporations/{corporation_id}/structures/ (latest -> legacy)
+- **REMOVAL** GET /v1/corporations/{corporation_id}/structures/
+
 # 2019-01-07
 - **PROMOTION** GET /v5/characters/{character_id}/wallet/journal/  (dev -> latest)
 - **PROMOTION** GET /v4/corporations/{corporation_id}/wallets/{division}/journal/  (dev -> latest)
@@ -12,6 +17,11 @@ Dates in the future are upcoming scheduled changes.
 - **PROMOTION** GET /v4/characters/{character_id}/notifications/ (dev -> latest)
 - **DEPRECATION** GET /v3/characters/{character_id}/notifications/ (latest -> legacy)
 - **REMOVAL** GET /v2/characters/{character_id}/notifications/
+
+# 2018-11-29
+- GET /v3/corporations/{corporation_id}/structures/
+    - Attribute reinforce_weekday became optional.
+    - [New structure state type](https://github.com/esi/eve-glue/commit/1f20a5eaba85179031f0848316ccb4f3f2922f05#diff-00a0945a33de4aa1d938a32af65496bcR23)
 
 # 2018-11-21
 - GET /v5/characters/{character_id}/wallet/journal/ (dev)
