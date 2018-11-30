@@ -8,7 +8,6 @@ The following CCP developers are members of [Team Tech Co](https://twitter.com/T
 --------|--------------|------------------|---------|------
 [aquarhead](https://github.com/aquarhead) | CCP AquarHEAD | [@ccp_aquarhead](https://tweetfleet.slack.com/messages/@ccp_aquarhead/) | [@aquarhead](https://twitter.com/aquarhead) | Developer
 [ccpStuart](https://github.com/ccpStuart) | CCP Mephysto | N/A | N/A | Project Manager
-[ccp-zoetrope](https://github.com/ccp-zoetrope) | CCP Zoetrope | [@ccp_zoetrope](https://tweetfleet.slack.com/messages/@ccp_zoetrope/) | [@CCP_Zoetrope](https://twitter.com/CCP_Zoetrope) | Developer
 [gitAskur](https://github.com/gitAskur) | CCP PrismX | [@prismx](https://tweetfleet.slack.com/messages/@prismx/) | [@CCP_PrismX](https://twitter.com/CCP_PrismX) | Database Wizard
 [HakShak](https://github.com/hakshak) | CCP Chimichanga | [@ccpchimichanga](https://tweetfleet.slack.com/messages/@ccpchimichanga/) | [@ccp_chimichanga](https://twitter.com/ccp_chimichanga) | Manager
 [tsuthers-ccpgames](https://github.com/tsuthers-ccpgames) | CCP Bartender | [@ccp_bartender](https://tweetfleet.slack.com/messages/@ccp_bartender/) | N/A | Developer
@@ -21,6 +20,7 @@ The following people are not active members of Team Tech Co. but have made signi
  CCP SnowedIn | Ex CCP |
  CCP Tellus   | Ex CCP |
  CCP Masterplan | Developer |
+ CCP Zoetrope | Audio Programmer |
 
 o7
 
