@@ -17,6 +17,10 @@ Dates in the future are upcoming scheduled changes.
 - **PROMOTION** GET /v4/characters/{character_id}/notifications/ (dev -> latest)
 - **DEPRECATION** GET /v3/characters/{character_id}/notifications/ (latest -> legacy)
 - **REMOVAL** GET /v2/characters/{character_id}/notifications/
+- **ENHANCEMENT** GET /v4/corporations/{corporation_id}/
+  - add war_eligible bool
+- **ENHANCEMENT** GET /v1/universe/structures/
+  - add "market" and "manufacturing_basic" service filters
 
 # 2018-11-29
 - GET /v3/corporations/{corporation_id}/structures/
