@@ -21,6 +21,12 @@ Dates in the future are upcoming scheduled changes.
   - add war_eligible bool
 - **ENHANCEMENT** GET /v1/universe/structures/
   - add "market" and "manufacturing_basic" service filters
+  
+# 2018-12-11
+- **BUGFIX** GET /v1/corporations/{corporation_id}/industry/jobs/
+  - Fix for https://github.com/esi/esi-issues/issues/1053
+- **BUGFIX** GET /v1/characters/{character_id}/industry/jobs/
+  - Fix for https://github.com/esi/esi-issues/issues/1053
 
 # 2018-11-29
 - GET /v3/corporations/{corporation_id}/structures/
