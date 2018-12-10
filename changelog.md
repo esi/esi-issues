@@ -22,7 +22,7 @@ Dates in the future are upcoming scheduled changes.
 - **ENHANCEMENT** GET /v1/universe/structures/
   - add "market" and "manufacturing_basic" service filters
   
-# 2018-12-11
+# 2018-12-10
 - **BUGFIX** GET /v1/corporations/{corporation_id}/industry/jobs/
   - Fix for https://github.com/esi/esi-issues/issues/1053
 - **BUGFIX** GET /v1/characters/{character_id}/industry/jobs/
