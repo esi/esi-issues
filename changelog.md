@@ -2,12 +2,10 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
-# 2019-01-10
+# 2019-01-14
 - **PROMOTION** GET /v3/corporations/{corporation_id}/structures/ (dev -> latest)
 - **DEPRECATION** GET /v2/corporations/{corporation_id}/structures/ (latest -> legacy)
 - **REMOVAL** GET /v1/corporations/{corporation_id}/structures/
-
-# 2019-01-07
 - **PROMOTION** GET /v5/characters/{character_id}/wallet/journal/  (dev -> latest)
 - **PROMOTION** GET /v4/corporations/{corporation_id}/wallets/{division}/journal/  (dev -> latest)
 - **DEPRECATION** GET /v4/characters/{character_id}/wallet/journal/ (latest -> legacy)
