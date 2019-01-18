@@ -2,6 +2,12 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2019-01-18
+- GET /v1/characters/{character_id}/implants/ Cache lowered to 120 seconds
+- GET /v1/characters/{character_id}/attributes/ Cache lowered to 120 seconds
+- POST /v1/universe/ids/ -> MaxItems in both request and response lowered to 500
+  * Note: technically this is a breaking change, but this endpoint errored for requests larger than 500 anyway, so this simply formalises reality. 
+
 # 2019-01-14
 - **PROMOTION** GET /v3/corporations/{corporation_id}/structures/ (dev -> latest)
 - **DEPRECATION** GET /v2/corporations/{corporation_id}/structures/ (latest -> legacy)
