@@ -2,9 +2,23 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2019-03-7
+- **REMOVAL** POST /v1/universe/names/
+- **DEPRECATION** POST /v2/universe/names/ (latest->legacy)
+- **PROMOTION** POST /v3/universe/names/ (dev->latest)
+
 # 2019-01-24
 - **REMOVAL** POST /v1/ui/autopilot/waypoint/
 - **PROMOTION** POST /v2/ui/autopilot/waypoint/ (latest->latest+legacy)
+- **NEW** POST /v3/universe/names/ (dev)
+
+# 2019-01-22
+- **BUGFIX** /v1/markets/{region_id}/types/ - No longer returns duplicate type ids
+- **BUGFIX** /v1/universe/constellations/{constellation_id}/ - No longer 500 errors if an invalid constellation ID is given
+- **BUGFIX** /v3/corporations/{corporation_id}/structures/ - No longer 500 errors if results contain a recently updated flex structure
+
+# 2019-01-21
+- **BUGFIX** /v1/corporations/{corporation_id}/customs_offices/ - No longer 500 errors if results contain an unconfigured customs office
 
 # 2019-01-18
 - GET /v1/characters/{character_id}/implants/ Cache lowered to 120 seconds
