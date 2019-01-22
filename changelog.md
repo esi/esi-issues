@@ -2,6 +2,10 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2019-01-24
+- **REMOVAL** POST /v1/ui/autopilot/waypoint/
+- **PROMOTION** POST /v2/ui/autopilot/waypoint/ (latest->latest+legacy)
+
 # 2019-01-18
 - GET /v1/characters/{character_id}/implants/ Cache lowered to 120 seconds
 - GET /v1/characters/{character_id}/attributes/ Cache lowered to 120 seconds
