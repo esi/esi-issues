@@ -2,7 +2,7 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
-# 2019-03-7
+# 2019-03-07
 - **REMOVAL** POST /v1/universe/names/
 - **DEPRECATION** POST /v2/universe/names/ (latest->legacy)
 - **PROMOTION** POST /v3/universe/names/ (dev->latest)
