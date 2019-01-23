@@ -11,6 +11,7 @@ Dates in the future are upcoming scheduled changes.
 - **REMOVAL** POST /v1/ui/autopilot/waypoint/
 - **PROMOTION** POST /v2/ui/autopilot/waypoint/ (latest->latest+legacy)
 - **NEW** POST /v3/universe/names/ (dev)
+  * Add support for factions
 
 # 2019-01-22
 - **BUGFIX** /v1/markets/{region_id}/types/ - No longer returns duplicate type ids
