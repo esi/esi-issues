@@ -6,6 +6,16 @@ Dates in the future are upcoming scheduled changes.
 - **REMOVAL** POST /v1/universe/names/
 - **DEPRECATION** POST /v2/universe/names/ (latest->legacy)
 - **PROMOTION** POST /v3/universe/names/ (dev->latest)
+- **DEPRECATION** GET /v1/characters/{character_id}/fittings/ (latest->legacy)
+- **PROMOTION** GET /v2/characters/{character_id}/fittings/ (dev->latest)
+- **DEPRECATION** POST /v1/characters/{character_id}/fittings/ (latest->legacy)
+- **PROMOTION** POST /v2/characters/{character_id}/fittings/ (dev->latest)
+
+# 2019-01-28
+- **NEW** GET /v2/characters/{character_id}/fittings/ (dev)
+  * Add enum for slot/bay flags
+- **NEW** POST /v2/characters/{character_id}/fittings/ (dev)
+  * Add enum for slot/bay flags
 
 # 2019-01-24
 - **REMOVAL** POST /v1/ui/autopilot/waypoint/
