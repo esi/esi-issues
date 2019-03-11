@@ -2,14 +2,16 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
-# 2019-03-07
-- **REMOVAL** POST /v1/universe/names/
-- **DEPRECATION** POST /v2/universe/names/ (latest->legacy)
-- **PROMOTION** POST /v3/universe/names/ (dev->latest)
+# 2019-03-18
 - **DEPRECATION** GET /v1/characters/{character_id}/fittings/ (latest->legacy)
 - **PROMOTION** GET /v2/characters/{character_id}/fittings/ (dev->latest)
 - **DEPRECATION** POST /v1/characters/{character_id}/fittings/ (latest->legacy)
 - **PROMOTION** POST /v2/characters/{character_id}/fittings/ (dev->latest)
+
+# 2019-03-11
+- **REMOVAL** POST /v1/universe/names/
+- **DEPRECATION** POST /v2/universe/names/ (latest->legacy)
+- **PROMOTION** POST /v3/universe/names/ (dev->latest)
 
 # 2019-01-28
 - **NEW** GET /v2/characters/{character_id}/fittings/ (dev)
