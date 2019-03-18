@@ -1,6 +1,15 @@
 Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
+# 2019-05-01
+- **REMOVAL** /v4/characters/{character_id}/wallet/journal/
+- **DEPRECATION** /v5/characters/{character_id}/wallet/journal/ (latest->legacy)
+- **PROMOTION** /v6/characters/{character_id}/wallet/journal/ (dev->latest)
+
+# 2019-03-20
+- **NEW** /v6/characters/{character_id}/wallet/journal/ (dev)
+  * add support for skill_purchase journal entry
+  * add support for item_trader_payment journal entry
 
 # 2019-03-18
 - **DEPRECATION** GET /v1/characters/{character_id}/fittings/ (latest->legacy)
