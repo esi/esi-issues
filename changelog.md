@@ -7,7 +7,7 @@ Dates in the future are upcoming scheduled changes.
 - **PROMOTION** /v6/characters/{character_id}/wallet/journal/ (dev->latest)
 
 # 2019-04-09
-- /v4/characters/{character_id}/
+- **ENHANCEMENT** GET /v4/characters/{character_id}/
   * Add individual title if applicable, as per definition here: https://support.eveonline.com/hc/en-us/articles/203218352-Titles
 
 # 2019-03-20
