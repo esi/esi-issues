@@ -14,6 +14,8 @@ Dates in the future are upcoming scheduled changes.
     * More specific errors if an invalid combination of wing id's, squad id's and roles is passed into the endpoint
 - **BUGFIX** POST /v1/fleets/{fleet_id}/members/
     * Same as above
+- **NEW** GET /characters/{character_id}/fleet
+    * Adds support for returning the current fleet boss, allowing discovery of the new fleet boss in cases of mass disconnects
 
 # 2019-03-20
 - **NEW** /v6/characters/{character_id}/wallet/journal/ (dev)
