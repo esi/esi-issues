@@ -6,9 +6,11 @@ Dates in the future are upcoming scheduled changes.
 - **DEPRECATION** /v5/characters/{character_id}/wallet/journal/ (latest->legacy)
 - **PROMOTION** /v6/characters/{character_id}/wallet/journal/ (dev->latest)
 
-# 2019-04-09
+# 2019-04-11
 - **ENHANCEMENT** GET /v4/characters/{character_id}/
   * Add individual title if applicable, as per definition here: https://support.eveonline.com/hc/en-us/articles/203218352-Titles
+
+# 2019-04-09
 - **BUGFIX** PUT /v1/fleets/{fleet_id}/members/{member_id}/
     * Fix issues relating to moving people into the squad commander role: https://github.com/esi/esi-issues/issues/690
     * More specific errors if an invalid combination of wing id's, squad id's and roles is passed into the endpoint
