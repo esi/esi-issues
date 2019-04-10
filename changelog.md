@@ -6,7 +6,7 @@ Dates in the future are upcoming scheduled changes.
 - **DEPRECATION** /v5/characters/{character_id}/wallet/journal/ (latest->legacy)
 - **PROMOTION** /v6/characters/{character_id}/wallet/journal/ (dev->latest)
 
-# 2019-04-11
+# 2019-04-10
 - **ENHANCEMENT** GET /v4/characters/{character_id}/
   * Add individual title if applicable, as per definition here: https://support.eveonline.com/hc/en-us/articles/203218352-Titles
 
