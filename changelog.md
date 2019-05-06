@@ -1,7 +1,7 @@
 Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
-# 2019-05-06
+# 2019-05-13
 - **REMOVAL** /v4/characters/{character_id}/wallet/journal/
 - **DEPRECATION** /v5/characters/{character_id}/wallet/journal/ (latest->legacy)
 - **PROMOTION** /v6/characters/{character_id}/wallet/journal/ (dev->latest)
