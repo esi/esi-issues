@@ -1,6 +1,11 @@
 Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
+
+# 2019-05-20
+- **ENHANCEMENT** /v2/characters/{character_id}/skillqueue/
+  * Added extra doc to better explain how finish_date works
+
 # 2019-05-15
 - **REMOVAL** /v4/characters/{character_id}/wallet/journal/
 - **DEPRECATION** /v5/characters/{character_id}/wallet/journal/ (latest->legacy)
