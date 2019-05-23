@@ -2,10 +2,20 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2019-07-04
+- **REMOVAL** /v3/characters/{character_id}/search/
+- **REMOVAL** /v2/search/
+
 # 2019-07-01
 - **REMOVAL** /v3/characters/{character_id}/notifications/
 - **DEPRECATION** /v4/characters/{character_id}/notifications/ (latest->legacy)
 - **PROMOTION** /v5/characters/{character_id}/notifications/ (dev->latest)
+
+# 2019-05-23
+- **BUGFIX** /v3/characters/{character_id}/search/
+  * Fixed "internal error" when searching some unicode strings
+- **BUGFIX** /v2/search/
+  * Fixed "internal error" when searching some unicode strings
 
 # 2019-05-20
 - **ENHANCEMENT** /v2/characters/{character_id}/skillqueue/
