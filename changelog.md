@@ -3,8 +3,8 @@ Historical reference of endpoint additions and changes made in ESI.
 Dates in the future are upcoming scheduled changes.
 
 # 2019-07-04
-- **REMOVAL** /v3/characters/{character_id}/search/
-- **REMOVAL** /v2/search/
+- **REMOVAL** /v2/characters/{character_id}/search/
+- **REMOVAL** /v1/search/
 
 # 2019-07-01
 - **REMOVAL** /v3/characters/{character_id}/notifications/
