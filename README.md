@@ -46,9 +46,3 @@ Examples:
 
 - two endpoints returning slightly different names for the same attribute
 - attribute values are returned with different formats for different routes (ie; `int32` vs `int64`)
-
-## Issue velocity
-
-[![Waffle.io](https://badge.waffle.io/esi/esi-issues.svg?columns=new,backlog,todo,in+progress,staging)](http://waffle.io/esi/esi-issues)
-
-[![Throughput Graph](https://graphs.waffle.io/esi/esi-issues/throughput.svg)](https://waffle.io/esi/esi-issues/metrics/throughput)
