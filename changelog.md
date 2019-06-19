@@ -11,6 +11,10 @@ Dates in the future are upcoming scheduled changes.
 - **DEPRECATION** /v4/characters/{character_id}/notifications/ (latest->legacy)
 - **PROMOTION** /v5/characters/{character_id}/notifications/ (dev->latest)
 
+# 2019-06-19
+- **ENHANCEMENT** /v5/characters/{character_id}/notifications/
+  * Added support for new war and invasion notifications
+
 # 2019-06-06
 - **BUGFIX** /v1/universe/planets/{planet_id}/
   * Fixed a bug making the endpoint return data about a star if star ID was set instead of planet ID. 
