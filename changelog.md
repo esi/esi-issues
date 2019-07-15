@@ -2,12 +2,14 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2019-07-15
+- **REMOVAL** /v2/characters/{character_id}/search/
+- **REMOVAL** /v1/search/
+
 # 2019-07-10
 - **REMOVAL** /v3/characters/{character_id}/notifications/
 - **DEPRECATION** /v4/characters/{character_id}/notifications/ (latest->legacy)
 - **PROMOTION** /v5/characters/{character_id}/notifications/ (dev->latest)
-- **REMOVAL** /v2/characters/{character_id}/search/
-- **REMOVAL** /v1/search/
 
 # 2019-06-19
 - **ENHANCEMENT** /v5/characters/{character_id}/notifications/
