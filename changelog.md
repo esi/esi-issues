@@ -2,6 +2,10 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2019-08-13
+- **ENHANCEMENT** /v5/characters/{character_id}/notifications/
+  * Added support for new notification types
+  
 # 2019-07-15
 - **REMOVAL** /v2/characters/{character_id}/search/
 - **REMOVAL** /v1/search/
