@@ -16,7 +16,7 @@ Dates in the future are upcoming scheduled changes.
   * https://developers.eveonline.com/blog/article/temporary-blackout-of-esi-bookmarks
 
 # 2019-??-?? (Fall)
-- **CHANGE** /v4/characters/{character_id/
+- **CHANGE** /v4/characters/{character_id}/
   * Cache timer changed to 24hrs. 
   * Emergency change due to server instability caused by scraping.
   * Did not result in a version change.
