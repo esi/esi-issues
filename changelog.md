@@ -2,7 +2,7 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
-# 2020-03-01
+# 2020-03-02
 - **REMOVAL** /v2/corporations/{corporation_id}/assets/
 - **DEPRECATION** /v3/corporations/{corporation_id}/assets/ (latest->legacy)
 - **PROMOTION** /v4/corporations/{corporation_id}/assets/ (dev->latest)
