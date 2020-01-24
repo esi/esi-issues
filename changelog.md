@@ -2,8 +2,25 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2020-03-02
+- **REMOVAL** /v2/corporations/{corporation_id}/assets/
+- **DEPRECATION** /v3/corporations/{corporation_id}/assets/ (latest->legacy)
+- **PROMOTION** /v4/corporations/{corporation_id}/assets/ (dev->latest)
+- **REMOVAL** /v2/characters/{character_id}/assets/
+- **DEPRECATION** /v3/characters/{character_id}/assets/ (latest->legacy)
+- **PROMOTION** /v4/characters/{character_id}/assets/ (dev->latest)
+
+- **DEPRECATION** /v4/characters/{character_id}/notifications/ (latest->legacy)
+- **PROMOTION** /v5/characters/{character_id}/notifications/ (dev->latest)
+
+# 2020-01-23
+- **NEW** /v4/corporations/{corporation_id}/assets/
+  * 'item' location type was added to `location_type` enum
+- **NEW** /v4/characters/{character_id}/assets/
+  * 'item' location type was added to `location_type` enum
+  
 # 2020-01-14
-- **REMOVAL** Singularity server to be removed as data source.
+- **REMOVAL** Singularity server removed as data source.
   * https://developers.eveonline.com/blog/article/removing-datasource-singularity
 
 # 2019-11-25 
