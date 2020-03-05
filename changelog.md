@@ -2,7 +2,7 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
-# 2020-04-04
+# 2020-04-08
 
 - **REMOVAL** of scopes from SSO:
    - esi-corporations.read_outposts.v1;
