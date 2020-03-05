@@ -2,7 +2,16 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2020-03-19
+
+- **REMOVAL** of scopes from SSO:
+   - esi-corporations.read_outposts.v1;
+   - esi-corporations.write_structures.v1.
+   
+*These scopes do not serve any purpose for a long time now but we see that some applications still request them. If those applications won't be fixed, they will break after scopes removal.* 
+
 # 2020-03-02
+
 - **REMOVAL** /v2/corporations/{corporation_id}/assets/
 - **DEPRECATION** /v3/corporations/{corporation_id}/assets/ (latest->legacy)
 - **PROMOTION** /v4/corporations/{corporation_id}/assets/ (dev->latest)
