@@ -1,6 +1,14 @@
 Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
+# 2020-06-10
+- **REMOVAL** /v2/alliance/{alliance_id} (legacy)
+- **REMOVAL** GET /v2/characters/{character_id}/calendar/{event_id} (legacy)
+- **REMOVAL** PUT /v2/characters/{character_id}/calendar/{event_id} (legacy)
+
+# 2020-05-06
+- **REMOVAL** /v1/fw/systems (legacy)
+- **REMOVAL** /v1/characters/{character_id}/location (legacy)
 
 # 2020-04-08
 
@@ -9,6 +17,11 @@ Dates in the future are upcoming scheduled changes.
    - esi-corporations.write_structures.v1.
    
 *These scopes do not serve any purpose for a long time now but we see that some applications still request them. If those applications won't be fixed, they will break after scopes removal.* 
+
+# 2020-03-17
+- **NEW** /v2/alliances/{alliance_id}/icons (dev)
+  * 'New image server URL paths. 
+
 
 # 2020-03-02
 
