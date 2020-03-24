@@ -18,6 +18,10 @@ Dates in the future are upcoming scheduled changes.
    
 *These scopes do not serve any purpose for a long time now but we see that some applications still request them. If those applications won't be fixed, they will break after scopes removal.* 
 
+# 2020-03-25
+- **ENHANCEMENT** /v4/characters/{character_id}/assets/
+  * Added new location_flag enum value: FrigateEscapeBay.
+  
 # 2020-03-17
 - **NEW** /v2/alliances/{alliance_id}/icons (dev)
   * 'New image server URL paths. 
