@@ -21,8 +21,11 @@ Dates in the future are upcoming scheduled changes.
 # 2020-03-17
 - **NEW** /v2/alliances/{alliance_id}/icons (dev)
   * 'New image server URL paths. 
-
-
+- **NEW** /v2/corporations/{corporation_id}/icons	 (dev)
+  * 'New image server URL paths. 
+- **NEW** /v2/characters/{character_id}/potrait (dev)
+  * 'New image server URL paths. 
+  
 # 2020-03-02
 
 - **REMOVAL** /v2/corporations/{corporation_id}/assets/
