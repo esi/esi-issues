@@ -58,7 +58,26 @@ For all other changes in spec the procedure stays the same.
   * 'item' location type was added to `location_type` enum
 - **NEW** /v4/characters/{character_id}/assets/
   * 'item' location type was added to `location_type` enum
- 
+  
+# 2020-01-14
+- **REMOVAL** Singularity server removed as data source.
+  * https://developers.eveonline.com/blog/article/removing-datasource-singularity
+
+# 2019-11-25 
+- **DEPRECATION** /characters/{character_id}/bookmarks/
+- **DEPRECATION** /characters/{character_id}/bookmarks/folders/
+- **DEPRECATION** /corporations/{corporation_id}/bookmarks/
+- **DEPRECATION** /corporations/{corporation_id}/bookmarks/folders/
+  * All Bookmarks routes are deprecated as a result of the new Bookmark system. They will return only an empty list.
+  * New bookmark endpoints not yet released.
+  * https://developers.eveonline.com/blog/article/temporary-blackout-of-esi-bookmarks
+
+# 2019-11-21
+- **CHANGE** /v4/characters/{character_id}/
+  * Cache timer changed to 24hrs. 
+  * Emergency change due to server instability caused by scraping.
+  * Did not result in a version change.
+
 # 2019-08-13
 - **ENHANCEMENT** /v5/characters/{character_id}/notifications/
   * Added support for new notification types.
