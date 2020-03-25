@@ -39,7 +39,7 @@ The following people are experienced members of EVE's third-party dev community,
 [lukasni](https://github.com/lukasni) | Catherine Solenne | [@catherinesolenne](https://tweetfleet.slack.com/messages/@catherinesolenne/) | N/A
 [w9jds](https://github.com/w9jds) | Chingy Chonga | [@Chingy Chonga](https://tweetfleet.slack.com/messages/@Chingy_Chonga/) | [@w9jds_](https://twitter.com/w9jds_)
 [NathenSample](https://github.com/NathenSample) | Christy Cloud | [@christycloud](https://tweetfleet.slack.com/messages/@christycloud/) | [@ChristyCloudEve](https://twitter.com/ChristyCloudEve)
-[ddavaham](https://github.com/ddavaham) | David Davaham | [@DoubleD](https://tweetfleet.slack.com/messages/@DoubleD/) | N/A
+[ddouglas](https://github.com/ddouglas) | David Davaham | [@DoubleD](https://tweetfleet.slack.com/messages/@DoubleD/) | N/A
 [fuzzysteve](https://github.com/fuzzysteve) | Steve Ronuken | [@fuzzysteve](https://tweetfleet.slack.com/messages/@fuzzysteve/) | [@Fuzzysteve](https://twitter.com/Fuzzysteve)
 [GoldenGnu](https://github.com/GoldenGnu) | GoldenGnu | [@goldengnu](https://tweetfleet.slack.com/messages/@goldengnu/) | N/A
 [andimiller](https://github.com/andimiller) | Lucia Denniard | [@luciadenniard](https://tweetfleet.slack.com/messages/@luciadenniard/) | N/A
