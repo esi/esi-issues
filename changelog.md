@@ -28,9 +28,9 @@ For all other changes in spec the procedure stays the same.
   * Added new location_flag enum value: FrigateEscapeBay.
 - **ENHANCEMENT** /v4/characters/{character_id}/assets/
   * Added new location_flag enum value: FrigateEscapeBay.
-- **ENHANCEMENT** /v3//corporations/{corporation_id}/assets/
+- **ENHANCEMENT** /v3/corporations/{corporation_id}/assets/
   * Added new location_flag enum value: FrigateEscapeBay.
-- **ENHANCEMENT** /v4//corporations/{corporation_id}/assets/
+- **ENHANCEMENT** /v4/corporations/{corporation_id}/assets/
   * Added new location_flag enum value: FrigateEscapeBay.
   
 # 2020-03-17
