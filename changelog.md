@@ -10,14 +10,6 @@ Dates in the future are upcoming scheduled changes.
 - **REMOVAL** /v1/fw/systems (legacy)
 - **REMOVAL** /v1/characters/{character_id}/location (legacy)
 
-# 2020-04-08
-
-- **REMOVAL** of scopes from SSO:
-   - esi-corporations.read_outposts.v1;
-   - esi-corporations.write_structures.v1.
-   
-*These scopes do not serve any purpose for a long time now but we see that some applications still request them. If those applications won't be fixed, they will break after scopes removal.* 
-
 # 2020-05-01
 **CHANGE OF POLICY ON BREAKING CHANGES**  
 _Extending attribute `enums` no longer treated as an endpoint breaking change._
@@ -25,6 +17,14 @@ _Extending attribute `enums` no longer treated as an endpoint breaking change._
 - Starting from now (2020/05/01) spec changes limited to extending enumerations won't be treated as breaking changes and therefore won't require a version bump.  
 - We will announce those in the changelog as existing route version _ENHANCEMENT_ and the changes will be made with just one day of prior notice.
 - Please adjust your applications to treat all `string` attributes accompanied with enumerations simply as `string`. 
+
+# 2020-04-08
+
+- **REMOVAL** of scopes from SSO:
+   - esi-corporations.read_outposts.v1;
+   - esi-corporations.write_structures.v1.
+   
+*These scopes do not serve any purpose for a long time now but we see that some applications still request them. If those applications won't be fixed, they will break after scopes removal.* 
 
 # 2020-04-08
 - **REMOVAL** /v3/characters/{character_id}/assets/ (legacy)
