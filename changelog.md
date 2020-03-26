@@ -18,12 +18,29 @@ Dates in the future are upcoming scheduled changes.
    
 *These scopes do not serve any purpose for a long time now but we see that some applications still request them. If those applications won't be fixed, they will break after scopes removal.* 
 
+# 2020-05-01
+**CHANGE OF POLICY ON BREAKING CHANGES**  
+_Extending attribute `enums` no longer treated as an endpoint breaking change._
+
+- Starting from now (2020/05/01) spec changes limited to extending enumerations won't be treated as breaking changes and therefore won't require a version bump.  
+- We will announce those in the changelog as existing route version _ENHANCEMENT_ and the changes will be made with just one day of prior notice.
+- Please adjust your applications to treat all `string` attributes accompanied with enumerations simply as `string`. 
+
+# 2020-03-26
+- **REVERSAL** /v3/characters/{character_id}/assets/
+  * Removed new location_flag enum value: FrigateEscapeBay.
+- **REVERSAL** /v4/characters/{character_id}/assets/
+  * Removed new location_flag enum value: FrigateEscapeBay.
+- **REVERSAL** /v3/corporations/{corporation_id}/assets/
+  * Removed new location_flag enum value: FrigateEscapeBay.
+- **REVERSAL** /v4/corporations/{corporation_id}/assets/
+  * Removed new location_flag enum value: FrigateEscapeBay.
+- **NEW** /v5/characters/{character_id}/assets/
+  * Added new location_flag enum value: FrigateEscapeBay.
+- **NEW** /v5/corporations/{corporation_id}/assets/
+  * Added new location_flag enum value: FrigateEscapeBay.
+
 # 2020-03-25
-
-**ANNOUNCEMENT ON ESI ENDPOINT SPEC CHANGES**
-We've decided that from now on spec changes limited to extending enumerations won't be treated as breaking changes and therefore won't be handled with version bump. We will announce those in the changelog as existing route version enhancement.
-For all other changes in spec the procedure stays the same.
-
 - **ENHANCEMENT** /v3/characters/{character_id}/assets/
   * Added new location_flag enum value: FrigateEscapeBay.
 - **ENHANCEMENT** /v4/characters/{character_id}/assets/
