@@ -26,6 +26,14 @@ _Extending attribute `enums` no longer treated as an endpoint breaking change._
 - We will announce those in the changelog as existing route version _ENHANCEMENT_ and the changes will be made with just one day of prior notice.
 - Please adjust your applications to treat all `string` attributes accompanied with enumerations simply as `string`. 
 
+# 2020-04-08
+- **REMOVAL** /v3/characters/{character_id}/assets/ (legacy)
+- **DEPRECATION** /v4/characters/{character_id}/assets/ (latest->legacy)
+- **PROMOTION** /v5/characters/{character_id}/assets/ (dev->latest)
+- **REMOVAL** /v3/corporations/{corporation_id}/assets/ (legacy)
+- **DEPRECATION** /v4/corporations/{corporation_id}/assets/ (latest->legacy)
+- **PROMOTION** /v5/corporations/{corporation_id}/assets/ (dev->latest)
+
 # 2020-03-26
 - **REVERSAL** /v3/characters/{character_id}/assets/
   * Removed new location_flag enum value: FrigateEscapeBay.
