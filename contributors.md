@@ -19,7 +19,8 @@ The following people are not active members of Team Tech Co. but have made signi
  CCP Tellus   | Ex CCP |
  CCP Masterplan | Developer |
  CCP Zoetrope | Audio Programmer |
- CCP Bartender | Developer
+ CCP Bartender | Developer |
+ CCP AquarHEAD | Software Engineer |
 
 o7
 
