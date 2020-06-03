@@ -6,7 +6,6 @@ The following CCP developers are members of [Team Tech Co](https://twitter.com/T
 
  GitHub | CCP Dev Name | Tweetfleet Slack | Twitter | Role
 --------|--------------|------------------|---------|------
-[aquarhead](https://github.com/aquarhead) | CCP AquarHEAD | [@ccp_aquarhead](https://tweetfleet.slack.com/messages/@ccp_aquarhead/) | [@aquarhead](https://twitter.com/aquarhead) | Developer
 [ccpStuart](https://github.com/ccpStuart) | CCP Mephysto | N/A | N/A | Project Manager
 [gitAskur](https://github.com/gitAskur) | CCP PrismX | [@prismx](https://tweetfleet.slack.com/messages/@prismx/) | [@CCP_PrismX](https://twitter.com/CCP_PrismX) | Database Wizard
 [HakShak](https://github.com/hakshak) | CCP Chimichanga | [@ccpchimichanga](https://tweetfleet.slack.com/messages/@ccpchimichanga/) | [@ccp_chimichanga](https://twitter.com/ccp_chimichanga) | Manager
