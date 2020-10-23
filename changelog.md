@@ -1,6 +1,17 @@
 Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
+# 2020-10-26
+- **ENHANCEMENT** /v5/characters/{character_id}/notifications/ & /v6/characters/{character_id}/notifications/
+  * Added new `type` enum values:
+     - "InvasionSystemStart"
+     - "InvasionCompletedMsg"
+     - "MissionCanceledTriglavian"
+     - "AgentRetiredTrigravian"
+     - "StructureImpendingAbandonmentAssetsAtRisk"
+     - "OfficeLeaseCanceledInsufficientStandings"
+     - "ContractRegionChangedToPochven"
+  
 # 2020-06-10
 - **REMOVAL** /v2/alliance/{alliance_id} (legacy)
 - **REMOVAL** GET /v2/characters/{character_id}/calendar/{event_id} (legacy)
