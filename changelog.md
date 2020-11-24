@@ -1,6 +1,25 @@
 Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
+
+# 2020-11-25
+- **ENHANCEMENT** /corporations/{corporation_id}/wallets/{division}/journal/
+  * Added new `ref_type` enum values:
+     - "skill_purchase"
+     - "item_trader_payment"
+     - "ess_escrow_transfer"
+     
+# 2020-11-09
+- **ENHANCEMENT** /v5/characters/{character_id}/notifications/ & /v6/characters/{character_id}/notifications/
+  * Added new `type` enum values:
+     - "IndustryOperationFinished"
+     - "ESSMainBankLink"
+- **ENHANCEMENT** /v6/characters/{character_id}/wallet/joiurnal/
+  * Added new `ref_type` enum values:
+     - "skill_purchase"
+     - "item_trader_payment"
+     - "ess_escrow_transfer"
+
 # 2020-10-26
 - **ENHANCEMENT** /v5/characters/{character_id}/notifications/ & /v6/characters/{character_id}/notifications/
   * Added new `type` enum values:
