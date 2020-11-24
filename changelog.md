@@ -3,7 +3,7 @@ Historical reference of endpoint additions and changes made in ESI.
 Dates in the future are upcoming scheduled changes.
 
 # 2020-11-25
-- **ENHANCEMENT** /corporations/{corporation_id}/wallets/{division}/journal/
+- **ENHANCEMENT** /v4/corporations/{corporation_id}/wallets/{division}/journal/
   * Added new `ref_type` enum values:
      - "skill_purchase"
      - "item_trader_payment"
