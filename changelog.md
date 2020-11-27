@@ -2,6 +2,10 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2020-12-01
+- **ENHANCEMENT** /v1/route/{origin}/{destination}/
+  * Updates map data to include changes introduced after Triglavian region remapping.
+
 # 2020-11-25
 - **ENHANCEMENT** /v4/corporations/{corporation_id}/wallets/{division}/journal/
   * Added new `ref_type` enum values:
