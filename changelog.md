@@ -2,6 +2,10 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2020-12-16
+- **REMOVAL** /characters/{character_id}/stats/
+  * Removing esi-characterstats (annoncment made on 20.08.2020 in tweetfleet)
+
 # 2020-12-01
 - **ENHANCEMENT** /v1/route/{origin}/{destination}/
   * Updates map data to include changes introduced after Triglavian region remapping.
