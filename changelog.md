@@ -2,6 +2,12 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2021-03-22
+- **ENHANCEMENT** /v5/characters/{character_id}/notifications/ & /v6/characters/{character_id}/notifications/
+  * Added new `type` enum values:
+    - "ExpertSystemExpiryImminent"
+    - "ExpertSystemExpired"
+
 # 2020-12-16
 - **REMOVAL** /characters/{character_id}/stats/
   * Removing esi-characterstats (annoncment made on 20.08.2020 in tweetfleet)
