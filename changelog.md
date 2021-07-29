@@ -2,7 +2,7 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
-# 2020-07-30
+# 2021-07-30
 - **NEW** /v5/characters/{character_id} (dev)
   * 'ancestry_id' field removed from response as it's being deprecated / meaningless in the game. 
   * 'v4' stays as 'latest' and will stay so for some time, the deprecation will be announced in advance. 
