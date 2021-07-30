@@ -2,11 +2,11 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
-# 2021-08-20
+# 2021-09-21
 - **REMOVAL** /v4/characters/{character_id} (legacy)
 _The only difference between `v4` and `v5` is the fact that `v4` contains as an optional field `ancestry_id`._
 
-# 2021-08-06
+# 2021-09-15
 - **REMOVAL** /v3/characters/{character_id} (legacy)
 - **DEPRECATION** /v4/characters/{character_id} (latest->legacy)
 - **PROMOTION** /v5/characters/{character_id} (dev->latest)
