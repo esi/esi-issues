@@ -2,19 +2,38 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2021-11-26
+- **ENHANCEMENT** /v6/characters/{character_id}/wallet/journal/ & /v4/corporations/{corporation_id}/wallets/{division}/journal/
+    * Adds following wallet journal entry ref types to enum:
+        - "external_trade_freeze";
+        - "external_trade_thaw";
+        - "external_trade_delivery";
+        - "season_challenge_reward";
+        - "skill_purchase";
+        - "item_trader_payment";
+        - "flux_ticket_sale";
+        - "flux_payout";
+        - "flux_tax";
+        - "flux_ticket_repayment";
+        - "redeemed_isk_token";
+        - "daily_challenge_reward";
+        - "market_provider_tax";
+        - "ess_escrow_transfer";
+        - "milestone_reward_payment".
+
 # 2021-10-21
 - **REMOVAL** /v4/characters/{character_id} (legacy)
-_The only difference between `v4` and `v5` is the fact that `v4` contains as an optional field `ancestry_id`._
+    * _The only difference between `v4` and `v5` is the fact that `v4` contains as an optional field `ancestry_id`._
 
 # 2021-09-21
-~~- **REMOVAL** /v4/characters/{character_id} (legacy)~~
-~~_The only difference between `v4` and `v5` is the fact that `v4` contains as an optional field `ancestry_id`._~~ **POSTPONED**
+- ~~**REMOVAL** /v4/characters/{character_id} (legacy)~~
+    * ~~_The only difference between `v4` and `v5` is the fact that `v4` contains as an optional field `ancestry_id`._~~ **POSTPONED**
 
 # 2021-09-15
 - **REMOVAL** /v3/characters/{character_id} (legacy)
 - **DEPRECATION** /v4/characters/{character_id} (latest->legacy)
 - **PROMOTION** /v5/characters/{character_id} (dev->latest)
-_The only change introduced by `v5` is removal of an optional field `ancestry_id` so it shouldn't cause problems for any application._
+    * _The only change introduced by `v5` is removal of an optional field `ancestry_id` so it shouldn't cause problems for any application._
 
 # 2021-07-30
 - **NEW** /v5/characters/{character_id} (dev)
