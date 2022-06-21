@@ -2,6 +2,13 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2022-06-21
+- **ENHANCEMENT** /v5/corporations/{corporation_id}/assets/ & /v5/characters/{character_id}/assets/
+    * Added new location_flag enum values:
+        - "StructureDeedBay";
+        - "SpecializedIceHold";
+        - "SpecializedAsteroidHold";
+
 # 2021-11-26
 - **ENHANCEMENT** /v6/characters/{character_id}/wallet/journal/ & /v4/corporations/{corporation_id}/wallets/{division}/journal/
     * Adds following wallet journal entry ref types to enum:
