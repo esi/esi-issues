@@ -2,6 +2,11 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2022-07-12
+- **REMOVAL** /search
+    * Use /characters/{character_id}/search instead to authenticate your search queries
+    * `character_id` should be the ID of the character performing the query
+
 # 2022-06-21
 - **ENHANCEMENT** /v5/corporations/{corporation_id}/assets/ & /v5/characters/{character_id}/assets/
     * Added new location_flag enum values:
