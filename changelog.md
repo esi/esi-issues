@@ -2,6 +2,11 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2023-01-09
+- **TEMPORARY REMOVAL** esi-characters/{character_id}/corporationhistory/
+  * Routes will return empty lists rather than corporation history once the request cache has expired
+  * This affects all versions of endpoint: legacy, dev, latest, v1 and v2
+
 # 2022-07-12
 - **REMOVAL** /search
     * Use /characters/{character_id}/search instead to authenticate your search queries
