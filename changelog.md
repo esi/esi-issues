@@ -2,6 +2,17 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2023-01-23
+- Updates to `/characters/{character_id}/fw/stats`
+ * characters that have delisted from factional warfare will still return their statistics from their time of service
+
+# 2023-01-19
+- Lowered the cache timer on public character get responses back to 24 hours
+ * Please not that it will take a full week for the currently cached records to expire
+
+# 2023-01-13
+- Raised the cache timer on public character get responses to full seven days.
+
 # 2023-01-09
 - **TEMPORARY REMOVAL** esi-characters/{character_id}/corporationhistory/
   * Routes will return empty lists rather than corporation history once the request cache has expired
