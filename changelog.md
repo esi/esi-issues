@@ -2,7 +2,7 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
-# 2024-01-24
+# 2024-01-25
 - **ENHANCEMENT** `/v6/characters/{character_id}/notifications`
   * Adds new notification types: `CorporationGoalNameChange` & `CorporationLeft`.
 - **ENHANCEMENT**:
