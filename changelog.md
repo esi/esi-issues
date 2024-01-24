@@ -2,6 +2,20 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2024-01-24
+- **ENHANCEMENT** `/v6/characters/{character_id}/notifications`
+  * Adds new notification types: `CorporationGoalNameChange` & `CorporationLeft`.
+- **ENHANCEMENT**:
+  - `/v2/characters/{character_id}/roles/`;
+  - `/v3/characters/{character_id}/roles/`;
+  - `/v1/corporations/{corporation_id}/roles/history/`;
+  - `/v2/corporations/{corporation_id}/roles/history/`;
+  - `/v1/corporations/{corporation_id}/roles/`;
+  - `/v2/corporations/{corporation_id}/roles/`;
+  - `/v1/corporations/{corporation_id}/titles/`;
+  - `/v2/corporations/{corporation_id}/titles/`;
+     * Adds corporation `ProjectManager` role. 
+
 # 2023-01-23
 - Updates to `/characters/{character_id}/fw/stats`
   * characters that have delisted from factional warfare will still return their statistics from their time of service
