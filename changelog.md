@@ -2,6 +2,41 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2024-07-11
+- **ENHANCEMENT**:
+  - `/v1/route/{origin}/{destination}/`
+    * Add stargates for Intaki-Amygnon and Athounon-Samanuni, bump the security status for the Intaki system to `0.6`, as per [this PR](https://github.com/esi/esi-routes/pull/12).
+- **ENHANCEMENT**:
+  - `/v1/universe/races/`
+    * Add the Jove and Triglavian races to the list of returned races.
+- **ENHANCEMENT**:
+  - `/v1/markets/{region_id}/types/`
+    * Update the Swagger spec to indicate a possible 404 response when requests are made to regions that do not exist.
+- **ENHANCEMENT**:
+  - `/v4/corporations/{corporation_id}/wallets/{division}/journal/`
+  - `/v5/corporations/{corporation_id}/wallets/{division}/journal/`
+  - `/v6/characters/{character_id}/wallet/journal/`
+  - `/v7/characters/{character_id}/wallet/journal/`
+    - Add new wallet journal ref types: `under_construction`, `allignment_based_gate_toll`, `project_payouts`, `insurgency_corruption_contribution_reward`, `insurgency_suppression_contribution_reward`, `daily_goal_payouts`, `daily_goal_payouts_tax`, `cosmetic_market_component_item_purchase`, `cosmetic_market_skin_sale_broker_fee`, `cosmetic_market_skin_purchase`, `cosmetic_market_skin_sale`, `cosmetic_market_skin_sale_tax` & `cosmetic_market_skin_transaction`.
+- **ENHANCEMENT**:
+  - `/v5/characters/{character_id}/notifications/`
+  - `/v6/characters/{character_id}/notifications/`
+     * Add new notification types `LPAutoRedeemed`, `SPAutoRedeemed`, `SkinSequencingCompleted`, `SkyhookOnline`, `SkyhookLostShields`, `SkyhookUnderAttack`, `SkyhookDestroyed` & `SkyhookDeployed`.
+- **ENHANCEMENT**:
+  - `/v5/characters/{character_id}/assets/`
+  - `/v5/corporations/{corporation_id}/assets/`
+    * Add new location flags `InfrastructureHangar` & `MoonMaterialBay`. 
+- **ENHANCEMENT**:
+  - `/v2/characters/{character_id}/roles/`
+  - `/v3/characters/{character_id}/roles/`
+  - `/v1/corporations/{corporation_id}/roles/history/`
+  - `/v2/corporations/{corporation_id}/roles/history/`
+  - `/v1/corporations/{corporation_id}/roles/`
+  - `/v2/corporations/{corporation_id}/roles/`
+  - `/v1/corporations/{corporation_id}/titles/`
+  - `/v2/corporations/{corporation_id}/titles/`
+     * Adds corporation `BrandManager` role. 
+
 # 2024-01-25
 - **ENHANCEMENT** `/v6/characters/{character_id}/notifications`
   * Adds new notification types: `CorporationGoalNameChange` & `CorporationLeft`.
