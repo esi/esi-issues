@@ -2,6 +2,15 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2024-07-16
+- **FIX**:
+  - `/v6/characters/{character_id}/notifications/`
+  - `/v5/characters/{character_id}/notifications/`
+    * Add new notification types: StructureLowReagentsAlert and StructureNoReagentsAlert
+- **FIX**:
+  - `/v1/universe/races/`
+    * Fixed the maxItems limit that would cause this endpoint to fail unnecessarily.
+
 # 2024-07-11
 - **ENHANCEMENT**:
   - `/v1/route/{origin}/{destination}/`
