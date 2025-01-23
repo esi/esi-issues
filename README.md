@@ -12,13 +12,13 @@ For a list of past and future ESI endpoint changes, see the [changelog](changelo
 
 This repository is run by a group of CCP developers and members of the EVE third-party dev community. For more details, see [Contributors](contributors.md).
 
-The ESI documentation can be found at [https://docs.esi.evetech.net/](https://docs.esi.evetech.net/). A good place to start is the [FAQ](https://docs.esi.evetech.net/docs/FAQ). It is maintained in a separate repository called [esi-docs](https://github.com/esi/esi-docs) and is open for contributions.
+The ESI documentation can be found at [https://developers.eveonline.com/docs/](https://developers.eveonline.com/docs/). It is maintained in a separate repository called [esi-docs](https://github.com/esi/esi-docs) and is open for contributions.
 
 ## Opening a new issue
 
 Please use the search function before opening a new issue (be sure to include closed issues as well).
 
-To open a new issue click on one of the following headers (if you think your issue doesn't fit in any of these categories we invite you to [discuss it with us in `#esi` on Tweetfleet Slack first](https://www.fuzzwork.co.uk/tweetfleet-slack-invites/)):
+To open a new issue click on one of the following headers (if you think your issue doesn't fit in any of these categories we invite you to [discuss it with us in the `#3rd-party-dev-and-esi` channel on discord](https://www.eveonline.com/discord)):
 
 ### [Report a new bug](https://github.com/esi/esi-issues/issues/new?template=bug.md)
 
