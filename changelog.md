@@ -2,6 +2,23 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2025-02-10
+- **REMOVAL**:
+  - `/characters/{character_id}/bookmarks/`
+  - `/characters/{character_id}/bookmarks/folders/`
+  - `/corporations/{corporation_id}/bookmarks/`
+  - `/corporations/{corporation_id}/bookmarks/folders/`
+    * Removed `esi-bookmarks` as announced in [this blog post](https://developers.eveonline.com/blog/deprecation-and-impending-removal-of-esi-opportunities-and-esi-bookmarks).
+
+# 2025-02-03
+- **DEPRECATION**:
+  - `/characters/{character_id}/opportunities/`
+  - `/opportunities/groups/`
+  - `/opportunities/groups/{group_id}/`
+  - `/opportunities/tasks/`
+  - `/opportunities/tasks/{task_id}/`
+    * Deprecated `esi-opportunities` as announced in [this blog post](https://developers.eveonline.com/blog/deprecation-and-impending-removal-of-esi-opportunities-and-esi-bookmarks).
+
 # 2024-07-16
 - **FIX**:
   - `/v6/characters/{character_id}/notifications/`
