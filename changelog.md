@@ -3,7 +3,7 @@ Historical reference of endpoint additions and changes made in ESI.
 Dates in the future are upcoming scheduled changes.
 
 # 2025-02-10
-- **REMOVE**:
+- **REMOVAL**:
   - `/characters/{character_id}/bookmarks/`
   - `/characters/{character_id}/bookmarks/folders/`
   - `/corporations/{corporation_id}/bookmarks/`
@@ -11,7 +11,7 @@ Dates in the future are upcoming scheduled changes.
     * Removed `esi-bookmarks` as announced in [this blog post](https://developers.eveonline.com/blog/deprecation-and-impending-removal-of-esi-opportunities-and-esi-bookmarks).
 
 # 2025-02-03
-- **DEPRECATE**:
+- **DEPRECATION**:
   - `/characters/{character_id}/opportunities/`
   - `/opportunities/groups/`
   - `/opportunities/groups/{group_id}/`
