@@ -51,7 +51,7 @@ Dates in the future are upcoming scheduled changes.
 - **ENHANCEMENT**:
   - `/v5/characters/{character_id}/assets/`
   - `/v5/corporations/{corporation_id}/assets/`
-    * Add new location flags `InfrastructureHangar` & `MoonMaterialBay`. 
+    * Add new location flags `InfrastructureHangar` & `MoonMaterialBay`.
 - **ENHANCEMENT**:
   - `/v2/characters/{character_id}/roles/`
   - `/v3/characters/{character_id}/roles/`
@@ -61,7 +61,7 @@ Dates in the future are upcoming scheduled changes.
   - `/v2/corporations/{corporation_id}/roles/`
   - `/v1/corporations/{corporation_id}/titles/`
   - `/v2/corporations/{corporation_id}/titles/`
-     * Adds corporation `BrandManager` role. 
+     * Adds corporation `BrandManager` role.
 
 # 2024-01-25
 - **ENHANCEMENT** `/v6/characters/{character_id}/notifications`
@@ -75,7 +75,7 @@ Dates in the future are upcoming scheduled changes.
   - `/v2/corporations/{corporation_id}/roles/`;
   - `/v1/corporations/{corporation_id}/titles/`;
   - `/v2/corporations/{corporation_id}/titles/`;
-     * Adds corporation `ProjectManager` role. 
+     * Adds corporation `ProjectManager` role.
 
 # 2023-01-23
 - Updates to `/characters/{character_id}/fw/stats`
@@ -140,8 +140,8 @@ Dates in the future are upcoming scheduled changes.
 
 # 2021-07-30
 - **NEW** /v5/characters/{character_id} (dev)
-  * 'ancestry_id' field removed from response as it's being deprecated / meaningless in the game. 
-  * 'v4' stays as 'latest' and will stay so for some time, the deprecation will be announced in advance. 
+  * 'ancestry_id' field removed from response as it's being deprecated / meaningless in the game.
+  * 'v4' stays as 'latest' and will stay so for some time, the deprecation will be announced in advance.
 
 # 2021-03-22
 - **ENHANCEMENT** /v5/characters/{character_id}/notifications/ & /v6/characters/{character_id}/notifications/
@@ -163,7 +163,7 @@ Dates in the future are upcoming scheduled changes.
      - "skill_purchase"
      - "item_trader_payment"
      - "ess_escrow_transfer"
-     
+
 # 2020-11-09
 - **ENHANCEMENT** /v5/characters/{character_id}/notifications/ & /v6/characters/{character_id}/notifications/
   * Added new `type` enum values:
@@ -185,7 +185,7 @@ Dates in the future are upcoming scheduled changes.
      - "StructureImpendingAbandonmentAssetsAtRisk"
      - "OfficeLeaseCanceledInsufficientStandings"
      - "ContractRegionChangedToPochven"
-  
+
 # 2020-06-10
 - **REMOVAL** /v2/alliance/{alliance_id} (legacy)
 - **REMOVAL** GET /v2/characters/{character_id}/calendar/{event_id} (legacy)
@@ -196,20 +196,20 @@ Dates in the future are upcoming scheduled changes.
 - **REMOVAL** /v1/characters/{character_id}/location (legacy)
 
 # 2020-05-01
-**CHANGE OF POLICY ON BREAKING CHANGES**  
+**CHANGE OF POLICY ON BREAKING CHANGES**
 _Extending attribute `enums` no longer treated as an endpoint breaking change._
 
-- Starting from now (2020/05/01) spec changes limited to extending enumerations won't be treated as breaking changes and therefore won't require a version bump.  
+- Starting from now (2020/05/01) spec changes limited to extending enumerations won't be treated as breaking changes and therefore won't require a version bump.
 - We will announce those in the changelog as existing route version _ENHANCEMENT_ and the changes will be made with just one day of prior notice.
-- Please adjust your applications to treat all `string` attributes accompanied with enumerations simply as `string`. 
+- Please adjust your applications to treat all `string` attributes accompanied with enumerations simply as `string`.
 
 # 2020-04-08
 
 - **REMOVAL** of scopes from SSO:
    - esi-corporations.read_outposts.v1;
    - esi-corporations.write_structures.v1.
-   
-*These scopes do not serve any purpose for a long time now but we see that some applications still request them. If those applications won't be fixed, they will break after scopes removal.* 
+
+*These scopes do not serve any purpose for a long time now but we see that some applications still request them. If those applications won't be fixed, they will break after scopes removal.*
 
 # 2020-04-08
 - **REMOVAL** /v3/characters/{character_id}/assets/ (legacy)
@@ -242,15 +242,15 @@ _Extending attribute `enums` no longer treated as an endpoint breaking change._
   * Added new location_flag enum value: FrigateEscapeBay.
 - **ENHANCEMENT** /v4/corporations/{corporation_id}/assets/
   * Added new location_flag enum value: FrigateEscapeBay.
-  
+
 # 2020-03-17
 - **NEW** /v2/alliances/{alliance_id}/icons (dev)
-  * 'New image server URL paths. 
+  * 'New image server URL paths.
 - **NEW** /v2/corporations/{corporation_id}/icons	 (dev)
-  * 'New image server URL paths. 
+  * 'New image server URL paths.
 - **NEW** /v2/characters/{character_id}/potrait (dev)
-  * 'New image server URL paths. 
-  
+  * 'New image server URL paths.
+
 # 2020-03-02
 
 - **REMOVAL** /v2/corporations/{corporation_id}/assets/
@@ -268,12 +268,12 @@ _Extending attribute `enums` no longer treated as an endpoint breaking change._
   * 'item' location type was added to `location_type` enum
 - **NEW** /v4/characters/{character_id}/assets/
   * 'item' location type was added to `location_type` enum
-  
+
 # 2020-01-14
 - **REMOVAL** Singularity server removed as data source.
   * https://developers.eveonline.com/blog/article/removing-datasource-singularity
 
-# 2019-11-25 
+# 2019-11-25
 - **DEPRECATION** /characters/{character_id}/bookmarks/
 - **DEPRECATION** /characters/{character_id}/bookmarks/folders/
 - **DEPRECATION** /corporations/{corporation_id}/bookmarks/
@@ -284,14 +284,14 @@ _Extending attribute `enums` no longer treated as an endpoint breaking change._
 
 # 2019-11-21
 - **CHANGE** /v4/characters/{character_id}/
-  * Cache timer changed to 24hrs. 
+  * Cache timer changed to 24hrs.
   * Emergency change due to server instability caused by scraping.
   * Did not result in a version change.
 
 # 2019-08-13
 - **ENHANCEMENT** /v5/characters/{character_id}/notifications/
   * Added support for new notification types.
-  
+
 # 2019-07-15
 - **REMOVAL** /v2/characters/{character_id}/search/
 - **REMOVAL** /v1/search/
@@ -307,7 +307,7 @@ _Extending attribute `enums` no longer treated as an endpoint breaking change._
 
 # 2019-06-06
 - **BUGFIX** /v1/universe/planets/{planet_id}/
-  * Fixed a bug making the endpoint return data about a star if star ID was set instead of planet ID. 
+  * Fixed a bug making the endpoint return data about a star if star ID was set instead of planet ID.
 
 # 2019-05-23
 - **BUGFIX** /v3/characters/{character_id}/search/
@@ -379,7 +379,7 @@ _Extending attribute `enums` no longer treated as an endpoint breaking change._
 - GET /v1/characters/{character_id}/implants/ Cache lowered to 120 seconds
 - GET /v1/characters/{character_id}/attributes/ Cache lowered to 120 seconds
 - POST /v1/universe/ids/ -> MaxItems in both request and response lowered to 500
-  * Note: technically this is a breaking change, but this endpoint errored for requests larger than 500 anyway, so this simply formalises reality. 
+  * Note: technically this is a breaking change, but this endpoint errored for requests larger than 500 anyway, so this simply formalises reality.
 
 # 2019-01-14
 - **PROMOTION** GET /v3/corporations/{corporation_id}/structures/ (dev -> latest)
@@ -398,7 +398,7 @@ _Extending attribute `enums` no longer treated as an endpoint breaking change._
   - add war_eligible bool
 - **ENHANCEMENT** GET /v1/universe/structures/
   - add "market" and "manufacturing_basic" service filters
-  
+
 # 2018-12-10
 - **BUGFIX** GET /v1/corporations/{corporation_id}/industry/jobs/
   - Fix for https://github.com/esi/esi-issues/issues/1053
