@@ -2,6 +2,15 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2025-02-18
+- **FIX**:
+  - `/corporations/{corporation_id}/fw/stats`
+    * Corporations not currently participating in FW can now request their stats nevertheless.
+  - `/characters/{character_id}/skillqueue`
+    * Skill queues with 151 entries can now be requested safely.
+  - `/fleets/{fleet_id}/members`
+    * Always return 204 when inviting members to your fleet, even if they are offline or have a CSPA charge set.
+
 # 2025-02-10
 - **REMOVAL**:
   - `/characters/{character_id}/bookmarks/`
