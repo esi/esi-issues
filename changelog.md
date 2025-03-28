@@ -2,6 +2,52 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2025-02-25
+- **REMOVAL**:
+  - `GET /v1/alliances/{alliance_id}/contacts/`
+  - `POST /v1/characters/{character_id}/assets/locations/`
+  - `GET /v1/characters/{character_id}/contacts/`
+  - `POST /v1/characters/{character_id}/contacts/`
+  - `PUT /v1/characters/{character_id}/contacts/`
+  - `GET /v1/characters/{character_id}/fittings/`
+  - `GET /v2/characters/{character_id}/mail/labels/`
+  - `GET /v1/characters/{character_id}/online/`
+  - `GET /v1/characters/{character_id}/orders/`
+  - `GET /v1/characters/{character_id}/portrait/`
+  - `GET /v3/characters/{character_id}/skills/`
+  - `POST /v1/corporations/{corporation_id}/assets/locations/`
+  - `GET /v1/corporations/{corporation_id}/contacts/`
+  - `GET /v3/corporations/{corporation_id}/structures/`
+  - `GET /v1/dogma/effects/{effect_id}/`
+  - `GET /v1/universe/factions/`
+  - `GET /v1/universe/stations/{station_id}/`
+  - `GET /v1/universe/system_kills/`
+  - `GET /v3/universe/systems/{system_id}/`
+    * Removal of old versions of a route. All these routes have newer versions. More detail in [this blog post](https://developers.eveonline.com/blog/removal-of-deprecated-versions-of-several-routes).
+
+- **PROMOTION**:
+  - `GET /v1/alliances/{alliance_id}/icons/`
+  - `POST /v1/characters/affiliation/`
+  - `GET /v4/characters/{character_id}/assets/`
+  - `GET /v2/characters/{character_id}/clones/`
+  - `DELETE /v1/characters/{character_id}/contacts/`
+  - `POST /v1/characters/{character_id}/fittings/`
+  - `GET /v1/characters/{character_id}/fleet/`
+  - `GET /v4/characters/{character_id}/notifications/`
+  - `GET /v5/characters/{character_id}/wallet/journal/`
+  - `GET /v4/corporations/{corporation_id}/assets/`
+  - `GET /v1/corporations/{corporation_id}/icons/`
+  - `GET /v2/corporations/{corporation_id}/orders/`
+  - `GET /v1/corporations/{corporation_id}/orders/history/`
+  - `GET /v3/corporations/{corporation_id}/wallets/{division}/journal/`
+  - `POST /v2/universe/names/`
+  - `GET /v1/universe/structures/{structure_id}/`
+  - `GET /v3/universe/types/{type_id}/`
+    * All these versions are now similar to one version higher.
+      Any `dev` or `latest` that was on this version is now also promoted to the next.
+      In all these cases, this version was already compatible with the one higher, and they introduce no breaking change.
+      More detail in [this blog post](https://developers.eveonline.com/blog/removal-of-deprecated-versions-of-several-routes).
+
 # 2025-02-18
 - **FIX**:
   - `/corporations/{corporation_id}/fw/stats`
