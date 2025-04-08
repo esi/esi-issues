@@ -2,6 +2,11 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2025-04-08
+- **ENHANCEMENT**:
+  - `/v2/characters/{character_id}/notifications/contacts/`
+    * Update spec to indicate that notification IDs are int64s. More detail in [this blog post](https://developers.eveonline.com/blog/notificationid-is-reaching-int32-limits).
+
 # 2025-02-25
 - **REMOVAL**:
   - `GET /v1/alliances/{alliance_id}/contacts/`
