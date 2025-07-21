@@ -2,6 +2,15 @@ Historical reference of endpoint additions and changes made in ESI.
 
 Dates in the future are upcoming scheduled changes.
 
+# 2025-07-21
+- **FIX**:
+  - `/characters/{character_id}/wallet/journal`
+    * Updated enum with "recent" added types (see [eve-glue](https://github.com/esi/eve-glue/pull/44) for details).
+  - `/corporations/{corporation_id}/containers/logs/`
+    * `character_id` is no longer always zero.
+  - `/corporations/{corporation_id}/assets/`
+    * Newly added Freelance Jobs delivery hangar is now visible by name (see [eve-glue](https://github.com/esi/eve-glue/pull/45) for details).
+
 # 2025-04-08
 - **ENHANCEMENT**:
   - `/v2/characters/{character_id}/notifications/contacts/`
