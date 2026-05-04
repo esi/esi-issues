@@ -1,0 +1,78 @@
+name: Bug Report
+description: File a bug report.
+labels: ["bug"]
+type: "Bug"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your contribution to improving ESI.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please provide a short description of the bug you've encountered.
+      placeholder: When requesting my character ID, I receive an unexpected 418 error.
+    validations:
+      required: true
+  - type: input
+    id: request
+    attributes:
+      label: Request
+      description: Please provide the HTTP method, path, and any relevant parameters. Please do not include auth tokens.
+      placeholder: "GET /characters/{character_id}/"
+    validations:
+      required: true
+  - type: input
+    id: request-compatibility-date
+    attributes:
+      label: Request
+      description: Please provide the compatibility date of the request.
+      placeholder: "2020-01-01"
+    validations:
+      required: true
+  - type: input
+    id: response-status
+    attributes:
+      label: Response - Status Code
+      description: Please provide the status code of the response.
+      placeholder: "418"
+    validations:
+      required: true
+  - type: textarea
+    id: response-headers
+    attributes:
+      label: Response - Headers
+      description: "Please provide the relevant response headers. `Date` is mandatory. Fill out what you sent and received."
+      placeholder: |
+        Date: Fri, 27 Apr 2018 07:22:48 GMT
+        Expires:
+        Last-Modified:
+        ETag:
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: response-body
+    attributes:
+      label: Response - Body
+      description: Please provide the response body.
+      placeholder: |
+        {
+          "error": "I'm a teapot"
+        }
+      render: json
+    validations:
+      required: true
+  - type: textarea
+    id: expected-response-body
+    attributes:
+      label: Expected Response
+      description: Please provide the expected response body.
+      placeholder: |
+        {
+          "error": "I'm a teapot"
+        }
+      render: json
+    validations:
+      required: true

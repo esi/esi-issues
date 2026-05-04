@@ -30,7 +30,7 @@ Please use the search function before opening a new issue (be sure to include cl
 
 To open a new issue click on one of the following headers.
 
-### [Report a new bug](https://github.com/esi/esi-issues/issues/new?template=bug.md)
+### [Report a new bug](https://github.com/esi/esi-issues/issues/new?template=bug.yaml)
 
 Examples:
 
@@ -41,7 +41,7 @@ Examples:
 Note: `429`, `502`, `503`, or `504` errors are not bugs.
 Retry your request again at a later moment.
 
-### [Request a new feature](https://github.com/esi/esi-issues/issues/new?template=feature_request.md)
+### [Request a new feature](https://github.com/esi/esi-issues/issues/new?template=feature_request.yaml)
 
 Some new features will require game design approval.
 Do not open duplicate feature requests!
