@@ -26,7 +26,7 @@ body:
   - type: input
     id: request-compatibility-date
     attributes:
-      label: Request
+      label: Compatibility Date
       description: Please provide the compatibility date of the request.
       placeholder: "2020-01-01"
     validations:
