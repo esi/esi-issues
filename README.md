@@ -1,48 +1,55 @@
 # esi-issues
 
-For public ESI issue tracking only. Bring out your dead.
+Issue tracker for EVE Online's API.
 
-https://esi.evetech.net/
+- Direct API: https://esi.evetech.net/
+- API Explorer: https://developers.eveonline.com/api-explorer
+- Documentation: https://developers.eveonline.com/
+- Community Support: https://www.eveonline.com/discord - `#3rd-party-dev-and-esi` channel (here you can also find CCPers helping you with any ESI-related questions)
 
-**Please only submit issues related to ESI, for SSO issues [click here](https://github.com/ccpgames/sso-issues/issues).**
+Notes:
+- **Please only submit issues related to ESI. For in-game issues, use the in-game functionality.**
+- **Please only submit issues for Tranquility. Use in-game functionality or customer support to report issues for other servers.**
+- **Please do not open issues for anything security related here; send an email to [security@ccpgames.com](mailto:security@ccpgames.com) instead.**
 
-**Please do not open issues for anything security related here, send an email to [security@ccpgames.com](mailto:security@ccpgames.com) instead.**
+This repository is run by CCP and members of the EVE third-party dev community.
+For more details, see [Contributors](contributors.md).
 
-For a list of past and future ESI endpoint changes, see the [changelog](changelog.md).
+## Documentation and changes
 
-This repository is run by a group of CCP developers and members of the EVE third-party dev community. For more details, see [Contributors](contributors.md).
+The [API Explorer](https://developers.eveonline.com/api-explorer) lists all the changes related to ESI routes.
+This information is also available via an ESI route [here](https://developers.eveonline.com/api-explorer#/operations/GetMetaChangelog).
 
-The ESI documentation can be found at [https://developers.eveonline.com/docs/](https://developers.eveonline.com/docs/). It is maintained in a separate repository called [esi-docs](https://github.com/esi/esi-docs) and is open for contributions.
+For more information on how to work with ESI, check the [Developers](https://developers.eveonline.com/) website.
+It contains both blog-posts about the latest, as documentation, best practices, guides and formulas.
+The documentation is maintained in the [esi-docs](https://github.com/esi/esi-docs) repository and is open for contributions.
 
 ## Opening a new issue
 
 Please use the search function before opening a new issue (be sure to include closed issues as well).
 
-To open a new issue click on one of the following headers (if you think your issue doesn't fit in any of these categories we invite you to [discuss it with us in the `#3rd-party-dev-and-esi` channel on discord](https://www.eveonline.com/discord)):
+To open a new issue click on one of the following headers.
 
 ### [Report a new bug](https://github.com/esi/esi-issues/issues/new?template=bug.md)
 
 Examples:
 
-- unexpected 500 responses
-- incorrect information in the swagger spec
-- otherwise invalid or unexpected responses
+- unexpected 500 responses.
+- incorrect information in the API spec.
+- otherwise invalid or unexpected responses.
 
-Note: `502` or `503` errors are not bugs. Retry your request again in the future.
+Note: `429`, `502`, `503`, or `504` errors are not bugs.
+Retry your request again at a later moment.
 
-### [Request a new feature or an enhancement](https://github.com/esi/esi-issues/issues/new?template=feature_request.md)
+### [Request a new feature](https://github.com/esi/esi-issues/issues/new?template=feature_request.md)
 
-Some new features will require game design approval. Do not open duplicate feature requests! If you find something similar to what you're requesting, thumbs up the parent comment and add any addendums as comments.
-
-Examples:
-
-- adding an attribute to an existing route
-- exposing other readily available client data
-- meta requests, adding some global parameter to the specs (`ETag`, `Accept-Encoding`, etc...)
-
-### [Report an inconsistency](https://github.com/esi/esi-issues/issues/new?template=inconsistency.md)
+Some new features will require game design approval.
+Do not open duplicate feature requests!
+If you find something similar to what you're requesting, thumbs up the parent comment.
+In case you have another use-case, feel free to leave that in a comment.
 
 Examples:
 
-- two endpoints returning slightly different names for the same attribute
-- attribute values are returned with different formats for different routes (ie; `int32` vs `int64`)
+- adding an attribute to an existing route.
+- exposing other readily available client data.
+- meta requests, adding some global parameter to the specs (`ETag`, `Accept-Encoding`, etc...).

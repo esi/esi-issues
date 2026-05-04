@@ -1,1 +1,0 @@
-The changelog is now available via the [API Explorer](https://developers.eveonline.com/api-explorer) and via the [changelog route](https://developers.eveonline.com/api-explorer#/operations/GetMetaChangelog).
