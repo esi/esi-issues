@@ -1,0 +1,41 @@
+name: Feature Request
+description: File a feature request.
+labels: ["feature request"]
+type: "Feature"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your contribution to improving ESI.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please provide a short description of the feature you'd like to see.
+      placeholder: It would be nice if we could list the top 100 (or more?) characters by bounty, universe-wide.
+    validations:
+      required: true
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Use Case
+      description: "Please describe the use-case you have in mind: how do you intend to use this feature?"
+      placeholder: Website to help bounty hunters to look for people to declare war on.
+    validations:
+      required: true
+  - type: textarea
+    id: example-response
+    attributes:
+      label: Example Response
+      description: Please provide an example response.
+      placeholder: |
+        [
+          {
+            "bounty": 11000000000,
+            "character_id": 95538921
+          },
+          ...99 other people
+        ]
+      render: json
+    validations:
+      required: true
