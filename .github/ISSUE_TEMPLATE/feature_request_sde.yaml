@@ -1,0 +1,48 @@
+name: Feature Request - SDE
+description: File a feature request for the Static Data Export.
+type: "Feature"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your contribution to improving the SDE.
+
+        This template is for new data in the Static Data Export: new files, new fields, or new formats.
+        For new or changed ESI routes, use the "Feature Request - ESI" template instead.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please provide a short description of the data you'd like to see in the SDE.
+      placeholder: It would be nice if the types file also contained the meta group of each type.
+    validations:
+      required: true
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Use Case
+      description: "Please describe the use-case you have in mind: how do you intend to use this data?"
+      placeholder: A fitting tool that groups modules by tech level without having to guess from the name.
+    validations:
+      required: true
+  - type: textarea
+    id: example-data
+    attributes:
+      label: Example Data
+      description: Please provide an example of how the data could look.
+      placeholder: |
+        {
+          "_key": 587,
+          "metaGroupID": 1
+        }
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Where Is This Data Today?
+      description: Is this data already visible in the game client, in ESI, or elsewhere? If so, please tell us where.
+      placeholder: The show-info window shows the meta group as "Tech I" in the top-right corner.
+    validations:
+      required: false

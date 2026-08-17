@@ -1,11 +1,14 @@
-name: Feature Request
-description: File a feature request.
+name: Feature Request - ESI
+description: File a feature request for an ESI route.
 type: "Feature"
 body:
   - type: markdown
     attributes:
       value: |
         Thank you for your contribution to improving ESI.
+
+        This template is for new or changed ESI routes and attributes.
+        For new data in the Static Data Export, use the "Feature Request - SDE" template instead.
   - type: textarea
     id: description
     attributes:

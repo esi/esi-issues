@@ -1,11 +1,14 @@
-name: Bug Report
-description: File a bug report.
+name: Bug Report - ESI
+description: File a bug report about an ESI route.
 type: "Bug"
 body:
   - type: markdown
     attributes:
       value: |
         Thank you for your contribution to improving ESI.
+
+        This template is for issues with the ESI API itself.
+        For issues with the data in the Static Data Export, use the "Bug Report - SDE" template instead.
   - type: textarea
     id: description
     attributes:
