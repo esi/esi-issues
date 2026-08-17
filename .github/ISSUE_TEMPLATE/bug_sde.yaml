@@ -1,0 +1,69 @@
+name: Bug Report - SDE
+description: File a bug report about the Static Data Export.
+type: "Bug"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your contribution to improving the SDE.
+
+        This template is for issues with the Static Data Export: wrong, missing, or malformed data.
+        For issues with an ESI route, use the "Bug Report - ESI" template instead.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please provide a short description of the bug you've encountered.
+      placeholder: The volume of the Rifter is listed as 2700 m3, but in-game it is 27000 m3.
+    validations:
+      required: true
+  - type: input
+    id: build-number
+    attributes:
+      label: Build Number
+      description: "Please provide the build number of the SDE you're using. You can find it in the '_sde' of the SDE."
+      placeholder: "3466501"
+    validations:
+      required: true
+  - type: input
+    id: file
+    attributes:
+      label: Data File
+      description: Please provide the name of the data file that contains the wrong data.
+      placeholder: "types"
+    validations:
+      required: true
+  - type: textarea
+    id: actual-data
+    attributes:
+      label: Actual Data
+      description: Please provide the data as it currently is in the SDE.
+      placeholder: |
+        {
+          "_key": 587,
+          "volume": 2700
+        }
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: expected-data
+    attributes:
+      label: Expected Data
+      description: Please provide the data as you expect it to be.
+      placeholder: |
+        {
+          "_key": 587,
+          "volume": 27000
+        }
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source of Truth
+      description: How did you determine the expected data? Please add a screenshot, an ESI response, or a link where the correct value can be seen.
+      placeholder: The in-game show-info window show Meta Level.
+    validations:
+      required: true

@@ -30,7 +30,9 @@ Please use the search function before opening a new issue (be sure to include cl
 
 To open a new issue click on one of the following headers.
 
-### [Report a new bug](https://github.com/esi/esi-issues/issues/new?template=bug.yaml)
+There are separate templates for ESI (the API) and the SDE (the Static Data Export).
+
+### [Report a new bug in ESI](https://github.com/esi/esi-issues/issues/new?template=bug_esi.yaml)
 
 Examples:
 
@@ -41,7 +43,15 @@ Examples:
 Note: `429`, `502`, `503`, or `504` errors are not bugs.
 Retry your request again at a later moment.
 
-### [Request a new feature](https://github.com/esi/esi-issues/issues/new?template=feature_request.yaml)
+### [Report a new bug in the SDE](https://github.com/esi/esi-issues/issues/new?template=bug_sde.yaml)
+
+Examples:
+
+- a value that does not match what the game client shows.
+- missing or duplicated entries in a data file.
+- a file that fails to parse, or a field with an unexpected type.
+
+### [Request a new feature in ESI](https://github.com/esi/esi-issues/issues/new?template=feature_request_esi.yaml)
 
 Some new features will require game design approval.
 Do not open duplicate feature requests!
@@ -53,3 +63,13 @@ Examples:
 - adding an attribute to an existing route.
 - exposing other readily available client data.
 - meta requests, adding some global parameter to the specs (`ETag`, `Accept-Encoding`, etc...).
+
+### [Request a new feature in the SDE](https://github.com/esi/esi-issues/issues/new?template=feature_request_sde.yaml)
+
+Some new data will require game design approval.
+Do not open duplicate feature requests!
+
+Examples:
+
+- adding a field to an existing data file.
+- exposing a new data file.
